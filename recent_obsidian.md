@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-05-27 09:40:35 IDT_
+_Updated: 2026-05-27 10:10:37 IDT_
 
 
 ## Routine G
@@ -12,7 +12,8 @@ _Updated: 2026-05-27 09:40:35 IDT_
 - 2026-05-26 23:03:36 · 🟢 green · 312/312 items click cleanly · 0 fails · 13038ms
 
 ## Routine J
-- 2026-05-26 23:03:57 · 🟢 green · 4 screenshots captured · 332K	logs/J_20260526_230353/01_bosses.png 456K	logs/J_20260526_230353/02_travincal_open.png 292K	logs/J_20260526_230353/03_calc_shako.png 264K	logs/J_20260526_230353/04_tz.png
+- 2026-05-26 23:03:57 · 🟢 green · 4 screenshots captured · 332K	logs/J_20260526_230353/01_bosses.png 456K	logs/J_20260526_230353/02_travincal_open.png 292K	logs/J_20260526_230353/03_calc_shako.png 264K	logs/J_20260526_230353/04_tz.png 
+- 2026-05-27 10:00:09 · 🟢 green · 4 screenshots captured · 332K	logs/J_20260527_100005/01_bosses.png 548K	logs/J_20260527_100005/02_travincal_open.png 312K	logs/J_20260527_100005/03_calc_shako.png 272K	logs/J_20260527_100005/04_tz.png
 
 ## Routine K
 - 2026-05-26 23:03:43 · 🟢 green · load 974ms · boss 58ms · sim2k 4510ms
@@ -32,14 +33,14 @@ _Updated: 2026-05-27 09:40:35 IDT_
 - 2026-05-27 02:19:36 · 🟢 green · shipped konyo_d2r_bible_v41.html -> FINAL.html
 
 ## Routine P
-- 2026-05-27 08:40:32 · 🟢 green · 15/14 fires today · 7/9 green
 - 2026-05-27 09:10:33 · 🟢 green · 15/14 fires today · 7/9 green
 - 2026-05-27 09:40:35 · 🟢 green · 15/14 fires today · 7/9 green
+- 2026-05-27 10:10:37 · 🟢 green · 16/14 fires today · 7/9 green
 
 ## Routine Q
-- 2026-05-27 07:10:12 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-05-27 08:10:13 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-05-27 09:10:13 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-05-27 10:10:13 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
 - 2026-05-27 04:37:24 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
