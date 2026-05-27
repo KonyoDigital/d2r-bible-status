@@ -1,8 +1,8 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-05-27 15:33:29 · pushed: 2026-05-27 15:50:53 IDT_
+_Snapshot generated: 2026-05-27 15:53:27 · pushed: 2026-05-27 15:53:27 IDT_
 
-**Total fires today**: 113 / 247 expected
+**Total fires today**: 130 / 262 expected
 **All green**: True
 
 ## Routines
@@ -18,10 +18,11 @@ _Snapshot generated: 2026-05-27 15:33:29 · pushed: 2026-05-27 15:50:53 IDT_
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | no patches needed |
 | N | 🟢 green | daily 23:30 | 2026-05-27 14:27:48 | 2/1 | rollup written (13149 bytes, 13 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 5/3 | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
-| P | 🟢 green | every 30min | 2026-05-27 15:02:59 | 44/48 | 108/247 fires today · 13/13 green |
+| P | 🟢 green | every 30min | 2026-05-27 15:33:29 | 45/48 | 113/247 fires today · 13/13 green |
 | Q | 🟢 green | every 1h | 2026-05-27 15:27:48 | 16/24 | 0 auto-fixes · 0 alerts |
 | R | 🟢 green | every 2h | 2026-05-27 14:27:59 | 8/12 | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-05-27 15:27:55 | 12/144 | polled issue #1 · processed 0 new comments · cursor (none) |
+| S | 🟢 green | every 10min | 2026-05-27 15:47:57 | 14/144 | polled issue #1 · processed 0 new comments · cursor (none) |
+| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-05-27 15:49:00 | 14/15 | F fired · severity=yellow · 3487/198 tok |
 
 ## What each routine does
 

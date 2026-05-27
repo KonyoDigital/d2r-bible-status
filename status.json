@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-27 15:33:29",
-  "total_fires_today": 113,
-  "total_expected_today": 247,
+  "generated_at": "2026-05-27 15:53:27",
+  "total_fires_today": 130,
+  "total_expected_today": 262,
   "all_green": true,
   "routines": {
     "G": {
@@ -97,10 +97,10 @@
     "P": {
       "id": "P",
       "status": "green",
-      "summary": "108/247 fires today \u00b7 13/13 green",
-      "last_run": "2026-05-27 15:02:59",
-      "fires_today": 44,
-      "fires_last_24h": 44,
+      "summary": "113/247 fires today \u00b7 13/13 green",
+      "last_run": "2026-05-27 15:33:29",
+      "fires_today": 45,
+      "fires_last_24h": 45,
       "expected_per_day": 48,
       "schedule": "every 30min"
     },
@@ -128,11 +128,21 @@
       "id": "S",
       "status": "green",
       "summary": "polled issue #1 \u00b7 processed 0 new comments \u00b7 cursor (none)",
-      "last_run": "2026-05-27 15:27:55",
-      "fires_today": 12,
-      "fires_last_24h": 12,
+      "last_run": "2026-05-27 15:47:57",
+      "fires_today": 14,
+      "fires_last_24h": 14,
       "expected_per_day": 144,
       "schedule": "every 10min"
+    },
+    "T": {
+      "id": "T",
+      "status": "green",
+      "summary": "F fired \u00b7 severity=yellow \u00b7 3487/198 tok",
+      "last_run": "2026-05-27 15:49:00",
+      "fires_today": 14,
+      "fires_last_24h": 14,
+      "expected_per_day": 15,
+      "schedule": "15\u00d7/day (A-F LLM proxy)"
     }
   }
 }
