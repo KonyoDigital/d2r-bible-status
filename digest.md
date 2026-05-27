@@ -1,8 +1,8 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-05-27 13:40:49 · pushed: 2026-05-27 13:40:49 IDT_
+_Snapshot generated: 2026-05-27 13:43:52 · pushed: 2026-05-27 13:43:52 IDT_
 
-**Total fires today**: 22 / 14 expected
+**Total fires today**: 72 / 242 expected
 **All green**: False
 
 ## Routines
@@ -18,6 +18,10 @@ _Snapshot generated: 2026-05-27 13:40:49 · pushed: 2026-05-27 13:40:49 IDT_
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | no patches needed |
 | N | ⚪ inactive | daily 23:30 | (never) | 0/1 | no runs yet |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 5 | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
+| P | 🟡 warn | every 30min | 2026-05-27 13:40:49 | 30/48 | 22/14 fires today · 7/9 green |
+| Q | 🟢 green | every 1h | 2026-05-27 13:10:13 | 13/24 | 0 auto-fixes · 0 alerts |
+| R | 🟢 green | every 2h | 2026-05-27 12:38:26 | 7/12 | all 7 smoke checks passed · live widget OK · screenshots saved |
+| S | ⚪ inactive | every 10min | (never) | 0/144 | no runs yet |
 
 ## What each routine does
 
