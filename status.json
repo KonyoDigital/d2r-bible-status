@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27 05:40:20",
-  "total_fires_today": 13,
+  "generated_at": "2026-05-27 06:10:21",
+  "total_fires_today": 14,
   "total_expected_today": 14,
   "all_green": true,
   "routines": {
@@ -47,10 +47,10 @@
     "K": {
       "id": "K",
       "status": "green",
-      "summary": "load 974ms \u00b7 boss 58ms \u00b7 sim2k 4510ms",
-      "last_run": "2026-05-26 23:03:43",
-      "fires_today": 0,
-      "fires_last_24h": 1,
+      "summary": "load 1057ms \u00b7 boss 63ms \u00b7 sim2k 4512ms",
+      "last_run": "2026-05-27 06:02:13",
+      "fires_today": 1,
+      "fires_last_24h": 2,
       "expected_per_day": 4,
       "schedule": "every 6h"
     },
