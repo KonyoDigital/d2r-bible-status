@@ -1,18 +1,18 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-05-27 13:57:39 · pushed: 2026-05-27 14:00:26 IDT_
+_Snapshot generated: 2026-05-27 14:04:07 · pushed: 2026-05-27 14:04:07 IDT_
 
-**Total fires today**: 84 / 247 expected
-**All green**: False
+**Total fires today**: 86 / 247 expected
+**All green**: True
 
 ## Routines
 
 | ID | Status | Schedule | Last Run | Today | Summary |
 |----|--------|----------|----------|-------|---------|
-| I | 🟡 warn | daily 09:00 | 2026-05-27 13:10:59 | 1/1 | 132 passed · 3 failed (last good run · v42 tests, sync pulse fix applied) |
-| P | 🟡 warn | every 30min | 2026-05-27 13:50:17 | 37/48 | 81/247 fires today · 11/13 green |
+| P | 🟡 warn | every 30min | 2026-05-27 13:57:39 | 38/48 | 84/247 fires today · 11/13 green |
 | G | 🟢 green | every 6h | 2026-05-27 13:53:40 | 5/4 | 7/7 categories · 312/312 items · sim 3550ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-05-27 12:05:58 | 1/2 | 312/312 items click cleanly · 0 fails · 207645ms |
+| I | 🟢 green | daily 09:00 | 2026-05-27 14:04:00 | 2/1 | 134 passed · 0 failed · 1 skipped (10.2m natural launchd fire) |
 | J | 🟢 green | daily 10:00 | 2026-05-27 10:00:09 | 1/1 | 4 screenshots captured · 332K logs/J_20260527_100005/01_bosses.png 548K logs/J_2 |
 | K | 🟢 green | every 6h | 2026-05-27 12:20:33 | 3/4 | skipped · system load 8.77 too high (>4) |
 | L | 🟢 green | daily 10:30 | 2026-05-27 10:30:07 | 7/3 | no drift · items=312 bosses=11 |
