@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-05-27 08:10:30 IDT_
+_Updated: 2026-05-27 08:40:32 IDT_
 
 
 ## Routine G
@@ -32,9 +32,9 @@ _Updated: 2026-05-27 08:10:30 IDT_
 - 2026-05-27 02:19:36 · 🟢 green · shipped konyo_d2r_bible_v41.html -> FINAL.html
 
 ## Routine P
-- 2026-05-27 07:10:24 · 🟢 green · 14/14 fires today · 7/9 green
 - 2026-05-27 07:40:29 · 🟢 green · 14/14 fires today · 7/9 green
 - 2026-05-27 08:10:30 · 🟢 green · 15/14 fires today · 7/9 green
+- 2026-05-27 08:40:32 · 🟢 green · 15/14 fires today · 7/9 green
 
 ## Routine Q
 - 2026-05-27 06:10:12 · 🟢 green · 0 auto-fixes · 0 alerts
@@ -42,6 +42,6 @@ _Updated: 2026-05-27 08:10:30 IDT_
 - 2026-05-27 08:10:13 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
-- 2026-05-27 02:37:14 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-05-27 04:37:24 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-05-27 06:37:34 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
+- 2026-05-27 08:37:44 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
