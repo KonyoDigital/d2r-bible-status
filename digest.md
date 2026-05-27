@@ -1,9 +1,9 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-05-27 13:10:47 · pushed: 2026-05-27 13:13:34 IDT_
+_Snapshot generated: 2026-05-27 13:20:09 · pushed: 2026-05-27 13:20:09 IDT_
 
-**Total fires today**: 20 / 14 expected
-**All green**: True
+**Total fires today**: 22 / 14 expected
+**All green**: False
 
 ## Routines
 
@@ -11,13 +11,13 @@ _Snapshot generated: 2026-05-27 13:10:47 · pushed: 2026-05-27 13:13:34 IDT_
 |----|--------|----------|----------|-------|---------|
 | G | 🟢 green | every 6h | 2026-05-27 07:52:34 | 4/4 | 7/7 categories · 312/312 items · sim 3509ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-05-27 12:05:58 | 1/2 | 312/312 items click cleanly · 0 fails · 207645ms |
-| I | ⚪ inactive | daily 09:00 | (never) | 0/1 | no runs yet |
+| I | 🟡 warn | daily 09:00 | 2026-05-27 13:10:59 | 1/1 | 132 passed · 3 failed (last good run · v42 tests, sync pulse fix applied) |
 | J | 🟢 green | daily 10:00 | 2026-05-27 10:00:09 | 1/1 | 4 screenshots captured · 332K	logs/J_20260527_100005/01_bosses.png 548K	logs/J_2 |
 | K | 🟢 green | every 6h | 2026-05-27 12:20:33 | 3/4 | skipped · system load 8.77 too high (>4) |
 | L | 🟢 green | daily 10:30 | 2026-05-27 10:30:07 | 7/1 | no drift · items=312 bosses=11 |
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | no patches needed |
 | N | ⚪ inactive | daily 23:30 | (never) | 0/1 | no runs yet |
-| O | 🟢 green | manual | 2026-05-27 02:19:36 | 4 | shipped konyo_d2r_bible_v41.html -> FINAL.html |
+| O | 🟢 green | manual | 2026-05-27 13:13:21 | 5 | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
 
 ## What each routine does
 

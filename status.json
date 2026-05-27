@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-27 13:10:47",
-  "total_fires_today": 20,
+  "generated_at": "2026-05-27 13:20:09",
+  "total_fires_today": 22,
   "total_expected_today": 14,
-  "all_green": true,
+  "all_green": false,
   "routines": {
     "G": {
       "id": "G",
@@ -26,11 +26,11 @@
     },
     "I": {
       "id": "I",
-      "status": "inactive",
-      "summary": "no runs yet",
-      "last_run": null,
-      "fires_today": 0,
-      "fires_last_24h": 0,
+      "status": "warn",
+      "summary": "132 passed \u00b7 3 failed (last good run \u00b7 v42 tests, sync pulse fix applied)",
+      "last_run": "2026-05-27 13:10:59",
+      "fires_today": 1,
+      "fires_last_24h": 1,
       "expected_per_day": 1,
       "schedule": "daily 09:00"
     },
@@ -87,10 +87,10 @@
     "O": {
       "id": "O",
       "status": "green",
-      "summary": "shipped konyo_d2r_bible_v41.html -> FINAL.html",
-      "last_run": "2026-05-27 02:19:36",
-      "fires_today": 4,
-      "fires_last_24h": 7,
+      "summary": "v42 shipped \u2014 command palette + runewords + recently-viewed + TZ countdown",
+      "last_run": "2026-05-27 13:13:21",
+      "fires_today": 5,
+      "fires_last_24h": 8,
       "expected_per_day": 0,
       "schedule": "manual"
     }
