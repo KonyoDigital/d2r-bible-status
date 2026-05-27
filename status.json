@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27 13:46:37",
-  "total_fires_today": 77,
+  "generated_at": "2026-05-27 13:49:14",
+  "total_fires_today": 80,
   "total_expected_today": 242,
   "all_green": false,
   "routines": {
@@ -76,11 +76,11 @@
     },
     "N": {
       "id": "N",
-      "status": "inactive",
-      "summary": "no runs yet",
-      "last_run": null,
-      "fires_today": 0,
-      "fires_last_24h": 0,
+      "status": "green",
+      "summary": "rollup written (10975 bytes, 13 routines)",
+      "last_run": "2026-05-27 13:49:09",
+      "fires_today": 1,
+      "fires_last_24h": 1,
       "expected_per_day": 1,
       "schedule": "daily 23:30"
     },
@@ -97,10 +97,10 @@
     "P": {
       "id": "P",
       "status": "warn",
-      "summary": "76/242 fires today \u00b7 10/13 green",
-      "last_run": "2026-05-27 13:46:33",
-      "fires_today": 34,
-      "fires_last_24h": 34,
+      "summary": "77/242 fires today \u00b7 10/13 green",
+      "last_run": "2026-05-27 13:46:37",
+      "fires_today": 35,
+      "fires_last_24h": 35,
       "expected_per_day": 48,
       "schedule": "every 30min"
     },
@@ -108,9 +108,9 @@
       "id": "Q",
       "status": "green",
       "summary": "0 auto-fixes \u00b7 0 alerts",
-      "last_run": "2026-05-27 13:10:13",
-      "fires_today": 13,
-      "fires_last_24h": 13,
+      "last_run": "2026-05-27 13:48:10",
+      "fires_today": 14,
+      "fires_last_24h": 14,
       "expected_per_day": 24,
       "schedule": "every 1h"
     },
