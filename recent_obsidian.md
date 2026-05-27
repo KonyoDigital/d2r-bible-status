@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-05-27 10:10:37 IDT_
+_Updated: 2026-05-27 10:40:39 IDT_
 
 
 ## Routine G
@@ -20,9 +20,9 @@ _Updated: 2026-05-27 10:10:37 IDT_
 - 2026-05-27 06:02:13 · 🟢 green · load 1057ms · boss 63ms · sim2k 4512ms
 
 ## Routine L
-- 2026-05-27 01:14:03 · 🟢 green · no drift · items=312 bosses=11
 - 2026-05-27 01:51:29 · 🟢 green · no drift · items=312 bosses=11
 - 2026-05-27 02:19:36 · 🟢 green · no drift · items=312 bosses=11
+- 2026-05-27 10:30:07 · 🟢 green · no drift · items=312 bosses=11
 
 ## Routine M
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
@@ -33,9 +33,9 @@ _Updated: 2026-05-27 10:10:37 IDT_
 - 2026-05-27 02:19:36 · 🟢 green · shipped konyo_d2r_bible_v41.html -> FINAL.html
 
 ## Routine P
-- 2026-05-27 09:10:33 · 🟢 green · 15/14 fires today · 7/9 green
 - 2026-05-27 09:40:35 · 🟢 green · 15/14 fires today · 7/9 green
 - 2026-05-27 10:10:37 · 🟢 green · 16/14 fires today · 7/9 green
+- 2026-05-27 10:40:39 · 🟢 green · 17/14 fires today · 7/9 green
 
 ## Routine Q
 - 2026-05-27 08:10:13 · 🟢 green · 0 auto-fixes · 0 alerts
@@ -43,6 +43,6 @@ _Updated: 2026-05-27 10:10:37 IDT_
 - 2026-05-27 10:10:13 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
-- 2026-05-27 04:37:24 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-05-27 06:37:34 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-05-27 08:37:44 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
+- 2026-05-27 10:37:54 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
