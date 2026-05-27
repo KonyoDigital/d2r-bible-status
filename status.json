@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27 13:45:15",
-  "total_fires_today": 75,
+  "generated_at": "2026-05-27 13:46:33",
+  "total_fires_today": 76,
   "total_expected_today": 242,
   "all_green": false,
   "routines": {
@@ -97,10 +97,10 @@
     "P": {
       "id": "P",
       "status": "warn",
-      "summary": "74/242 fires today \u00b7 10/13 green",
-      "last_run": "2026-05-27 13:44:50",
-      "fires_today": 32,
-      "fires_last_24h": 32,
+      "summary": "75/242 fires today \u00b7 10/13 green",
+      "last_run": "2026-05-27 13:45:15",
+      "fires_today": 33,
+      "fires_last_24h": 33,
       "expected_per_day": 48,
       "schedule": "every 30min"
     },
