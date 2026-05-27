@@ -1,8 +1,8 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-05-28 01:52:06 · pushed: 2026-05-28 01:52:06 IDT_
+_Snapshot generated: 2026-05-28 02:22:07 · pushed: 2026-05-28 02:22:07 IDT_
 
-**Total fires today**: 17 / 262 expected
+**Total fires today**: 22 / 262 expected
 **All green**: False
 
 ## Routines
@@ -11,7 +11,7 @@ _Snapshot generated: 2026-05-28 01:52:06 · pushed: 2026-05-28 01:52:06 IDT_
 |----|--------|----------|----------|-------|---------|
 | I | 🟡 warn | daily 09:00 | 2026-05-27 18:36:25 | 0/1 | 140 passed · 3 failed · 1 skipped |
 | K | 🟡 warn | every 6h | 2026-05-27 20:28:47 | 0/4 | load 4201ms · boss 134ms · sim2k 4557ms · best-of-3 |
-| P | 🟡 warn | every 30min | 2026-05-28 01:22:04 | 3/48 | 12/262 fires today · 11/14 green |
+| P | 🟡 warn | every 30min | 2026-05-28 01:52:06 | 4/48 | 17/262 fires today · 11/14 green |
 | G | 🟢 green | every 6h | 2026-05-27 20:30:50 | 0/4 | 7/7 categories · 312/312 items · sim 3545ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-05-27 14:28:10 | 0/2 | 312/312 items click cleanly · 0 fails · 20216ms |
 | J | 🟢 green | daily 10:00 | 2026-05-27 14:29:31 | 0/1 | 4 screenshots captured · 336K logs/J_20260527_142928/01_bosses.png 548K logs/J_2 |
@@ -20,8 +20,8 @@ _Snapshot generated: 2026-05-28 01:52:06 · pushed: 2026-05-28 01:52:06 IDT_
 | N | 🟢 green | daily 23:30 | 2026-05-27 23:30:05 | 0/1 | rollup written (16021 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
 | Q | 🟢 green | every 1h | 2026-05-28 01:27:49 | 2/24 | 0 auto-fixes · 0 alerts |
-| R | 🟢 green | every 2h | 2026-05-28 00:17:36 | 1/12 | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-05-28 01:49:05 | 11/144 | polled issue #1 · processed 0 new comments · cursor (none) |
+| R | 🟢 green | every 2h | 2026-05-28 02:17:53 | 2/12 | all 7 smoke checks passed · live widget OK · screenshots saved |
+| S | 🟢 green | every 10min | 2026-05-28 02:19:08 | 14/144 | polled issue #1 · processed 0 new comments · cursor (none) |
 | T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-05-27 23:49:39 | 0/15 | D fired · severity=green · 3620/79 tok |
 
 ## What each routine does
