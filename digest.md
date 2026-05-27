@@ -1,15 +1,15 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-05-27 07:40:29 · pushed: 2026-05-27 07:40:29 IDT_
+_Snapshot generated: 2026-05-27 08:10:30 · pushed: 2026-05-27 08:10:30 IDT_
 
-**Total fires today**: 14 / 14 expected
+**Total fires today**: 15 / 14 expected
 **All green**: True
 
 ## Routines
 
 | ID | Status | Schedule | Last Run | Today | Summary |
 |----|--------|----------|----------|-------|---------|
-| G | 🟢 green | every 6h | 2026-05-27 01:53:57 | 3/4 | 7/7 categories · 312/312 items · sim 3506ms · 0 errors |
+| G | 🟢 green | every 6h | 2026-05-27 07:52:34 | 4/4 | 7/7 categories · 312/312 items · sim 3509ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-05-26 23:03:36 | 0/2 | 312/312 items click cleanly · 0 fails · 13038ms |
 | I | ⚪ inactive | daily 09:00 | (never) | 0/1 | no runs yet |
 | J | 🟢 green | daily 10:00 | 2026-05-26 23:03:57 | 0/1 | 4 screenshots captured · 332K	logs/J_20260526_230353/01_bosses.png 456K	logs/J_2 |

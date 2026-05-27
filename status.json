@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-27 07:40:29",
-  "total_fires_today": 14,
+  "generated_at": "2026-05-27 08:10:30",
+  "total_fires_today": 15,
   "total_expected_today": 14,
   "all_green": true,
   "routines": {
     "G": {
       "id": "G",
       "status": "green",
-      "summary": "7/7 categories \u00b7 312/312 items \u00b7 sim 3506ms \u00b7 0 errors",
-      "last_run": "2026-05-27 01:53:57",
-      "fires_today": 3,
-      "fires_last_24h": 5,
+      "summary": "7/7 categories \u00b7 312/312 items \u00b7 sim 3509ms \u00b7 0 errors",
+      "last_run": "2026-05-27 07:52:34",
+      "fires_today": 4,
+      "fires_last_24h": 6,
       "expected_per_day": 4,
       "schedule": "every 6h"
     },
