@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-05-27 13:10:47 IDT_
+_Updated: 2026-05-27 13:13:34 IDT_
 
 
 ## Routine G
@@ -11,6 +11,9 @@ _Updated: 2026-05-27 13:10:47 IDT_
 ## Routine H
 - 2026-05-26 23:03:36 · 🟢 green · 312/312 items click cleanly · 0 fails · 13038ms
 - 2026-05-27 12:05:58 · 🟢 green · 312/312 items click cleanly · 0 fails · 207645ms
+
+## Routine I
+- 2026-05-27 13:10:59 · 🟡 warn · 132 passed · 3 failed (last good run · v42 tests, sync pulse fix applied)
 
 ## Routine J
 - 2026-05-26 23:03:57 · 🟢 green · 4 screenshots captured · 332K	logs/J_20260526_230353/01_bosses.png 456K	logs/J_20260526_230353/02_travincal_open.png 292K	logs/J_20260526_230353/03_calc_shako.png 264K	logs/J_20260526_230353/04_tz.png 
@@ -30,9 +33,9 @@ _Updated: 2026-05-27 13:10:47 IDT_
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
 
 ## Routine O
-- 2026-05-27 00:50:32 · 🟢 green · shipped konyo_d2r_bible_v39.html -> FINAL.html
 - 2026-05-27 01:14:04 · 🟢 green · shipped konyo_d2r_bible_v40.html -> FINAL.html
 - 2026-05-27 02:19:36 · 🟢 green · shipped konyo_d2r_bible_v41.html -> FINAL.html
+- 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
 - 2026-05-27 12:10:43 · 🟡 warn · 19/14 fires today · 6/9 green
