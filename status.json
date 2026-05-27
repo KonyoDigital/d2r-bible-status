@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27 14:04:20",
-  "total_fires_today": 87,
+  "generated_at": "2026-05-27 14:04:21",
+  "total_fires_today": 89,
   "total_expected_today": 247,
   "all_green": true,
   "routines": {
@@ -27,10 +27,10 @@
     "I": {
       "id": "I",
       "status": "green",
-      "summary": "134 passed \u00b7 0 failed \u00b7 1 skipped (10.2m natural launchd fire)",
-      "last_run": "2026-05-27 14:04:00",
-      "fires_today": 2,
-      "fires_last_24h": 2,
+      "summary": "134 passed \u00b7 0 failed \u00b7 1 skipped",
+      "last_run": "2026-05-27 14:04:21",
+      "fires_today": 3,
+      "fires_last_24h": 3,
       "expected_per_day": 1,
       "schedule": "daily 09:00"
     },
@@ -97,10 +97,10 @@
     "P": {
       "id": "P",
       "status": "green",
-      "summary": "86/247 fires today \u00b7 12/13 green",
-      "last_run": "2026-05-27 14:04:07",
-      "fires_today": 39,
-      "fires_last_24h": 39,
+      "summary": "87/247 fires today \u00b7 13/13 green",
+      "last_run": "2026-05-27 14:04:20",
+      "fires_today": 40,
+      "fires_last_24h": 40,
       "expected_per_day": 48,
       "schedule": "every 30min"
     },
