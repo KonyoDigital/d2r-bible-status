@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-27 11:40:42",
-  "total_fires_today": 17,
+  "generated_at": "2026-05-27 12:10:43",
+  "total_fires_today": 19,
   "total_expected_today": 14,
-  "all_green": true,
+  "all_green": false,
   "routines": {
     "G": {
       "id": "G",
@@ -17,10 +17,10 @@
     "H": {
       "id": "H",
       "status": "green",
-      "summary": "312/312 items click cleanly \u00b7 0 fails \u00b7 13038ms",
-      "last_run": "2026-05-26 23:03:36",
-      "fires_today": 0,
-      "fires_last_24h": 1,
+      "summary": "312/312 items click cleanly \u00b7 0 fails \u00b7 207645ms",
+      "last_run": "2026-05-27 12:05:58",
+      "fires_today": 1,
+      "fires_last_24h": 2,
       "expected_per_day": 2,
       "schedule": "every 12h"
     },
@@ -46,11 +46,11 @@
     },
     "K": {
       "id": "K",
-      "status": "green",
-      "summary": "load 1057ms \u00b7 boss 63ms \u00b7 sim2k 4512ms",
-      "last_run": "2026-05-27 06:02:13",
-      "fires_today": 1,
-      "fires_last_24h": 2,
+      "status": "warn",
+      "summary": "load 15260ms \u00b7 boss 808ms \u00b7 sim2k 5285ms",
+      "last_run": "2026-05-27 12:02:51",
+      "fires_today": 2,
+      "fires_last_24h": 3,
       "expected_per_day": 4,
       "schedule": "every 6h"
     },
