@@ -1,6 +1,6 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-05-27 15:53:27 · pushed: 2026-05-27 15:55:38 IDT_
+_Snapshot generated: 2026-05-27 15:53:27 · pushed: 2026-05-27 15:58:05 IDT_
 
 **Total fires today**: 130 / 262 expected
 **All green**: True
@@ -38,11 +38,11 @@ _Snapshot generated: 2026-05-27 15:53:27 · pushed: 2026-05-27 15:55:38 IDT_
 - **P** — Status injector · this file's source; writes routine_status.json every 30min
 - **Q** — Self-heal watchdog · auto-fixes stale stderr, log bloat, missed fires, plist drift
 - **R** — Chrome smoke · real Chrome via CDP, takes screenshots, verifies live widget renders
-- **S** — Tracker poller · polls GitHub Issue #1 every 10min, relays Claude.ai routine status to Obsidian/Telegram
-- **T** — _(reserved)_
+- **S** — Tracker poller · polls GitHub Issue #1 every 10min, relays Claude.ai routine status to Obsidian/Telegram (legacy — claude.ai routines never wired due to missing GitHub connector)
+- **T** — Claude.ai routine proxy · runs the A-F prompts (System Pulse, Content Health am/pm, Daily Rollup, Drift Watch, Heal Insights, Meta-Health) via Anthropic API directly. 15×/day, writes to 90-ClaudeTracker/, Telegram on red
 
 ## Architecture
 
-Local launchd routines (G-S, 11 scheduled jobs covering audit/heal/poller pipelines) → Routine P collects status → bridge_push.py commits to this repo every 30min → Claude.ai Routines A-F (installed in desktop app Settings → Routines) fetch this digest, think about it, post 1-line tracker entries to Issue #1, which Routine S relays back to Obsidian + Telegram.
+Local launchd routines (G-T, 18 scheduled jobs covering audit/heal/poller/proxy pipelines) → Routine P collects status → bridge_push.py commits to this repo every 30min. Routine T runs the A-F observation prompts via Anthropic API directly, writing observations to obsidian_data/D2R-Bible/90-ClaudeTracker/ and sending Telegram alerts on severity=red. Routines G-R handle mechanical audits/health-checks; T handles LLM-driven pattern recognition + blind-spot analysis.
 
 Local handles mechanical work; Claude.ai handles pattern recognition + trend analysis.
