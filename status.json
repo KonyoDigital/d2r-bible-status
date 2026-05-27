@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27 15:53:27",
-  "total_fires_today": 130,
+  "generated_at": "2026-05-27 16:21:34",
+  "total_fires_today": 135,
   "total_expected_today": 262,
   "all_green": true,
   "routines": {
@@ -28,9 +28,9 @@
       "id": "I",
       "status": "green",
       "summary": "134 passed \u00b7 0 failed \u00b7 1 skipped",
-      "last_run": "2026-05-27 14:04:21",
-      "fires_today": 3,
-      "fires_last_24h": 3,
+      "last_run": "2026-05-27 16:13:38",
+      "fires_today": 4,
+      "fires_last_24h": 4,
       "expected_per_day": 1,
       "schedule": "daily 09:00"
     },
@@ -97,10 +97,10 @@
     "P": {
       "id": "P",
       "status": "green",
-      "summary": "113/247 fires today \u00b7 13/13 green",
-      "last_run": "2026-05-27 15:33:29",
-      "fires_today": 45,
-      "fires_last_24h": 45,
+      "summary": "130/262 fires today \u00b7 14/14 green",
+      "last_run": "2026-05-27 15:53:27",
+      "fires_today": 46,
+      "fires_last_24h": 46,
       "expected_per_day": 48,
       "schedule": "every 30min"
     },
@@ -128,9 +128,9 @@
       "id": "S",
       "status": "green",
       "summary": "polled issue #1 \u00b7 processed 0 new comments \u00b7 cursor (none)",
-      "last_run": "2026-05-27 15:47:57",
-      "fires_today": 14,
-      "fires_last_24h": 14,
+      "last_run": "2026-05-27 16:18:02",
+      "fires_today": 17,
+      "fires_last_24h": 17,
       "expected_per_day": 144,
       "schedule": "every 10min"
     },

@@ -1,8 +1,8 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-05-27 15:53:27 · pushed: 2026-05-27 15:58:05 IDT_
+_Snapshot generated: 2026-05-27 16:21:34 · pushed: 2026-05-27 16:21:34 IDT_
 
-**Total fires today**: 130 / 262 expected
+**Total fires today**: 135 / 262 expected
 **All green**: True
 
 ## Routines
@@ -11,17 +11,17 @@ _Snapshot generated: 2026-05-27 15:53:27 · pushed: 2026-05-27 15:58:05 IDT_
 |----|--------|----------|----------|-------|---------|
 | G | 🟢 green | every 6h | 2026-05-27 14:28:23 | 6/4 | 7/7 categories · 312/312 items · sim 3508ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-05-27 14:28:10 | 2/2 | 312/312 items click cleanly · 0 fails · 20216ms |
-| I | 🟢 green | daily 09:00 | 2026-05-27 14:04:21 | 3/1 | 134 passed · 0 failed · 1 skipped |
+| I | 🟢 green | daily 09:00 | 2026-05-27 16:13:38 | 4/1 | 134 passed · 0 failed · 1 skipped |
 | J | 🟢 green | daily 10:00 | 2026-05-27 14:29:31 | 3/1 | 4 screenshots captured · 336K logs/J_20260527_142928/01_bosses.png 548K logs/J_2 |
 | K | 🟢 green | every 6h | 2026-05-27 14:28:09 | 4/4 | load 1233ms · boss 58ms · sim2k 4513ms · best-of-3 |
 | L | 🟢 green | daily 10:30 | 2026-05-27 14:27:50 | 8/3 | no drift · items=312 bosses=11 |
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | no patches needed |
 | N | 🟢 green | daily 23:30 | 2026-05-27 14:27:48 | 2/1 | rollup written (13149 bytes, 13 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 5/3 | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
-| P | 🟢 green | every 30min | 2026-05-27 15:33:29 | 45/48 | 113/247 fires today · 13/13 green |
+| P | 🟢 green | every 30min | 2026-05-27 15:53:27 | 46/48 | 130/262 fires today · 14/14 green |
 | Q | 🟢 green | every 1h | 2026-05-27 15:27:48 | 16/24 | 0 auto-fixes · 0 alerts |
 | R | 🟢 green | every 2h | 2026-05-27 14:27:59 | 8/12 | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-05-27 15:47:57 | 14/144 | polled issue #1 · processed 0 new comments · cursor (none) |
+| S | 🟢 green | every 10min | 2026-05-27 16:18:02 | 17/144 | polled issue #1 · processed 0 new comments · cursor (none) |
 | T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-05-27 15:49:00 | 14/15 | F fired · severity=yellow · 3487/198 tok |
 
 ## What each routine does
