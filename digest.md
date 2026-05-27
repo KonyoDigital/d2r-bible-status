@@ -1,8 +1,8 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-05-27 20:51:49 · pushed: 2026-05-27 20:51:50 IDT_
+_Snapshot generated: 2026-05-27 21:21:51 · pushed: 2026-05-27 21:21:51 IDT_
 
-**Total fires today**: 185 / 262 expected
+**Total fires today**: 190 / 262 expected
 **All green**: False
 
 ## Routines
@@ -11,7 +11,7 @@ _Snapshot generated: 2026-05-27 20:51:49 · pushed: 2026-05-27 20:51:50 IDT_
 |----|--------|----------|----------|-------|---------|
 | I | 🟡 warn | daily 09:00 | 2026-05-27 18:36:25 | 7/1 | 140 passed · 3 failed · 1 skipped |
 | K | 🟡 warn | every 6h | 2026-05-27 20:28:47 | 5/4 | load 4201ms · boss 134ms · sim2k 4557ms · best-of-3 |
-| P | 🟡 warn | every 30min | 2026-05-27 20:21:48 | 55/48 | 178/262 fires today · 12/14 green |
+| P | 🟡 warn | every 30min | 2026-05-27 20:51:50 | 56/48 | 185/262 fires today · 11/14 green |
 | G | 🟢 green | every 6h | 2026-05-27 20:30:50 | 7/4 | 7/7 categories · 312/312 items · sim 3545ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-05-27 14:28:10 | 2/2 | 312/312 items click cleanly · 0 fails · 20216ms |
 | J | 🟢 green | daily 10:00 | 2026-05-27 14:29:31 | 3/1 | 4 screenshots captured · 336K logs/J_20260527_142928/01_bosses.png 548K logs/J_2 |
@@ -21,8 +21,8 @@ _Snapshot generated: 2026-05-27 20:51:49 · pushed: 2026-05-27 20:51:50 IDT_
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 5/3 | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
 | Q | 🟢 green | every 1h | 2026-05-27 20:27:49 | 21/24 | 0 auto-fixes · 0 alerts |
 | R | 🟢 green | every 2h | 2026-05-27 20:17:11 | 11/12 | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-05-27 20:48:33 | 44/144 | polled issue #1 · processed 0 new comments · cursor (none) |
-| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-05-27 15:49:00 | 14/15 | F fired · severity=yellow · 3487/198 tok |
+| S | 🟢 green | every 10min | 2026-05-27 21:18:37 | 47/144 | polled issue #1 · processed 0 new comments · cursor (none) |
+| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-05-27 21:00:09 | 15/15 | B-PM fired · severity=yellow · 3533/160 tok |
 
 ## What each routine does
 
