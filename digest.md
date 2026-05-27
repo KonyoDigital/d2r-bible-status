@@ -1,6 +1,6 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-05-27 13:45:15 · pushed: 2026-05-27 13:45:46 IDT_
+_Snapshot generated: 2026-05-27 13:45:15 · pushed: 2026-05-27 13:46:23 IDT_
 
 **Total fires today**: 75 / 242 expected
 **All green**: False
@@ -12,7 +12,7 @@ _Snapshot generated: 2026-05-27 13:45:15 · pushed: 2026-05-27 13:45:46 IDT_
 | G | 🟢 green | every 6h | 2026-05-27 07:52:34 | 4/4 | 7/7 categories · 312/312 items · sim 3509ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-05-27 12:05:58 | 1/2 | 312/312 items click cleanly · 0 fails · 207645ms |
 | I | 🟡 warn | daily 09:00 | 2026-05-27 13:10:59 | 1/1 | 132 passed · 3 failed (last good run · v42 tests, sync pulse fix applied) |
-| J | 🟢 green | daily 10:00 | 2026-05-27 10:00:09 | 1/1 | 4 screenshots captured · 332K	logs/J_20260527_100005/01_bosses.png 548K	logs/J_2 |
+| J | 🟢 green | daily 10:00 | 2026-05-27 10:00:09 | 1/1 | 4 screenshots captured · 332K logs/J_20260527_100005/01_bosses.png 548K logs/J_2 |
 | K | 🟢 green | every 6h | 2026-05-27 12:20:33 | 3/4 | skipped · system load 8.77 too high (>4) |
 | L | 🟢 green | daily 10:30 | 2026-05-27 10:30:07 | 7/1 | no drift · items=312 bosses=11 |
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | no patches needed |
@@ -37,9 +37,11 @@ _Snapshot generated: 2026-05-27 13:45:15 · pushed: 2026-05-27 13:45:46 IDT_
 - **P** — Status injector · this file's source; writes routine_status.json every 30min
 - **Q** — Self-heal watchdog · auto-fixes stale stderr, log bloat, missed fires, plist drift
 - **R** — Chrome smoke · real Chrome via CDP, takes screenshots, verifies live widget renders
+- **S** — Tracker poller · polls GitHub Issue #1 every 10min, relays Claude.ai routine status to Obsidian/Telegram
+- **T** — _(reserved)_
 
 ## Architecture
 
-Local launchd routines (G-R, scheduled) → Routine P collects status → bridge_push.py commits to this repo every 30min → Claude.ai Routines A-F fetch this digest, think about it, write 1-line tracker entries.
+Local launchd routines (G-S, 11 scheduled jobs covering audit/heal/poller pipelines) → Routine P collects status → bridge_push.py commits to this repo every 30min → Claude.ai Routines A-F (installed in desktop app Settings → Routines) fetch this digest, think about it, post 1-line tracker entries to Issue #1, which Routine S relays back to Obsidian + Telegram.
 
 Local handles mechanical work; Claude.ai handles pattern recognition + trend analysis.
