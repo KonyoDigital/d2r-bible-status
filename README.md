@@ -21,3 +21,13 @@ GitHub repo (this) <-- Claude.ai Routines A-F fetch via web_fetch
                               |
                               v Claude writes 1-line tracker entry per fire
 ```
+
+## Related repo
+
+**Dev / test / regression** (private — char setup, MF stats, machine paths):
+[KonyoDigital/d2r-bible-tests](https://github.com/KonyoDigital/d2r-bible-tests) ·
+contains `bible_routes.html` + 18 Playwright spec files.
+
+Concern split:
+- **this repo** (public) — status feed Routines A–F web_fetch
+- **d2r-bible-tests** (private) — dev/CI/regression harness
