@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28 23:29:53",
-  "total_fires_today": 243,
+  "generated_at": "2026-05-28 23:59:55",
+  "total_fires_today": 250,
   "total_expected_today": 262,
   "all_green": false,
   "routines": {
@@ -77,9 +77,9 @@
     "N": {
       "id": "N",
       "status": "green",
-      "summary": "rollup written (16021 bytes, 14 routines)",
-      "last_run": "2026-05-27 23:30:05",
-      "fires_today": 0,
+      "summary": "rollup written (14393 bytes, 14 routines)",
+      "last_run": "2026-05-28 23:30:04",
+      "fires_today": 1,
       "fires_last_24h": 1,
       "expected_per_day": 1,
       "schedule": "daily 23:30"
@@ -97,9 +97,9 @@
     "P": {
       "id": "P",
       "status": "warn",
-      "summary": "239/262 fires today \u00b7 12/14 green",
-      "last_run": "2026-05-28 22:59:51",
-      "fires_today": 47,
+      "summary": "243/262 fires today \u00b7 12/14 green",
+      "last_run": "2026-05-28 23:29:53",
+      "fires_today": 48,
       "fires_last_24h": 48,
       "expected_per_day": 48,
       "schedule": "every 30min"
@@ -108,9 +108,9 @@
       "id": "Q",
       "status": "green",
       "summary": "0 auto-fixes \u00b7 0 alerts",
-      "last_run": "2026-05-28 22:58:45",
-      "fires_today": 23,
-      "fires_last_24h": 23,
+      "last_run": "2026-05-28 23:58:46",
+      "fires_today": 24,
+      "fires_last_24h": 24,
       "expected_per_day": 24,
       "schedule": "every 1h"
     },
@@ -128,8 +128,8 @@
       "id": "S",
       "status": "green",
       "summary": "polled issue #1 \u00b7 processed 0 new comments \u00b7 cursor (none)",
-      "last_run": "2026-05-28 23:20:28",
-      "fires_today": 139,
+      "last_run": "2026-05-28 23:50:31",
+      "fires_today": 142,
       "fires_last_24h": 142,
       "expected_per_day": 144,
       "schedule": "every 10min"
@@ -137,9 +137,9 @@
     "T": {
       "id": "T",
       "status": "green",
-      "summary": "B-PM fired \u00b7 severity=green \u00b7 3568/101 tok",
-      "last_run": "2026-05-28 21:00:09",
-      "fires_today": 12,
+      "summary": "D fired \u00b7 severity=green \u00b7 3657/80 tok",
+      "last_run": "2026-05-28 23:58:51",
+      "fires_today": 13,
       "fires_last_24h": 13,
       "expected_per_day": 15,
       "schedule": "15\u00d7/day (A-F LLM proxy)"
