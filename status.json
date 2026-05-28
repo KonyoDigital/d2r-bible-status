@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28 14:29:19",
-  "total_fires_today": 151,
+  "generated_at": "2026-05-28 14:59:21",
+  "total_fires_today": 156,
   "total_expected_today": 262,
   "all_green": false,
   "routines": {
@@ -40,7 +40,7 @@
       "summary": "4 screenshots captured \u00b7 336K logs/J_20260528_100006/01_bosses.png 548K logs/J_20260528_100006/02_travincal_open.png 252K logs/J_20260528_10",
       "last_run": "2026-05-28 10:00:10",
       "fires_today": 1,
-      "fires_last_24h": 2,
+      "fires_last_24h": 1,
       "expected_per_day": 1,
       "schedule": "daily 10:00"
     },
@@ -97,9 +97,9 @@
     "P": {
       "id": "P",
       "status": "warn",
-      "summary": "145/262 fires today \u00b7 12/14 green",
-      "last_run": "2026-05-28 13:59:17",
-      "fires_today": 29,
+      "summary": "151/262 fires today \u00b7 11/14 green",
+      "last_run": "2026-05-28 14:29:19",
+      "fires_today": 30,
       "fires_last_24h": 49,
       "expected_per_day": 48,
       "schedule": "every 30min"
@@ -108,9 +108,9 @@
       "id": "Q",
       "status": "green",
       "summary": "0 auto-fixes \u00b7 0 alerts",
-      "last_run": "2026-05-28 13:58:44",
-      "fires_today": 14,
-      "fires_last_24h": 23,
+      "last_run": "2026-05-28 14:58:44",
+      "fires_today": 15,
+      "fires_last_24h": 24,
       "expected_per_day": 24,
       "schedule": "every 1h"
     },
@@ -128,8 +128,8 @@
       "id": "S",
       "status": "green",
       "summary": "polled issue #1 \u00b7 processed 0 new comments \u00b7 cursor (none)",
-      "last_run": "2026-05-28 14:19:26",
-      "fires_today": 85,
+      "last_run": "2026-05-28 14:49:29",
+      "fires_today": 88,
       "fires_last_24h": 142,
       "expected_per_day": 144,
       "schedule": "every 10min"
