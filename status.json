@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28 04:22:13",
-  "total_fires_today": 46,
+  "generated_at": "2026-05-28 04:52:14",
+  "total_fires_today": 51,
   "total_expected_today": 262,
   "all_green": false,
   "routines": {
@@ -97,9 +97,9 @@
     "P": {
       "id": "P",
       "status": "warn",
-      "summary": "41/262 fires today \u00b7 11/14 green",
-      "last_run": "2026-05-28 03:52:12",
-      "fires_today": 8,
+      "summary": "46/262 fires today \u00b7 11/14 green",
+      "last_run": "2026-05-28 04:22:13",
+      "fires_today": 9,
       "fires_last_24h": 61,
       "expected_per_day": 48,
       "schedule": "every 30min"
@@ -108,9 +108,9 @@
       "id": "Q",
       "status": "green",
       "summary": "0 auto-fixes \u00b7 0 alerts",
-      "last_run": "2026-05-28 03:27:50",
-      "fires_today": 4,
-      "fires_last_24h": 24,
+      "last_run": "2026-05-28 04:27:50",
+      "fires_today": 5,
+      "fires_last_24h": 25,
       "expected_per_day": 24,
       "schedule": "every 1h"
     },
@@ -120,7 +120,7 @@
       "summary": "all 7 smoke checks passed \u00b7 live widget OK \u00b7 screenshots saved",
       "last_run": "2026-05-28 04:18:09",
       "fires_today": 3,
-      "fires_last_24h": 13,
+      "fires_last_24h": 12,
       "expected_per_day": 12,
       "schedule": "every 2h"
     },
@@ -128,9 +128,9 @@
       "id": "S",
       "status": "green",
       "summary": "polled issue #1 \u00b7 processed 0 new comments \u00b7 cursor (none)",
-      "last_run": "2026-05-28 04:19:19",
-      "fires_today": 26,
-      "fires_last_24h": 89,
+      "last_run": "2026-05-28 04:49:22",
+      "fires_today": 29,
+      "fires_last_24h": 92,
       "expected_per_day": 144,
       "schedule": "every 10min"
     },
