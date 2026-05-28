@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28 16:29:26",
-  "total_fires_today": 171,
+  "generated_at": "2026-05-28 16:59:28",
+  "total_fires_today": 176,
   "total_expected_today": 262,
   "all_green": false,
   "routines": {
@@ -97,9 +97,9 @@
     "P": {
       "id": "P",
       "status": "warn",
-      "summary": "166/262 fires today \u00b7 11/14 green",
-      "last_run": "2026-05-28 15:59:24",
-      "fires_today": 33,
+      "summary": "171/262 fires today \u00b7 11/14 green",
+      "last_run": "2026-05-28 16:29:26",
+      "fires_today": 34,
       "fires_last_24h": 48,
       "expected_per_day": 48,
       "schedule": "every 30min"
@@ -108,9 +108,9 @@
       "id": "Q",
       "status": "green",
       "summary": "0 auto-fixes \u00b7 0 alerts",
-      "last_run": "2026-05-28 15:58:44",
-      "fires_today": 16,
-      "fires_last_24h": 23,
+      "last_run": "2026-05-28 16:58:44",
+      "fires_today": 17,
+      "fires_last_24h": 24,
       "expected_per_day": 24,
       "schedule": "every 1h"
     },
@@ -126,10 +126,10 @@
     },
     "S": {
       "id": "S",
-      "status": "warn",
-      "summary": "fetch failed: /opt/homebrew/bin/gh api repos/KonyoDigital/d2r-bible-status/issues/1/comments --paginate: gh: HTTP 404",
-      "last_run": "2026-05-28 16:19:39",
-      "fires_today": 97,
+      "status": "green",
+      "summary": "polled issue #1 \u00b7 processed 0 new comments \u00b7 cursor (none)",
+      "last_run": "2026-05-28 16:49:42",
+      "fires_today": 100,
       "fires_last_24h": 142,
       "expected_per_day": 144,
       "schedule": "every 10min"

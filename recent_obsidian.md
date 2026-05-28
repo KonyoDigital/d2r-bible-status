@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-05-28 16:29:26 IDT_
+_Updated: 2026-05-28 16:59:28 IDT_
 
 
 ## Routine G
@@ -47,14 +47,14 @@ _Updated: 2026-05-28 16:29:26 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-05-28 15:29:23 · 🟡 warn · 160/262 fires today · 11/14 green
 - 2026-05-28 15:59:24 · 🟡 warn · 166/262 fires today · 11/14 green
 - 2026-05-28 16:29:26 · 🟡 warn · 171/262 fires today · 11/14 green
+- 2026-05-28 16:59:28 · 🟡 warn · 176/262 fires today · 12/14 green
 
 ## Routine Q
-- 2026-05-28 13:58:44 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-05-28 14:58:44 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-05-28 15:58:44 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-05-28 16:58:44 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
 - 2026-05-28 11:59:07 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-05-28 16:29:26 IDT_
 - 2026-05-28 15:59:45 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-05-28 15:59:37 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-05-28 16:09:38 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-05-28 16:19:39 · 🟡 warn · fetch failed: /opt/homebrew/bin/gh api repos/KonyoDigital/d2r-bible-status/issues/1/comments --paginate: gh: HTTP 404
+- 2026-05-28 16:29:40 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-05-28 16:39:41 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-05-28 16:49:42 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
