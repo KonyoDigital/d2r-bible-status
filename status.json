@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28 10:29:06",
-  "total_fires_today": 108,
+  "generated_at": "2026-05-28 10:59:07",
+  "total_fires_today": 114,
   "total_expected_today": 262,
   "all_green": false,
   "routines": {
@@ -58,8 +58,8 @@
       "id": "L",
       "status": "green",
       "summary": "no drift \u00b7 items=312 bosses=11",
-      "last_run": "2026-05-27 18:16:42",
-      "fires_today": 0,
+      "last_run": "2026-05-28 10:30:02",
+      "fires_today": 1,
       "fires_last_24h": 3,
       "expected_per_day": 3,
       "schedule": "daily 10:30"
@@ -97,9 +97,9 @@
     "P": {
       "id": "P",
       "status": "warn",
-      "summary": "102/262 fires today \u00b7 11/14 green",
-      "last_run": "2026-05-28 09:59:04",
-      "fires_today": 21,
+      "summary": "108/262 fires today \u00b7 11/14 green",
+      "last_run": "2026-05-28 10:29:06",
+      "fires_today": 22,
       "fires_last_24h": 62,
       "expected_per_day": 48,
       "schedule": "every 30min"
@@ -108,9 +108,9 @@
       "id": "Q",
       "status": "green",
       "summary": "0 auto-fixes \u00b7 0 alerts",
-      "last_run": "2026-05-28 09:58:43",
-      "fires_today": 10,
-      "fires_last_24h": 24,
+      "last_run": "2026-05-28 10:58:44",
+      "fires_today": 11,
+      "fires_last_24h": 25,
       "expected_per_day": 24,
       "schedule": "every 1h"
     },
@@ -120,7 +120,7 @@
       "summary": "all 7 smoke checks passed \u00b7 live widget OK \u00b7 screenshots saved",
       "last_run": "2026-05-28 09:58:56",
       "fires_today": 5,
-      "fires_last_24h": 12,
+      "fires_last_24h": 11,
       "expected_per_day": 12,
       "schedule": "every 2h"
     },
@@ -128,9 +128,9 @@
       "id": "S",
       "status": "green",
       "summary": "polled issue #1 \u00b7 processed 0 new comments \u00b7 cursor (none)",
-      "last_run": "2026-05-28 10:28:58",
-      "fires_today": 62,
-      "fires_last_24h": 125,
+      "last_run": "2026-05-28 10:59:02",
+      "fires_today": 65,
+      "fires_last_24h": 128,
       "expected_per_day": 144,
       "schedule": "every 10min"
     },
