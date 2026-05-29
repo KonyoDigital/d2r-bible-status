@@ -1,28 +1,28 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-05-29 06:25:37 · pushed: 2026-05-29 06:25:37 IDT_
+_Snapshot generated: 2026-05-29 18:46:11 · pushed: 2026-05-29 18:46:11 IDT_
 
-**Total fires today**: 13 / 262 expected
+**Total fires today**: 23 / 262 expected
 **All green**: False
 
 ## Routines
 
 | ID | Status | Schedule | Last Run | Today | Summary |
 |----|--------|----------|----------|-------|---------|
-| I | 🟡 warn | daily 09:00 | 2026-05-28 09:09:22 | 0/1 | 151 passed · 3 failed · 1 skipped |
-| P | 🟡 warn | every 30min | 2026-05-29 00:59:58 | 2/48 | 9/262 fires today · 12/14 green |
+| I | 🔴 red | daily 09:00 | 2026-05-29 18:38:36 | 1/1 | 108 passed · 9 failed · 1 skipped |
+| P | 🟡 warn | every 30min | 2026-05-29 06:25:37 | 3/48 | 13/262 fires today · 12/14 green |
+| Q | 🟡 warn | every 1h | 2026-05-29 18:46:11 | 2/24 | 5 auto-fixes · 1 alerts · fixed: [FIXED] G was stale (22h since, [FIXED] K was s |
+| T | 🟡 warn | 15×/day (A-F LLM proxy) | 2026-05-29 11:16:10 | 3/15 | API call failed for C: The read operation timed out |
 | G | 🟢 green | every 6h | 2026-05-28 20:00:44 | 0/4 | 7/7 categories · 312/312 items · sim 3508ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-05-28 19:59:01 | 0/2 | 312/312 items click cleanly · 0 fails · 15463ms |
-| J | 🟢 green | daily 10:00 | 2026-05-28 10:00:10 | 0/1 | 4 screenshots captured · 336K logs/J_20260528_100006/01_bosses.png 548K logs/J_2 |
+| J | 🟢 green | daily 10:00 | 2026-05-29 10:03:48 | 1/1 | 4 screenshots captured · 352K logs/J_20260529_100315/01_bosses.png 392K logs/J_2 |
 | K | 🟢 green | every 6h | 2026-05-28 19:59:04 | 0/4 | load 1064ms · boss 57ms · sim2k 4510ms · best-of-3 |
 | L | 🟢 green | daily 10:30 | 2026-05-28 10:30:02 | 0/3 | no drift · items=312 bosses=11 |
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | no patches needed |
 | N | 🟢 green | daily 23:30 | 2026-05-28 23:30:04 | 0/1 | rollup written (14393 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
-| Q | 🟢 green | every 1h | 2026-05-29 00:58:46 | 1/24 | 0 auto-fixes · 0 alerts |
 | R | 🟢 green | every 2h | 2026-05-29 00:00:29 | 1/12 | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-05-29 01:20:42 | 9/144 | polled issue #1 · processed 0 new comments · cursor (none) |
-| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-05-28 23:58:51 | 0/15 | D fired · severity=green · 3657/80 tok |
+| S | 🟢 green | every 10min | 2026-05-29 18:38:11 | 12/144 | polled issue #1 · processed 0 new comments · cursor (none) |
 
 ## What each routine does
 
