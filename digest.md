@@ -1,8 +1,8 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-05-30 02:03:42 · pushed: 2026-05-30 02:03:42 IDT_
+_Snapshot generated: 2026-05-30 02:33:44 · pushed: 2026-05-30 02:33:44 IDT_
 
-**Total fires today**: 25 / 262 expected
+**Total fires today**: 29 / 262 expected
 **All green**: False
 
 ## Routines
@@ -10,7 +10,7 @@ _Snapshot generated: 2026-05-30 02:03:42 · pushed: 2026-05-30 02:03:42 IDT_
 | ID | Status | Schedule | Last Run | Today | Summary |
 |----|--------|----------|----------|-------|---------|
 | I | 🔴 red | daily 09:00 | 2026-05-29 18:38:36 | 0/1 | 108 passed · 9 failed · 1 skipped |
-| P | 🟡 warn | every 30min | 2026-05-30 01:33:41 | 4/48 | 20/262 fires today · 11/14 green |
+| P | 🟡 warn | every 30min | 2026-05-30 02:03:42 | 5/48 | 25/262 fires today · 11/14 green |
 | T | 🟡 warn | 15×/day (A-F LLM proxy) | 2026-05-30 01:03:43 | 3/15 | A fired · severity=red · 3652/263 tok |
 | G | 🟢 green | every 6h | 2026-05-30 01:04:28 | 1/4 | 7/7 categories · 312/312 items · sim 3508ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-05-29 20:46:37 | 0/2 | 312/312 items click cleanly · 0 fails · 23369ms |
@@ -22,7 +22,7 @@ _Snapshot generated: 2026-05-30 02:03:42 · pushed: 2026-05-30 02:03:42 IDT_
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
 | Q | 🟢 green | every 1h | 2026-05-30 02:03:21 | 3/24 | 0 auto-fixes · 0 alerts |
 | R | 🟢 green | every 2h | 2026-05-30 01:04:09 | 1/12 | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-05-30 01:56:03 | 12/144 | polled issue #1 · processed 0 new comments · cursor (none) |
+| S | 🟢 green | every 10min | 2026-05-30 02:26:06 | 15/144 | polled issue #1 · processed 0 new comments · cursor (none) |
 
 ## What each routine does
 
