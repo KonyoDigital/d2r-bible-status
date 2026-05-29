@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29 20:16:16",
-  "total_fires_today": 41,
+  "generated_at": "2026-05-29 20:46:18",
+  "total_fires_today": 46,
   "total_expected_today": 262,
   "all_green": false,
   "routines": {
@@ -97,9 +97,9 @@
     "P": {
       "id": "P",
       "status": "warn",
-      "summary": "37/262 fires today \u00b7 11/14 green",
-      "last_run": "2026-05-29 19:46:15",
-      "fires_today": 6,
+      "summary": "41/262 fires today \u00b7 11/14 green",
+      "last_run": "2026-05-29 20:16:16",
+      "fires_today": 7,
       "fires_last_24h": 14,
       "expected_per_day": 48,
       "schedule": "every 30min"
@@ -107,10 +107,10 @@
     "Q": {
       "id": "Q",
       "status": "green",
-      "summary": "0 auto-fixes \u00b7 0 alerts",
-      "last_run": "2026-05-29 19:46:11",
-      "fires_today": 3,
-      "fires_last_24h": 7,
+      "summary": "1 auto-fixes \u00b7 0 alerts \u00b7 fixed: [FIXED] H was stale (24h since",
+      "last_run": "2026-05-29 20:46:12",
+      "fires_today": 4,
+      "fires_last_24h": 8,
       "expected_per_day": 24,
       "schedule": "every 1h"
     },
@@ -128,8 +128,8 @@
       "id": "S",
       "status": "green",
       "summary": "polled issue #1 \u00b7 processed 0 new comments \u00b7 cursor (none)",
-      "last_run": "2026-05-29 20:08:22",
-      "fires_today": 21,
+      "last_run": "2026-05-29 20:38:25",
+      "fires_today": 24,
       "fires_last_24h": 43,
       "expected_per_day": 144,
       "schedule": "every 10min"
