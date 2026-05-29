@@ -1,8 +1,8 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-05-29 19:16:13 · pushed: 2026-05-29 19:16:13 IDT_
+_Snapshot generated: 2026-05-29 19:46:15 · pushed: 2026-05-29 19:46:15 IDT_
 
-**Total fires today**: 32 / 262 expected
+**Total fires today**: 37 / 262 expected
 **All green**: False
 
 ## Routines
@@ -10,8 +10,7 @@ _Snapshot generated: 2026-05-29 19:16:13 · pushed: 2026-05-29 19:16:13 IDT_
 | ID | Status | Schedule | Last Run | Today | Summary |
 |----|--------|----------|----------|-------|---------|
 | I | 🔴 red | daily 09:00 | 2026-05-29 18:38:36 | 1/1 | 108 passed · 9 failed · 1 skipped |
-| P | 🟡 warn | every 30min | 2026-05-29 18:46:11 | 4/48 | 23/262 fires today · 10/14 green |
-| Q | 🟡 warn | every 1h | 2026-05-29 18:46:11 | 2/24 | 5 auto-fixes · 1 alerts · fixed: [FIXED] G was stale (22h since, [FIXED] K was s |
+| P | 🟡 warn | every 30min | 2026-05-29 19:16:13 | 5/48 | 32/262 fires today · 10/14 green |
 | T | 🟡 warn | 15×/day (A-F LLM proxy) | 2026-05-29 18:46:28 | 5/15 | A fired · severity=red · 3713/247 tok |
 | G | 🟢 green | every 6h | 2026-05-29 18:46:49 | 1/4 | 7/7 categories · 312/312 items · sim 3507ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-05-28 19:59:01 | 0/2 | 312/312 items click cleanly · 0 fails · 15463ms |
@@ -21,8 +20,9 @@ _Snapshot generated: 2026-05-29 19:16:13 · pushed: 2026-05-29 19:16:13 IDT_
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | no patches needed |
 | N | 🟢 green | daily 23:30 | 2026-05-28 23:30:04 | 0/1 | rollup written (14393 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
+| Q | 🟢 green | every 1h | 2026-05-29 19:46:11 | 3/24 | 0 auto-fixes · 0 alerts |
 | R | 🟢 green | every 2h | 2026-05-29 18:46:23 | 2/12 | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-05-29 19:08:14 | 15/144 | polled issue #1 · processed 0 new comments · cursor (none) |
+| S | 🟢 green | every 10min | 2026-05-29 19:38:17 | 18/144 | polled issue #1 · processed 0 new comments · cursor (none) |
 
 ## What each routine does
 
