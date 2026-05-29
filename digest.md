@@ -1,8 +1,8 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-05-29 23:03:33 · pushed: 2026-05-29 23:03:33 IDT_
+_Snapshot generated: 2026-05-29 23:33:35 · pushed: 2026-05-29 23:33:35 IDT_
 
-**Total fires today**: 67 / 262 expected
+**Total fires today**: 73 / 262 expected
 **All green**: False
 
 ## Routines
@@ -10,18 +10,18 @@ _Snapshot generated: 2026-05-29 23:03:33 · pushed: 2026-05-29 23:03:33 IDT_
 | ID | Status | Schedule | Last Run | Today | Summary |
 |----|--------|----------|----------|-------|---------|
 | I | 🔴 red | daily 09:00 | 2026-05-29 18:38:36 | 1/1 | 108 passed · 9 failed · 1 skipped |
-| P | 🟡 warn | every 30min | 2026-05-29 22:33:32 | 11/48 | 62/262 fires today · 12/14 green |
+| P | 🟡 warn | every 30min | 2026-05-29 23:03:33 | 12/48 | 67/262 fires today · 12/14 green |
 | G | 🟢 green | every 6h | 2026-05-29 18:46:49 | 1/4 | 7/7 categories · 312/312 items · sim 3507ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-05-29 20:46:37 | 1/2 | 312/312 items click cleanly · 0 fails · 23369ms |
 | J | 🟢 green | daily 10:00 | 2026-05-29 10:03:48 | 1/1 | 4 screenshots captured · 352K logs/J_20260529_100315/01_bosses.png 392K logs/J_2 |
 | K | 🟢 green | every 6h | 2026-05-29 18:46:32 | 1/4 | load 1156ms · boss 59ms · sim2k 4511ms · best-of-3 |
 | L | 🟢 green | daily 10:30 | 2026-05-28 10:30:02 | 0/3 | no drift · items=312 bosses=11 |
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | no patches needed |
-| N | 🟢 green | daily 23:30 | 2026-05-28 23:30:04 | 0/1 | rollup written (14393 bytes, 14 routines) |
+| N | 🟢 green | daily 23:30 | 2026-05-29 23:30:05 | 1/1 | rollup written (16748 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
 | Q | 🟢 green | every 1h | 2026-05-29 23:03:21 | 6/24 | 0 auto-fixes · 0 alerts |
-| R | 🟢 green | every 2h | 2026-05-29 20:46:36 | 3/12 | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-05-29 22:55:46 | 36/144 | polled issue #1 · processed 0 new comments · cursor (none) |
+| R | 🟢 green | every 2h | 2026-05-29 23:03:56 | 4/12 | all 7 smoke checks passed · live widget OK · screenshots saved |
+| S | 🟢 green | every 10min | 2026-05-29 23:25:48 | 39/144 | polled issue #1 · processed 0 new comments · cursor (none) |
 | T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-05-29 21:00:09 | 6/15 | B-PM fired · severity=green · 3636/115 tok |
 
 ## What each routine does
