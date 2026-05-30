@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-05-30 07:33:59 · pushed: 2026-05-30 07:33:59 IDT_
+_Snapshot generated: 2026-05-30 07:34:03 · pushed: 2026-05-30 07:34:03 IDT_
 
 **System health**: 🟢 HEALTHY
 **Attention (red / warn / stale / overdue)**: none — every routine green and on-schedule
-**Fires today**: 82 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Fires today**: 83 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -21,7 +21,7 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | on-schedule | no patches needed |
 | N | 🟢 green | daily 23:30 | 2026-05-29 23:30:05 | 0/1 | on-schedule | rollup written (16748 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
-| P | 🟢 green | every 30min | 2026-05-30 07:03:59 | 15/48 | on-schedule | 75/262 fires today · 13/14 green |
+| P | 🟢 green | every 30min | 2026-05-30 07:33:59 | 16/48 | on-schedule | system healthy · 14/14 green · 82 fires today (on pace) |
 | Q | 🟢 green | every 1h | 2026-05-30 07:03:23 | 8/24 | on-schedule | 0 auto-fixes · 0 alerts |
 | R | 🟢 green | every 2h | 2026-05-30 07:04:49 | 4/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
 | S | 🟢 green | every 10min | 2026-05-30 07:27:04 | 45/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
