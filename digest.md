@@ -1,16 +1,15 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-05-30 06:33:55 · pushed: 2026-05-30 06:33:56 IDT_
+_Snapshot generated: 2026-05-30 07:03:59 · pushed: 2026-05-30 07:03:59 IDT_
 
-**Total fires today**: 68 / 262 expected
-**All green**: False
+**Total fires today**: 75 / 262 expected
+**All green**: True
 
 ## Routines
 
 | ID | Status | Schedule | Last Run | Today | Summary |
 |----|--------|----------|----------|-------|---------|
-| P | 🟡 warn | every 30min | 2026-05-30 06:03:53 | 13/48 | 64/262 fires today · 12/14 green |
-| T | 🟡 warn | 15×/day (A-F LLM proxy) | 2026-05-30 01:03:43 | 3/15 | A fired · severity=red · 3652/263 tok |
+| P | 🟡 warn | every 30min | 2026-05-30 06:33:56 | 14/48 | 68/262 fires today · 12/14 green |
 | G | 🟢 green | every 6h | 2026-05-30 01:04:28 | 1/4 | 7/7 categories · 312/312 items · sim 3508ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-05-29 20:46:37 | 0/2 | 312/312 items click cleanly · 0 fails · 23369ms |
 | I | 🟢 green | daily 09:00 | 2026-05-30 03:17:04 | 1/1 | 171 passed · 0 failed · 1 skipped |
@@ -20,9 +19,10 @@ _Snapshot generated: 2026-05-30 06:33:55 · pushed: 2026-05-30 06:33:56 IDT_
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | no patches needed |
 | N | 🟢 green | daily 23:30 | 2026-05-29 23:30:05 | 0/1 | rollup written (16748 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
-| Q | 🟢 green | every 1h | 2026-05-30 06:03:22 | 7/24 | 0 auto-fixes · 0 alerts |
+| Q | 🟢 green | every 1h | 2026-05-30 07:03:23 | 8/24 | 0 auto-fixes · 0 alerts |
 | R | 🟢 green | every 2h | 2026-05-30 05:04:31 | 3/12 | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-05-30 06:26:34 | 39/144 | polled issue #1 · processed 0 new comments · cursor (none) |
+| S | 🟢 green | every 10min | 2026-05-30 06:56:39 | 42/144 | polled issue #1 · processed 0 new comments · cursor (none) |
+| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-05-30 07:03:48 | 5/15 | A fired · severity=yellow · 3658/160 tok |
 
 ## What each routine does
 
