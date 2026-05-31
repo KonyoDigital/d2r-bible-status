@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-06-01 00:06:01 · pushed: 2026-06-01 00:06:01 IDT_
+_Snapshot generated: 2026-06-01 00:36:02 · pushed: 2026-06-01 00:36:02 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
 **Attention (red / warn / stale / overdue)**: Q
-**Fires today**: 2 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Fires today**: 6 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -12,6 +12,7 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 
 | ID | Status | Schedule | Last Run | Today | Health | Summary |
 |----|--------|----------|----------|-------|--------|---------|
+| P | 🟡 warn | every 30min | 2026-06-01 00:06:01 | 1/48 | on-schedule | attention: Q · 13/14 green · 2 fires today |
 | Q | 🟡 warn | every 1h | 2026-06-01 00:03:28 | 1/24 | on-schedule | 0 auto-fixes · 1 alerts |
 | G | 🟢 green | every 6h | 2026-05-31 19:08:18 | 0/4 | on-schedule | 7/7 categories · 312/312 items · sim 3508ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-05-31 21:05:42 | 0/2 | on-schedule | 312/312 items click cleanly · 0 fails · 53297ms |
@@ -22,9 +23,8 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | on-schedule | no patches needed |
 | N | 🟢 green | daily 23:30 | 2026-05-31 23:30:05 | 0/1 | on-schedule | rollup written (16915 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
-| P | 🟢 green | every 30min | 2026-05-31 23:35:59 | 0/48 | on-schedule | system healthy · 14/14 green · 251 fires today (on pace) |
 | R | 🟢 green | every 2h | 2026-05-31 19:08:06 | 0/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-06-01 00:00:53 | 1/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| S | 🟢 green | every 10min | 2026-06-01 00:30:56 | 4/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
 | T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-05-31 21:00:06 | 0/15 | on-schedule | B-PM fired · severity=green · 3789/113 tok |
 
 ## What each routine does
