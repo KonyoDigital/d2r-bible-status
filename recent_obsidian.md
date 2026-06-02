@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-06-02 09:22:11 IDT_
+_Updated: 2026-06-02 10:05:04 IDT_
 
 
 ## Routine G
@@ -9,19 +9,19 @@ _Updated: 2026-06-02 09:22:11 IDT_
 - 2026-06-02 07:13:57 · 🟢 green · 7/7 categories · 312/312 items · sim 3507ms · 0 errors
 
 ## Routine H
-- 2026-05-31 21:05:42 · 🟢 green · 312/312 items click cleanly · 0 fails · 53297ms
 - 2026-06-01 09:06:13 · 🟢 green · 312/312 items click cleanly · 0 fails · 28956ms
 - 2026-06-01 21:06:29 · 🟢 green · 312/312 items click cleanly · 0 fails · 13429ms
+- 2026-06-02 10:04:06 · 🟢 green · 312/312 items click cleanly · 0 fails · 13418ms
 
 ## Routine I
-- 2026-05-30 09:06:37 · 🟢 green · 171 passed · 0 failed · 1 skipped
 - 2026-05-31 09:07:08 · 🟢 green · 171 passed · 0 failed · 1 skipped
 - 2026-06-01 09:10:22 · 🟡 warn · 189 passed · 1 failed · 1 skipped
+- 2026-06-02 09:38:36 · 🟡 warn · 278 passed · 2 failed · 1 skipped
 
 ## Routine J
-- 2026-05-30 10:00:07 · 🟢 green · 4 screenshots captured · 336K logs/J_20260530_100003/01_bosses.png 520K logs/J_20260530_100003/02_travincal_open.png 292K logs/J_20260530_100003/03_calc_shako.png 272K logs/J_20260530_100003/04_tz.png 
 - 2026-05-31 10:00:09 · 🟢 green · 4 screenshots captured · 336K logs/J_20260531_100005/01_bosses.png 552K logs/J_20260531_100005/02_travincal_open.png 312K logs/J_20260531_100005/03_calc_shako.png 272K logs/J_20260531_100005/04_tz.png 
-- 2026-06-01 10:00:08 · 🟢 green · 4 screenshots captured · 336K logs/J_20260601_100004/01_bosses.png 552K logs/J_20260601_100004/02_travincal_open.png 304K logs/J_20260601_100004/03_calc_shako.png 272K logs/J_20260601_100004/04_tz.png
+- 2026-06-01 10:00:08 · 🟢 green · 4 screenshots captured · 336K logs/J_20260601_100004/01_bosses.png 552K logs/J_20260601_100004/02_travincal_open.png 304K logs/J_20260601_100004/03_calc_shako.png 272K logs/J_20260601_100004/04_tz.png 
+- 2026-06-02 10:01:34 · 🟢 green · 4 screenshots captured · 336K logs/J_20260602_100130/01_bosses.png 524K logs/J_20260602_100130/02_travincal_open.png 292K logs/J_20260602_100130/03_calc_shako.png 272K logs/J_20260602_100130/04_tz.png
 
 ## Routine K
 - 2026-06-01 19:08:31 · 🟢 green · load 1010ms · boss 57ms · sim2k 4509ms · best-of-3
@@ -47,14 +47,14 @@ _Updated: 2026-06-02 09:22:11 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-06-02 07:37:38 · 🟡 warn · attention: I, Q, R · 11/14 green · 78 fires today
 - 2026-06-02 08:07:40 · 🟡 warn · attention: I, Q, R · 11/14 green · 83 fires today
 - 2026-06-02 09:22:10 · 🟡 warn · attention: I, Q, R, S, T · 9/14 green · 88 fires today
+- 2026-06-02 10:05:04 · 🟡 warn · attention: I, Q, R · 11/14 green · 97 fires today
 
 ## Routine Q
-- 2026-06-02 06:03:32 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-06-02 07:03:32 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-06-02 08:03:32 · 🟡 warn · 0 auto-fixes · 1 alerts
+- 2026-06-02 09:48:02 · 🟡 warn · 0 auto-fixes · 1 alerts
 
 ## Routine R
 - 2026-05-31 15:07:40 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-06-02 09:22:11 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-06-02 08:14:01 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-02 08:24:02 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-02 09:08:05 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: error connecting to api.g
+- 2026-06-02 09:28:47 · 🟡 warn · fetch failed: /opt/homebrew/bin/gh api repos/KonyoDigital/d2r-bible-status/issues/1/comments --paginate: Get "https://api.github.com/repos/KonyoDigital/d2
+- 2026-06-02 09:38:49 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-02 10:01:42 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
