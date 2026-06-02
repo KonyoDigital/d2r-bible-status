@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-06-02 06:07:33",
-  "total_fires_today": 61,
+  "generated_at": "2026-06-02 06:37:35",
+  "total_fires_today": 65,
   "total_expected_today": 262,
   "all_green": false,
   "system_healthy": false,
   "attention": [
     "I",
     "Q",
-    "R"
+    "R",
+    "T"
   ],
   "routines": {
     "G": {
@@ -19,10 +20,10 @@
       "fires_last_24h": 4,
       "expected_per_day": 4,
       "schedule": "every 6h",
-      "minutes_since_last": 294,
+      "minutes_since_last": 324,
       "stale": false,
       "overdue": false,
-      "expected_so_far": 1.0,
+      "expected_so_far": 1.1,
       "on_pace": true
     },
     "H": {
@@ -34,10 +35,10 @@
       "fires_last_24h": 2,
       "expected_per_day": 2,
       "schedule": "every 12h",
-      "minutes_since_last": 541,
+      "minutes_since_last": 571,
       "stale": false,
       "overdue": false,
-      "expected_so_far": 0.5,
+      "expected_so_far": 0.6,
       "on_pace": true
     },
     "I": {
@@ -49,7 +50,7 @@
       "fires_last_24h": 1,
       "expected_per_day": 1,
       "schedule": "daily 09:00",
-      "minutes_since_last": 1257,
+      "minutes_since_last": 1287,
       "stale": false,
       "overdue": false,
       "expected_so_far": null,
@@ -64,7 +65,7 @@
       "fires_last_24h": 1,
       "expected_per_day": 1,
       "schedule": "daily 10:00",
-      "minutes_since_last": 1207,
+      "minutes_since_last": 1237,
       "stale": false,
       "overdue": false,
       "expected_so_far": null,
@@ -79,10 +80,10 @@
       "fires_last_24h": 4,
       "expected_per_day": 4,
       "schedule": "every 6h",
-      "minutes_since_last": 299,
+      "minutes_since_last": 329,
       "stale": false,
       "overdue": false,
-      "expected_so_far": 1.0,
+      "expected_so_far": 1.1,
       "on_pace": true
     },
     "L": {
@@ -94,7 +95,7 @@
       "fires_last_24h": 1,
       "expected_per_day": 3,
       "schedule": "daily 10:30",
-      "minutes_since_last": 1177,
+      "minutes_since_last": 1207,
       "stale": false,
       "overdue": false,
       "expected_so_far": null,
@@ -109,7 +110,7 @@
       "fires_last_24h": 0,
       "expected_per_day": 0,
       "schedule": "manual",
-      "minutes_since_last": 9091,
+      "minutes_since_last": 9121,
       "stale": false,
       "overdue": false,
       "expected_so_far": null,
@@ -124,7 +125,7 @@
       "fires_last_24h": 1,
       "expected_per_day": 1,
       "schedule": "daily 23:30",
-      "minutes_since_last": 398,
+      "minutes_since_last": 428,
       "stale": false,
       "overdue": false,
       "expected_so_far": null,
@@ -139,7 +140,7 @@
       "fires_last_24h": 0,
       "expected_per_day": 3,
       "schedule": "manual",
-      "minutes_since_last": 8214,
+      "minutes_since_last": 8244,
       "stale": false,
       "overdue": false,
       "expected_so_far": null,
@@ -148,16 +149,16 @@
     "P": {
       "id": "P",
       "status": "warn",
-      "summary": "attention: I, Q, R \u00b7 11/14 green \u00b7 56 fires today",
-      "last_run": "2026-06-02 05:37:32",
-      "fires_today": 12,
+      "summary": "attention: I, Q, R \u00b7 11/14 green \u00b7 61 fires today",
+      "last_run": "2026-06-02 06:07:33",
+      "fires_today": 13,
       "fires_last_24h": 47,
       "expected_per_day": 48,
       "schedule": "every 30min",
       "minutes_since_last": 30,
       "stale": false,
       "overdue": false,
-      "expected_so_far": 12.2,
+      "expected_so_far": 13.2,
       "on_pace": true
     },
     "Q": {
@@ -169,10 +170,10 @@
       "fires_last_24h": 24,
       "expected_per_day": 24,
       "schedule": "every 1h",
-      "minutes_since_last": 4,
+      "minutes_since_last": 34,
       "stale": false,
       "overdue": false,
-      "expected_so_far": 6.1,
+      "expected_so_far": 6.6,
       "on_pace": true
     },
     "R": {
@@ -184,25 +185,25 @@
       "fires_last_24h": 0,
       "expected_per_day": 12,
       "schedule": "every 2h",
-      "minutes_since_last": 2099,
+      "minutes_since_last": 2129,
       "stale": true,
       "overdue": false,
-      "expected_so_far": 3.1,
+      "expected_so_far": 3.3,
       "on_pace": false
     },
     "S": {
       "id": "S",
       "status": "green",
       "summary": "polled issue #1 \u00b7 processed 0 new comments \u00b7 cursor (none)",
-      "last_run": "2026-06-02 06:03:49",
-      "fires_today": 37,
+      "last_run": "2026-06-02 06:33:52",
+      "fires_today": 40,
       "fires_last_24h": 144,
       "expected_per_day": 144,
       "schedule": "every 10min",
       "minutes_since_last": 4,
       "stale": false,
       "overdue": false,
-      "expected_so_far": 36.7,
+      "expected_so_far": 39.7,
       "on_pace": true
     },
     "T": {
@@ -214,11 +215,11 @@
       "fires_last_24h": 15,
       "expected_per_day": 15,
       "schedule": "15\u00d7/day (A-F LLM proxy)",
-      "minutes_since_last": 303,
-      "stale": false,
+      "minutes_since_last": 333,
+      "stale": true,
       "overdue": false,
-      "expected_so_far": 3.8,
-      "on_pace": true
+      "expected_so_far": 4.1,
+      "on_pace": false
     }
   }
 }
