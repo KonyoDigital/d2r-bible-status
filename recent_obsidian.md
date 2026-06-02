@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-06-02 10:05:04 IDT_
+_Updated: 2026-06-02 10:35:06 IDT_
 
 
 ## Routine G
@@ -29,9 +29,9 @@ _Updated: 2026-06-02 10:05:04 IDT_
 - 2026-06-02 07:08:50 · 🟢 green · load 1013ms · boss 57ms · sim2k 4507ms · best-of-3
 
 ## Routine L
-- 2026-05-30 10:30:04 · 🟢 green · no drift · items=312 bosses=11
 - 2026-05-31 10:30:07 · 🟢 green · no drift · items=312 bosses=11
 - 2026-06-01 10:30:07 · 🟢 green · no drift · items=312 bosses=11
+- 2026-06-02 10:30:07 · 🟢 green · no drift · items=312 bosses=11
 
 ## Routine M
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
@@ -47,9 +47,9 @@ _Updated: 2026-06-02 10:05:04 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-06-02 08:07:40 · 🟡 warn · attention: I, Q, R · 11/14 green · 83 fires today
 - 2026-06-02 09:22:10 · 🟡 warn · attention: I, Q, R, S, T · 9/14 green · 88 fires today
 - 2026-06-02 10:05:04 · 🟡 warn · attention: I, Q, R · 11/14 green · 97 fires today
+- 2026-06-02 10:35:06 · 🟡 warn · attention: I, Q, R · 11/14 green · 103 fires today
 
 ## Routine Q
 - 2026-06-02 07:03:32 · 🟡 warn · 0 auto-fixes · 1 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-06-02 10:05:04 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-06-02 09:28:47 · 🟡 warn · fetch failed: /opt/homebrew/bin/gh api repos/KonyoDigital/d2r-bible-status/issues/1/comments --paginate: Get "https://api.github.com/repos/KonyoDigital/d2
-- 2026-06-02 09:38:49 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-02 10:01:42 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-02 10:11:44 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-02 10:21:44 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-02 10:31:45 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
