@@ -1,12 +1,12 @@
 # Recent Routine History
 
-_Updated: 2026-06-03 21:14:01 IDT_
+_Updated: 2026-06-03 21:44:03 IDT_
 
 
 ## Routine G
-- 2026-06-03 03:20:58 · 🟢 green · 7/7 categories · 312/312 items · sim 3507ms · 0 errors
 - 2026-06-03 09:21:41 · 🟢 green · 7/7 categories · 312/312 items · sim 3506ms · 0 errors
 - 2026-06-03 15:22:23 · 🟢 green · 7/7 categories · 312/312 items · sim 3508ms · 0 errors
+- 2026-06-03 21:23:02 · 🟢 green · 7/7 categories · 312/312 items · sim 3508ms · 0 errors
 
 ## Routine H
 - 2026-06-02 10:04:06 · 🟢 green · 312/312 items click cleanly · 0 fails · 13418ms
@@ -24,9 +24,9 @@ _Updated: 2026-06-03 21:14:01 IDT_
 - 2026-06-03 10:00:08 · 🟢 green · 4 screenshots captured · 348K logs/J_20260603_100000/01_bosses.png 376K logs/J_20260603_100000/02_travincal_open.png 284K logs/J_20260603_100000/03_calc_shako.png 272K logs/J_20260603_100000/04_tz.png
 
 ## Routine K
-- 2026-06-03 03:13:55 · 🟢 green · load 1020ms · boss 57ms · sim2k 4509ms · best-of-3
 - 2026-06-03 09:13:55 · 🟢 green · skipped · system load 6.61 too high (>4)
 - 2026-06-03 15:14:19 · 🟢 green · load 1855ms · boss 61ms · sim2k 4512ms · best-of-3
+- 2026-06-03 21:14:39 · 🟢 green · load 1165ms · boss 58ms · sim2k 4511ms · best-of-3
 
 ## Routine L
 - 2026-06-01 10:30:07 · 🟢 green · no drift · items=312 bosses=11
@@ -47,9 +47,9 @@ _Updated: 2026-06-03 21:14:01 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-06-03 20:13:58 · 🟡 warn · attention: I, Q, R · 11/14 green · 205 fires today
 - 2026-06-03 20:44:00 · 🟡 warn · attention: I, Q, R · 11/14 green · 209 fires today
 - 2026-06-03 21:14:01 · 🟡 warn · attention: I, Q, R · 11/14 green · 217 fires today
+- 2026-06-03 21:44:03 · 🟡 warn · attention: I, Q, R · 11/14 green · 223 fires today
 
 ## Routine Q
 - 2026-06-03 19:08:02 · 🟡 warn · 0 auto-fixes · 1 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-06-03 21:14:01 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-06-03 20:52:33 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-03 21:02:34 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-03 21:12:34 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-03 21:22:36 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-03 21:32:37 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-03 21:42:39 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
