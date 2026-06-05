@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-06-05 11:46:04 IDT_
+_Updated: 2026-06-05 12:16:06 IDT_
 
 
 ## Routine G
@@ -47,14 +47,14 @@ _Updated: 2026-06-05 11:46:04 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-06-05 10:46:01 · 🟡 warn · attention: Q, R · 12/14 green · 110 fires today
 - 2026-06-05 11:16:03 · 🟡 warn · attention: Q, R · 12/14 green · 118 fires today
 - 2026-06-05 11:46:04 · 🟡 warn · attention: Q, R · 12/14 green · 122 fires today
+- 2026-06-05 12:16:06 · 🟡 warn · attention: Q, R · 12/14 green · 127 fires today
 
 ## Routine Q
-- 2026-06-05 09:08:09 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-06-05 10:08:09 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-06-05 11:08:09 · 🟡 warn · 0 auto-fixes · 1 alerts
+- 2026-06-05 12:08:09 · 🟡 warn · 0 auto-fixes · 1 alerts
 
 ## Routine R
 - 2026-05-31 15:07:40 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-06-05 11:46:04 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-06-05 11:16:37 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-05 11:26:37 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-05 11:36:38 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-05 11:46:50 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: HTTP 504: 504 Gateway Tim
+- 2026-06-05 11:56:51 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-05 12:06:52 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
