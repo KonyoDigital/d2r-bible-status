@@ -1,12 +1,12 @@
 # Recent Routine History
 
-_Updated: 2026-06-05 21:16:35 IDT_
+_Updated: 2026-06-05 21:46:37 IDT_
 
 
 ## Routine G
-- 2026-06-05 03:27:40 · 🟢 green · 7/7 categories · 312/312 items · sim 3507ms · 0 errors
 - 2026-06-05 09:28:23 · 🟢 green · 7/7 categories · 312/312 items · sim 3510ms · 0 errors
 - 2026-06-05 15:29:06 · 🟢 green · 7/7 categories · 312/312 items · sim 3511ms · 0 errors
+- 2026-06-05 21:29:48 · 🟢 green · 7/7 categories · 312/312 items · sim 3510ms · 0 errors
 
 ## Routine H
 - 2026-06-04 11:15:10 · 🟢 green · 312/312 items click cleanly · 0 fails · 26056ms
@@ -24,9 +24,9 @@ _Updated: 2026-06-05 21:16:35 IDT_
 - 2026-06-05 10:00:09 · 🟢 green · 4 screenshots captured · 336K logs/J_20260605_100005/01_bosses.png 520K logs/J_20260605_100005/02_travincal_open.png 248K logs/J_20260605_100005/03_calc_shako.png 272K logs/J_20260605_100005/04_tz.png
 
 ## Routine K
-- 2026-06-05 03:15:57 · 🟢 green · load 994ms · boss 57ms · sim2k 4509ms · best-of-3
 - 2026-06-05 09:15:58 · 🟢 green · skipped · system load 8.18 too high (>4)
 - 2026-06-05 15:16:18 · 🟢 green · load 1341ms · boss 59ms · sim2k 4513ms · best-of-3
+- 2026-06-05 21:16:40 · 🟢 green · load 1413ms · boss 60ms · sim2k 4515ms · best-of-3
 
 ## Routine L
 - 2026-06-03 10:30:07 · 🟢 green · no drift · items=312 bosses=11
@@ -47,9 +47,9 @@ _Updated: 2026-06-05 21:16:35 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-06-05 20:16:31 · 🟡 warn · attention: Q, R · 12/14 green · 204 fires today
 - 2026-06-05 20:46:33 · 🟡 warn · attention: Q, R · 12/14 green · 208 fires today
 - 2026-06-05 21:16:35 · 🟡 warn · attention: Q, R · 12/14 green · 216 fires today
+- 2026-06-05 21:46:37 · 🟡 warn · attention: Q, R · 12/14 green · 222 fires today
 
 ## Routine Q
 - 2026-06-05 19:08:11 · 🟡 warn · 0 auto-fixes · 1 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-06-05 21:16:35 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-06-05 20:47:47 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-05 20:57:48 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-05 21:07:49 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-05 21:17:50 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-05 21:27:51 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-05 21:37:52 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
