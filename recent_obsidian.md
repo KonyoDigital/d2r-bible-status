@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-06-07 11:18:31 IDT_
+_Updated: 2026-06-07 11:25:03 IDT_
 
 
 ## Routine G
@@ -47,9 +47,9 @@ _Updated: 2026-06-07 11:18:31 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-06-07 10:18:29 · 🟡 warn · attention: Q, R · 12/14 green · 106 fires today
 - 2026-06-07 10:48:30 · 🟡 warn · attention: Q, R · 12/14 green · 111 fires today
 - 2026-06-07 11:18:31 · 🟡 warn · attention: Q, R · 12/14 green · 119 fires today
+- 2026-06-07 11:25:03 · 🟡 warn · attention: Q, R · 12/14 green · 120 fires today
 
 ## Routine Q
 - 2026-06-07 09:08:15 · 🟡 warn · 0 auto-fixes · 1 alerts
