@@ -1,17 +1,17 @@
 # Recent Routine History
 
-_Updated: 2026-06-08 23:27:55 IDT_
+_Updated: 2026-06-08 23:57:58 IDT_
 
 
 ## Routine G
-- 2026-06-08 05:26:34 · 🟢 green · 7/7 categories · 312/312 items · sim 3508ms · 0 errors
 - 2026-06-08 11:27:18 · 🟢 green · 7/7 categories · 312/312 items · sim 3508ms · 0 errors
 - 2026-06-08 17:28:35 · 🟢 green · 7/7 categories · 312/312 items · sim 3542ms · 0 errors
+- 2026-06-08 23:31:09 · 🟢 green · 7/7 categories · 312/312 items · sim 3600ms · 0 errors
 
 ## Routine H
-- 2026-06-07 11:17:34 · 🟢 green · 312/312 items click cleanly · 0 fails · 20239ms
 - 2026-06-07 23:24:54 · 🟢 green · 312/312 items click cleanly · 0 fails · 19485ms
 - 2026-06-08 11:25:14 · 🟢 green · 312/312 items click cleanly · 0 fails · 17889ms
+- 2026-06-08 23:28:56 · 🟢 green · 312/312 items click cleanly · 0 fails · 198190ms
 
 ## Routine I
 - 2026-06-06 09:18:50 · 🟢 green · 403 passed · 0 failed · 1 skipped
@@ -37,9 +37,9 @@ _Updated: 2026-06-08 23:27:55 IDT_
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
 
 ## Routine N
-- 2026-06-05 23:30:05 · 🟢 green · rollup written (18947 bytes, 14 routines)
 - 2026-06-06 23:30:03 · 🟢 green · rollup written (19269 bytes, 14 routines)
 - 2026-06-07 23:30:05 · 🟢 green · rollup written (19651 bytes, 14 routines)
+- 2026-06-08 23:30:05 · 🟢 green · rollup written (18794 bytes, 14 routines)
 
 ## Routine O
 - 2026-05-27 01:14:04 · 🟢 green · shipped konyo_d2r_bible_v40.html -> FINAL.html
@@ -47,9 +47,9 @@ _Updated: 2026-06-08 23:27:55 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-06-08 22:27:45 · 🟡 warn · attention: Q, R · 12/14 green · 224 fires today
 - 2026-06-08 22:57:50 · 🟡 warn · attention: Q, R · 12/14 green · 228 fires today
 - 2026-06-08 23:27:55 · 🟡 warn · attention: Q, R · 12/14 green · 236 fires today
+- 2026-06-08 23:57:58 · 🟡 warn · attention: Q, R · 12/14 green · 243 fires today
 
 ## Routine Q
 - 2026-06-08 21:24:44 · 🟡 warn · 0 auto-fixes · 1 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-06-08 23:27:55 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-06-08 23:00:11 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-08 23:10:13 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-08 23:20:16 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-08 23:30:18 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-08 23:40:24 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-08 23:50:26 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
