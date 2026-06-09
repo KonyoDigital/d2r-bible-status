@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-06-09 10:28:35 IDT_
+_Updated: 2026-06-09 10:58:37 IDT_
 
 
 ## Routine G
@@ -29,9 +29,9 @@ _Updated: 2026-06-09 10:28:35 IDT_
 - 2026-06-09 05:26:23 · 🟢 green · load 976ms · boss 58ms · sim2k 4511ms · best-of-3
 
 ## Routine L
-- 2026-06-06 10:30:06 · 🟢 green · no drift · items=312 bosses=11
 - 2026-06-07 10:30:02 · 🟢 green · no drift · items=312 bosses=11
 - 2026-06-08 10:30:06 · 🟢 green · no drift · items=312 bosses=11
+- 2026-06-09 10:30:07 · 🟢 green · no drift · items=312 bosses=11
 
 ## Routine M
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
@@ -47,9 +47,9 @@ _Updated: 2026-06-09 10:28:35 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-06-09 09:28:32 · 🟡 warn · attention: Q, R · 12/14 green · 91 fires today
 - 2026-06-09 09:58:34 · 🟡 warn · attention: I, Q, R · 11/14 green · 96 fires today
 - 2026-06-09 10:28:35 · 🟡 warn · attention: I, Q, R · 11/14 green · 103 fires today
+- 2026-06-09 10:58:37 · 🟡 warn · attention: I, Q, R · 11/14 green · 108 fires today
 
 ## Routine Q
 - 2026-06-09 08:24:49 · 🟡 warn · 0 auto-fixes · 1 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-06-09 10:28:35 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-06-09 10:01:47 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-09 10:11:48 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-09 10:21:50 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-09 10:31:51 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-09 10:41:51 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-09 10:51:52 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
