@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-06-11 15:04:07 · pushed: 2026-06-11 15:04:10 IDT_
+_Snapshot generated: 2026-06-11 15:34:22 · pushed: 2026-06-11 15:34:22 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
 **Attention (red / warn / stale / overdue)**: Q, R, S
-**Fires today**: 149 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Fires today**: 154 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -12,9 +12,9 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 
 | ID | Status | Schedule | Last Run | Today | Health | Summary |
 |----|--------|----------|----------|-------|--------|---------|
-| P | 🟡 warn | every 30min | 2026-06-11 14:32:38 | 30/48 | on-schedule | attention: Q, R · 12/14 green · 146 fires today |
-| Q | 🟡 warn | every 1h | 2026-06-11 14:25:11 | 15/24 | on-schedule | 0 auto-fixes · 1 alerts |
-| S | 🟡 warn | every 10min | 2026-06-11 14:53:09 | 89/144 | on-schedule | gh CLI not ready: Command '/opt/homebrew/bin/gh issue list --repo KonyoDigital/d |
+| P | 🟡 warn | every 30min | 2026-06-11 15:04:07 | 31/48 | on-schedule | attention: Q, R, S · 11/14 green · 149 fires today |
+| Q | 🟡 warn | every 1h | 2026-06-11 15:25:55 | 16/24 | on-schedule | 0 auto-fixes · 1 alerts |
+| S | 🟡 warn | every 10min | 2026-06-11 15:27:43 | 92/144 | on-schedule | gh CLI not ready: Command '/opt/homebrew/bin/gh issue list --repo KonyoDigital/d |
 | G | 🟢 green | every 6h | 2026-06-11 05:42:10 | 1/4 | on-schedule | 7/7 categories · 312/312 items · sim 3508ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-06-11 11:33:38 | 1/2 | on-schedule | 312/312 items click cleanly · 0 fails · 53594ms |
 | I | 🟢 green | daily 09:00 | 2026-06-11 10:13:47 | 1/1 | on-schedule | 763 passed · 0 failed · 1 skipped |
