@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-06-19 05:33:52 IDT_
+_Updated: 2026-06-19 17:41:23 IDT_
 
 
 ## Routine G
@@ -19,19 +19,19 @@ _Updated: 2026-06-19 05:33:52 IDT_
 - 2026-06-18 09:33:50 · 🟡 warn · 940 passed · 1 failed · 5 skipped
 
 ## Routine J
-- 2026-06-16 10:00:08 · 🟢 green · 4 screenshots captured · 336K logs/J_20260616_100005/01_bosses.png 520K logs/J_20260616_100005/02_travincal_open.png 248K logs/J_20260616_100005/03_calc_shako.png 272K logs/J_20260616_100005/04_tz.png 
 - 2026-06-17 10:00:08 · 🟢 green · 4 screenshots captured · 336K logs/J_20260617_100004/01_bosses.png 548K logs/J_20260617_100004/02_travincal_open.png 304K logs/J_20260617_100004/03_calc_shako.png 272K logs/J_20260617_100004/04_tz.png 
-- 2026-06-18 10:00:09 · 🟢 green · 4 screenshots captured · 336K logs/J_20260618_100005/01_bosses.png 520K logs/J_20260618_100005/02_travincal_open.png 292K logs/J_20260618_100005/03_calc_shako.png 272K logs/J_20260618_100005/04_tz.png
+- 2026-06-18 10:00:09 · 🟢 green · 4 screenshots captured · 336K logs/J_20260618_100005/01_bosses.png 520K logs/J_20260618_100005/02_travincal_open.png 292K logs/J_20260618_100005/03_calc_shako.png 272K logs/J_20260618_100005/04_tz.png 
+- 2026-06-19 10:19:29 · 🟢 green · 4 screenshots captured · 348K logs/J_20260619_100745/01_bosses.png 348K logs/J_20260619_100745/02_travincal_open.png 252K logs/J_20260619_100745/03_calc_shako.png 272K logs/J_20260619_100745/04_tz.png
 
 ## Routine K
-- 2026-06-18 11:09:28 · 🟢 green · load 1062ms · boss 57ms · sim2k 4510ms · best-of-3
 - 2026-06-18 17:09:50 · 🟢 green · load 1277ms · boss 59ms · sim2k 4513ms · best-of-3
 - 2026-06-19 00:48:05 · 🟢 green · skipped · system load 13.64 too high (>4)
+- 2026-06-19 17:41:23 · 🟢 green · skipped · system load 8.33 too high (>4)
 
 ## Routine L
-- 2026-06-16 10:30:06 · 🟢 green · no drift · items=312 bosses=11
 - 2026-06-17 10:30:07 · 🟢 green · no drift · items=312 bosses=11
 - 2026-06-18 10:30:07 · 🟢 green · no drift · items=312 bosses=11
+- 2026-06-19 10:36:03 · 🟢 green · no drift · items=312 bosses=11
 
 ## Routine M
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
@@ -47,14 +47,14 @@ _Updated: 2026-06-19 05:33:52 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-06-19 02:20:24 · 🟡 warn · attention: I, Q, R · 11/14 green · 23 fires today
 - 2026-06-19 03:56:20 · 🟡 warn · attention: I, Q, R · 11/14 green · 28 fires today
 - 2026-06-19 05:33:52 · 🟡 warn · attention: I, Q, R, S · 11/14 green · 32 fires today
+- 2026-06-19 17:41:23 · 🟡 warn · attention: I, Q, R, S, T · 11/14 green · 42 fires today
 
 ## Routine Q
-- 2026-06-19 00:44:54 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-06-19 01:44:54 · 🟡 warn · 0 auto-fixes · 1 alerts
-- 2026-06-19 03:56:20 · 🟡 warn · 3 auto-fixes · 2 alerts · fixed: [FIXED] P was stale (1h since , [FIXED] Q was stale (2h since , [FIXED] S was stale (0h since
+- 2026-06-19 03:56:20 · 🟡 warn · 3 auto-fixes · 2 alerts · fixed: [FIXED] P was stale (1h since , [FIXED] Q was stale (2h since , [FIXED] S was stale (0h since 
+- 2026-06-19 17:41:23 · 🟡 warn · 6 auto-fixes · 2 alerts · fixed: [FIXED] G was stale (16h since, [FIXED] H was stale (24h since, [FIXED] K was stale (16h since...
 
 ## Routine R
 - 2026-05-31 15:07:40 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-06-19 05:33:52 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-06-19 03:56:21 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-19 04:14:41 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-19 04:28:12 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-19 05:33:54 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-19 08:34:15 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-19 16:25:14 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
