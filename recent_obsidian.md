@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-06-23 09:01:15 IDT_
+_Updated: 2026-06-23 09:31:17 IDT_
 
 
 ## Routine G
@@ -14,9 +14,9 @@ _Updated: 2026-06-23 09:01:15 IDT_
 - 2026-06-23 09:01:04 · 🟢 green · 312/312 items click cleanly · 0 fails · 19389ms
 
 ## Routine I
-- 2026-06-20 16:15:58 · 🔴 red · 903 passed · 7 failed · 5 skipped
 - 2026-06-21 09:31:08 · 🟡 warn · 942 passed · 1 failed · 5 skipped
 - 2026-06-22 09:33:08 · 🟢 green · 966 passed · 0 failed · 5 skipped
+- 2026-06-23 09:29:31 · 🟡 warn · 1007 passed · 1 failed · 5 skipped
 
 ## Routine J
 - 2026-06-20 10:13:38 · 🟢 green · 4 screenshots captured · 352K logs/J_20260620_101331/01_bosses.png 380K logs/J_20260620_101331/02_travincal_open.png 284K logs/J_20260620_101331/03_calc_shako.png 272K logs/J_20260620_101331/04_tz.png 
@@ -47,9 +47,9 @@ _Updated: 2026-06-23 09:01:15 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-06-23 08:01:12 · 🟡 warn · attention: Q, R · 12/14 green · 78 fires today
 - 2026-06-23 08:31:14 · 🟡 warn · attention: Q, R · 12/14 green · 82 fires today
 - 2026-06-23 09:01:15 · 🟡 warn · attention: Q, R · 12/14 green · 89 fires today
+- 2026-06-23 09:31:17 · 🟡 warn · attention: I, Q, R · 11/14 green · 94 fires today
 
 ## Routine Q
 - 2026-06-23 07:00:29 · 🟡 warn · 0 auto-fixes · 1 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-06-23 09:01:15 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-06-23 08:33:11 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-23 08:43:12 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-23 08:53:12 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-23 09:03:13 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-23 09:13:14 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-23 09:23:15 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
