@@ -1,12 +1,12 @@
 # Recent Routine History
 
-_Updated: 2026-06-25 17:42:36 IDT_
+_Updated: 2026-06-25 18:12:38 IDT_
 
 
 ## Routine G
-- 2026-06-24 17:16:59 · 🟢 green · 7/7 categories · 312/312 items · sim 3517ms · 0 errors
 - 2026-06-24 23:19:29 · 🟢 green · 7/7 categories · 312/312 items · sim 3522ms · 0 errors
 - 2026-06-25 11:42:23 · 🟢 green · 7/7 categories · 312/312 items · sim 3507ms · 0 errors
+- 2026-06-25 17:44:12 · 🟢 green · 7/7 categories · 312/312 items · sim 3547ms · 0 errors
 
 ## Routine H
 - 2026-06-23 21:02:03 · 🟢 green · 312/312 items click cleanly · 0 fails · 51844ms
@@ -24,9 +24,9 @@ _Updated: 2026-06-25 17:42:36 IDT_
 - 2026-06-25 10:00:06 · 🟢 green · 4 screenshots captured · 336K logs/J_20260625_100002/01_bosses.png 548K logs/J_20260625_100002/02_travincal_open.png 252K logs/J_20260625_100002/03_calc_shako.png 272K logs/J_20260625_100002/04_tz.png
 
 ## Routine K
-- 2026-06-24 17:11:54 · 🟢 green · skipped · system load 5.84 too high (>4)
 - 2026-06-24 23:11:54 · 🟢 green · skipped · system load 5.05 too high (>4)
 - 2026-06-25 11:42:10 · 🟢 green · load 1074ms · boss 57ms · sim2k 4509ms · best-of-3
+- 2026-06-25 17:42:43 · 🟡 warn · load 2986ms · boss 76ms · sim2k 4536ms · best-of-3
 
 ## Routine L
 - 2026-06-23 10:30:07 · 🟢 green · no drift · items=312 bosses=11
@@ -47,9 +47,9 @@ _Updated: 2026-06-25 17:42:36 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-06-25 16:42:32 · 🟡 warn · attention: I, Q, R · 11/14 green · 112 fires today
 - 2026-06-25 17:12:34 · 🟡 warn · attention: I, Q, R · 11/14 green · 116 fires today
 - 2026-06-25 17:42:36 · 🟡 warn · attention: I, Q, R · 11/14 green · 121 fires today
+- 2026-06-25 18:12:38 · 🟡 warn · attention: I, K, Q, R · 10/14 green · 127 fires today
 
 ## Routine Q
 - 2026-06-25 15:41:52 · 🟡 warn · 0 auto-fixes · 1 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-06-25 17:42:36 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-06-25 17:12:54 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-25 17:22:55 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-25 17:32:56 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-25 17:43:00 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-25 17:53:01 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-25 18:03:03 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
