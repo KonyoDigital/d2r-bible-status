@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-06-25 23:51:26 · pushed: 2026-06-25 23:51:26 IDT_
+_Snapshot generated: 2026-06-26 00:21:28 · pushed: 2026-06-26 00:21:28 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
 **Attention (red / warn / stale / overdue)**: I, K, Q, R
-**Fires today**: 164 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Fires today**: 2 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -12,20 +12,20 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 
 | ID | Status | Schedule | Last Run | Today | Health | Summary |
 |----|--------|----------|----------|-------|--------|---------|
-| I | 🔴 red | daily 09:00 | 2026-06-25 09:38:25 | 1/1 | on-schedule | 1044 passed · 12 failed · 5 skipped |
-| K | 🟡 warn | every 6h | 2026-06-25 17:42:43 | 2/4 | on-schedule | load 2986ms · boss 76ms · sim2k 4536ms · best-of-3 |
-| P | 🟡 warn | every 30min | 2026-06-25 22:17:51 | 34/48 | on-schedule | attention: I, K, Q, R · 10/14 green · 159 fires today |
-| Q | 🟡 warn | every 1h | 2026-06-25 23:51:26 | 17/24 | on-schedule | 3 auto-fixes · 2 alerts · fixed: [FIXED] H was stale (25h since, [FIXED] P was s |
-| G | 🟢 green | every 6h | 2026-06-25 17:44:12 | 2/4 | on-schedule | 7/7 categories · 312/312 items · sim 3547ms · 0 errors |
-| H | 🟢 green | every 12h | 2026-06-24 22:12:04 | 0/2 | on-schedule | 312/312 items click cleanly · 0 fails · 26100ms |
-| J | 🟢 green | daily 10:00 | 2026-06-25 10:00:06 | 1/1 | on-schedule | 4 screenshots captured · 336K logs/J_20260625_100002/01_bosses.png 548K logs/J_2 |
-| L | 🟢 green | daily 10:30 | 2026-06-25 10:30:06 | 1/3 | on-schedule | no drift · items=312 bosses=11 |
+| I | 🔴 red | daily 09:00 | 2026-06-25 09:38:25 | 0/1 | on-schedule | 1044 passed · 12 failed · 5 skipped |
+| K | 🟡 warn | every 6h | 2026-06-25 17:42:43 | 0/4 | on-schedule | load 2986ms · boss 76ms · sim2k 4536ms · best-of-3 |
+| P | 🟡 warn | every 30min | 2026-06-25 23:51:26 | 0/48 | on-schedule | attention: I, K, Q, R · 10/14 green · 164 fires today |
+| Q | 🟡 warn | every 1h | 2026-06-25 23:51:26 | 0/24 | on-schedule | 3 auto-fixes · 2 alerts · fixed: [FIXED] H was stale (25h since, [FIXED] P was s |
+| G | 🟢 green | every 6h | 2026-06-25 17:44:12 | 0/4 | on-schedule | 7/7 categories · 312/312 items · sim 3547ms · 0 errors |
+| H | 🟢 green | every 12h | 2026-06-25 23:52:06 | 0/2 | on-schedule | 312/312 items click cleanly · 0 fails · 35022ms |
+| J | 🟢 green | daily 10:00 | 2026-06-25 10:00:06 | 0/1 | on-schedule | 4 screenshots captured · 336K logs/J_20260625_100002/01_bosses.png 548K logs/J_2 |
+| L | 🟢 green | daily 10:30 | 2026-06-25 10:30:06 | 0/3 | on-schedule | no drift · items=312 bosses=11 |
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | on-schedule | no patches needed |
-| N | 🟢 green | daily 23:30 | 2026-06-25 23:31:47 | 1/1 | on-schedule | rollup written (18726 bytes, 14 routines) |
+| N | 🟢 green | daily 23:30 | 2026-06-25 23:31:47 | 0/1 | on-schedule | rollup written (18726 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
 | R | 🟢 green | every 2h | 2026-05-31 19:08:06 | 0/12 | ⏰ stale | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-06-25 23:41:40 | 98/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
-| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-06-25 21:00:07 | 7/15 | on-schedule | B-PM fired · severity=yellow · 3804/183 tok |
+| S | 🟢 green | every 10min | 2026-06-26 00:11:44 | 2/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-06-25 21:00:07 | 0/15 | on-schedule | B-PM fired · severity=yellow · 3804/183 tok |
 
 ## What each routine does
 
