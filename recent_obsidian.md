@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-06-27 21:19:31 IDT_
+_Updated: 2026-06-27 21:49:32 IDT_
 
 
 ## Routine G
@@ -47,14 +47,14 @@ _Updated: 2026-06-27 21:19:31 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-06-27 17:57:27 · 🟡 warn · attention: I, Q, R · 11/14 green · 51 fires today
 - 2026-06-27 19:49:29 · 🟡 warn · attention: I, Q, R · 11/14 green · 56 fires today
 - 2026-06-27 21:19:31 · 🟡 warn · attention: I, Q, R · 11/14 green · 61 fires today
+- 2026-06-27 21:49:32 · 🟡 warn · attention: I, Q, R · 11/14 green · 66 fires today
 
 ## Routine Q
-- 2026-06-27 15:52:43 · 🟡 warn · 3 auto-fixes · 1 alerts · fixed: [FIXED] G was stale (18h since, [FIXED] K was stale (18h since, [FIXED] Q was stale (13h since
 - 2026-06-27 17:26:03 · 🟡 warn · 2 auto-fixes · 2 alerts · fixed: [FIXED] P was stale (1h since , [FIXED] S was stale (0h since 
-- 2026-06-27 19:49:29 · 🟡 warn · 2 auto-fixes · 2 alerts · fixed: [FIXED] P was stale (1h since , [FIXED] Q was stale (2h since
+- 2026-06-27 19:49:29 · 🟡 warn · 2 auto-fixes · 2 alerts · fixed: [FIXED] P was stale (1h since , [FIXED] Q was stale (2h since 
+- 2026-06-27 21:49:29 · 🟡 warn · 2 auto-fixes · 1 alerts · fixed: [FIXED] H was stale (24h since, [FIXED] Q was stale (2h since
 
 ## Routine R
 - 2026-05-31 15:07:40 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-06-27 21:19:31 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-06-27 19:49:35 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-27 19:59:36 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-27 21:09:38 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-27 21:19:39 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-27 21:29:40 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-27 21:39:42 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
