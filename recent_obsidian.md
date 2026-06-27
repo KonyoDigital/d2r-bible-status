@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-06-27 23:19:58 IDT_
+_Updated: 2026-06-27 23:50:02 IDT_
 
 
 ## Routine G
@@ -37,9 +37,9 @@ _Updated: 2026-06-27 23:19:58 IDT_
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
 
 ## Routine N
-- 2026-06-24 23:30:04 · 🟢 green · rollup written (19125 bytes, 14 routines)
 - 2026-06-25 23:31:47 · 🟢 green · rollup written (18726 bytes, 14 routines)
 - 2026-06-26 23:30:03 · 🟢 green · rollup written (18902 bytes, 14 routines)
+- 2026-06-27 23:30:05 · 🟢 green · rollup written (17052 bytes, 14 routines)
 
 ## Routine O
 - 2026-05-27 01:14:04 · 🟢 green · shipped konyo_d2r_bible_v40.html -> FINAL.html
@@ -47,9 +47,9 @@ _Updated: 2026-06-27 23:19:58 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-06-27 22:19:52 · 🟡 warn · attention: I, Q, R · 11/14 green · 71 fires today
 - 2026-06-27 22:49:55 · 🟡 warn · attention: I, Q, R · 11/14 green · 75 fires today
 - 2026-06-27 23:19:57 · 🟡 warn · attention: I, Q, R · 11/14 green · 80 fires today
+- 2026-06-27 23:50:01 · 🟡 warn · attention: I, Q, R · 11/14 green · 85 fires today
 
 ## Routine Q
 - 2026-06-27 19:49:29 · 🟡 warn · 2 auto-fixes · 2 alerts · fixed: [FIXED] P was stale (1h since , [FIXED] Q was stale (2h since 
@@ -62,6 +62,6 @@ _Updated: 2026-06-27 23:19:58 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-06-27 22:59:39 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-27 23:09:40 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-27 23:19:42 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-27 23:29:44 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-27 23:39:45 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-27 23:49:46 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
