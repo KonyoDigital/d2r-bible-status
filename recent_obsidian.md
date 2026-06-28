@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-06-28 23:01:29 IDT_
+_Updated: 2026-06-28 23:31:30 IDT_
 
 
 ## Routine G
@@ -37,9 +37,9 @@ _Updated: 2026-06-28 23:01:29 IDT_
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
 
 ## Routine N
-- 2026-06-25 23:31:47 · 🟢 green · rollup written (18726 bytes, 14 routines)
 - 2026-06-26 23:30:03 · 🟢 green · rollup written (18902 bytes, 14 routines)
 - 2026-06-27 23:30:05 · 🟢 green · rollup written (17052 bytes, 14 routines)
+- 2026-06-28 23:30:02 · 🟢 green · rollup written (19086 bytes, 14 routines)
 
 ## Routine O
 - 2026-05-27 01:14:04 · 🟢 green · shipped konyo_d2r_bible_v40.html -> FINAL.html
@@ -47,9 +47,9 @@ _Updated: 2026-06-28 23:01:29 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-06-28 21:58:46 · 🟡 warn · attention: I, Q, R · 11/14 green · 156 fires today
 - 2026-06-28 22:28:48 · 🟡 warn · attention: I, Q, R · 11/14 green · 160 fires today
 - 2026-06-28 23:01:29 · 🟡 warn · attention: I, Q, R, S · 10/14 green · 167 fires today
+- 2026-06-28 23:31:30 · 🟡 warn · attention: I, Q, R · 11/14 green · 172 fires today
 
 ## Routine Q
 - 2026-06-28 20:58:06 · 🟡 warn · 0 auto-fixes · 1 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-06-28 23:01:29 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-06-28 22:30:08 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-28 22:40:09 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-28 22:52:34 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: error connecting to api.g
+- 2026-06-28 23:02:50 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-28 23:12:51 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-28 23:22:52 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
