@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-06-29 23:18:04 IDT_
+_Updated: 2026-06-29 23:48:06 IDT_
 
 
 ## Routine G
@@ -24,9 +24,9 @@ _Updated: 2026-06-29 23:18:04 IDT_
 - 2026-06-29 10:04:25 · 🟢 green · 4 screenshots captured · 336K logs/J_20260629_100420/01_bosses.png 520K logs/J_20260629_100420/02_travincal_open.png 284K logs/J_20260629_100420/03_calc_shako.png 272K logs/J_20260629_100420/04_tz.png
 
 ## Routine K
-- 2026-06-28 20:59:00 · 🟢 green · load 1014ms · boss 56ms · sim2k 4509ms · best-of-3
 - 2026-06-29 10:49:18 · 🟢 green · load 1039ms · boss 57ms · sim2k 4509ms · best-of-3
 - 2026-06-29 16:51:20 · 🟢 green · load 981ms · boss 59ms · sim2k 4512ms · best-of-3
+- 2026-06-29 23:47:23 · 🟢 green · skipped · system load 7.16 too high (>4)
 
 ## Routine L
 - 2026-06-27 10:41:12 · 🟢 green · no drift · items=312 bosses=11
@@ -37,9 +37,9 @@ _Updated: 2026-06-29 23:18:04 IDT_
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
 
 ## Routine N
-- 2026-06-26 23:30:03 · 🟢 green · rollup written (18902 bytes, 14 routines)
 - 2026-06-27 23:30:05 · 🟢 green · rollup written (17052 bytes, 14 routines)
 - 2026-06-28 23:30:02 · 🟢 green · rollup written (19086 bytes, 14 routines)
+- 2026-06-29 23:30:00 · 🟢 green · rollup written (18676 bytes, 14 routines)
 
 ## Routine O
 - 2026-05-27 01:14:04 · 🟢 green · shipped konyo_d2r_bible_v40.html -> FINAL.html
@@ -47,14 +47,14 @@ _Updated: 2026-06-29 23:18:04 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-06-29 22:06:10 · 🟡 warn · attention: I, Q, R · 11/14 green · 141 fires today
 - 2026-06-29 22:36:12 · 🟡 warn · attention: I, Q, R · 11/14 green · 148 fires today
 - 2026-06-29 23:18:04 · 🟡 warn · attention: I, Q, R · 11/14 green · 152 fires today
+- 2026-06-29 23:48:06 · 🟡 warn · attention: I, Q, R · 11/14 green · 159 fires today
 
 ## Routine Q
-- 2026-06-29 20:34:56 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-06-29 21:34:59 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-06-29 22:34:59 · 🟡 warn · 0 auto-fixes · 1 alerts
+- 2026-06-29 23:46:51 · 🟡 warn · 1 auto-fixes · 1 alerts · fixed: [FIXED] G was stale (12h since
 
 ## Routine R
 - 2026-05-31 15:07:40 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-06-29 23:18:04 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-06-29 22:36:44 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-29 22:46:45 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-29 22:56:46 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-29 23:18:39 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-29 23:28:40 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-29 23:38:41 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
