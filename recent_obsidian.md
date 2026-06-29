@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-06-29 18:05:53 IDT_
+_Updated: 2026-06-29 18:35:56 IDT_
 
 
 ## Routine G
@@ -9,9 +9,9 @@ _Updated: 2026-06-29 18:05:53 IDT_
 - 2026-06-29 10:49:29 · 🟢 green · 7/7 categories · 312/312 items · sim 3508ms · 0 errors
 
 ## Routine H
-- 2026-06-26 20:56:24 · 🟢 green · 312/312 items click cleanly · 0 fails · 13352ms
 - 2026-06-27 21:50:22 · 🟢 green · 312/312 items click cleanly · 0 fails · 48890ms
 - 2026-06-28 16:58:23 · 🟢 green · 312/312 items click cleanly · 0 fails · 20882ms
+- 2026-06-29 18:35:44 · 🟢 green · 312/312 items click cleanly · 0 fails · 44456ms
 
 ## Routine I
 - 2026-06-26 09:37:13 · 🔴 red · 1052 passed · 11 failed · 5 skipped
@@ -47,14 +47,14 @@ _Updated: 2026-06-29 18:05:53 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-06-29 16:20:04 · 🟡 warn · attention: I, Q, R · 11/14 green · 92 fires today
 - 2026-06-29 16:50:06 · 🟡 warn · attention: I, Q, R · 11/14 green · 97 fires today
 - 2026-06-29 18:05:53 · 🟡 warn · attention: I, Q, R, S · 10/14 green · 102 fires today
+- 2026-06-29 18:35:56 · 🟡 warn · attention: I, Q, R · 11/14 green · 109 fires today
 
 ## Routine Q
-- 2026-06-29 14:49:36 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-06-29 15:49:37 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-06-29 16:49:37 · 🟡 warn · 0 auto-fixes · 1 alerts
+- 2026-06-29 18:34:54 · 🟡 warn · 1 auto-fixes · 1 alerts · fixed: [FIXED] H was stale (25h since
 
 ## Routine R
 - 2026-05-31 15:07:40 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-06-29 18:05:53 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-06-29 16:51:24 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: error connecting to api.g
-- 2026-06-29 17:09:06 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-29 17:19:36 · 🟡 warn · gh CLI not ready: Command '/opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100' timed out after
+- 2026-06-29 18:06:08 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-29 18:16:09 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-29 18:26:10 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
