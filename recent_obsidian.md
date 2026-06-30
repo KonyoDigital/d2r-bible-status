@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-06-30 12:11:03 IDT_
+_Updated: 2026-06-30 12:41:05 IDT_
 
 
 ## Routine G
@@ -24,9 +24,9 @@ _Updated: 2026-06-30 12:11:03 IDT_
 - 2026-06-30 10:00:08 · 🟢 green · 4 screenshots captured · 336K logs/J_20260630_100005/01_bosses.png 520K logs/J_20260630_100005/02_travincal_open.png 284K logs/J_20260630_100005/03_calc_shako.png 272K logs/J_20260630_100005/04_tz.png
 
 ## Routine K
-- 2026-06-29 10:49:18 · 🟢 green · load 1039ms · boss 57ms · sim2k 4509ms · best-of-3
 - 2026-06-29 16:51:20 · 🟢 green · load 981ms · boss 59ms · sim2k 4512ms · best-of-3
 - 2026-06-29 23:47:23 · 🟢 green · skipped · system load 7.16 too high (>4)
+- 2026-06-30 12:41:00 · 🟢 green · load 1058ms · boss 57ms · sim2k 4506ms · best-of-3
 
 ## Routine L
 - 2026-06-28 10:30:07 · 🟢 green · no drift · items=312 bosses=11
@@ -47,14 +47,14 @@ _Updated: 2026-06-30 12:11:03 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-06-30 11:10:59 · 🟡 warn · attention: I, Q, R · 11/14 green · 40 fires today
 - 2026-06-30 11:41:01 · 🟡 warn · attention: I, Q, R · 11/14 green · 45 fires today
 - 2026-06-30 12:11:03 · 🟡 warn · attention: I, Q, R · 11/14 green · 49 fires today
+- 2026-06-30 12:41:05 · 🟡 warn · attention: I, Q, R · 11/14 green · 54 fires today
 
 ## Routine Q
-- 2026-06-30 09:40:39 · 🟡 warn · 2 auto-fixes · 1 alerts · fixed: [FIXED] I was stale (48h since, [FIXED] Q was stale (8h since 
 - 2026-06-30 10:40:40 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-06-30 11:40:40 · 🟡 warn · 0 auto-fixes · 1 alerts
+- 2026-06-30 12:40:40 · 🟡 warn · 2 auto-fixes · 1 alerts · fixed: [FIXED] G was stale (12h since, [FIXED] K was stale (12h since
 
 ## Routine R
 - 2026-05-31 15:07:40 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-06-30 12:11:03 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-06-30 11:51:01 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-06-30 12:01:02 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
 - 2026-06-30 12:11:02 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-30 12:21:03 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-06-30 12:31:04 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
