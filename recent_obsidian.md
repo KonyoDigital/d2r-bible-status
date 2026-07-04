@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-07-04 01:45:52 IDT_
+_Updated: 2026-07-04 15:49:02 IDT_
 
 
 ## Routine G
@@ -19,9 +19,9 @@ _Updated: 2026-07-04 01:45:52 IDT_
 - 2026-07-03 09:31:34 · 🟢 green · 1227 passed · 0 failed · 5 skipped
 
 ## Routine J
-- 2026-07-01 10:00:09 · 🟢 green · 4 screenshots captured · 336K logs/J_20260701_100005/01_bosses.png 548K logs/J_20260701_100005/02_travincal_open.png 304K logs/J_20260701_100005/03_calc_shako.png 272K logs/J_20260701_100005/04_tz.png 
 - 2026-07-02 10:00:08 · 🟢 green · 4 screenshots captured · 336K logs/J_20260702_100004/01_bosses.png 548K logs/J_20260702_100004/02_travincal_open.png 252K logs/J_20260702_100004/03_calc_shako.png 272K logs/J_20260702_100004/04_tz.png 
-- 2026-07-03 10:00:05 · 🟢 green · 4 screenshots captured · 336K logs/J_20260703_100001/01_bosses.png 520K logs/J_20260703_100001/02_travincal_open.png 284K logs/J_20260703_100001/03_calc_shako.png 272K logs/J_20260703_100001/04_tz.png
+- 2026-07-03 10:00:05 · 🟢 green · 4 screenshots captured · 336K logs/J_20260703_100001/01_bosses.png 520K logs/J_20260703_100001/02_travincal_open.png 284K logs/J_20260703_100001/03_calc_shako.png 272K logs/J_20260703_100001/04_tz.png 
+- 2026-07-04 10:25:39 · 🟢 green · 4 screenshots captured · 348K logs/J_20260704_100807/01_bosses.png 348K logs/J_20260704_100807/02_travincal_open.png 292K logs/J_20260704_100807/03_calc_shako.png 272K logs/J_20260704_100807/04_tz.png
 
 ## Routine K
 - 2026-07-03 10:30:10 · 🟢 green · load 1003ms · boss 58ms · sim2k 4510ms · best-of-3
@@ -29,9 +29,9 @@ _Updated: 2026-07-04 01:45:52 IDT_
 - 2026-07-03 22:44:01 · 🟢 green · load 1619ms · boss 66ms · sim2k 4522ms · best-of-3
 
 ## Routine L
-- 2026-07-01 10:30:07 · 🟢 green · no drift · items=312 bosses=11
 - 2026-07-02 10:30:06 · 🟢 green · no drift · items=312 bosses=11
 - 2026-07-03 10:30:03 · 🟢 green · no drift · items=312 bosses=11
+- 2026-07-04 10:33:52 · 🟢 green · no drift · items=312 bosses=11
 
 ## Routine M
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
@@ -47,9 +47,9 @@ _Updated: 2026-07-04 01:45:52 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-07-04 00:45:48 · 🟡 warn · attention: Q, R · 12/14 green · 9 fires today
 - 2026-07-04 01:15:50 · 🟡 warn · attention: Q, R · 12/14 green · 13 fires today
 - 2026-07-04 01:45:51 · 🟡 warn · attention: Q, R · 12/14 green · 18 fires today
+- 2026-07-04 15:49:02 · 🟡 warn · attention: I, Q, R, S, T · 10/14 green · 26 fires today
 
 ## Routine Q
 - 2026-07-03 23:40:30 · 🟡 warn · 0 auto-fixes · 1 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-07-04 01:45:52 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-07-04 01:20:28 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-04 01:30:28 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-04 01:40:29 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-04 01:50:30 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-04 07:33:54 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-04 14:28:26 · 🟡 warn · gh CLI not ready: Command '/opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100' timed out after
