@@ -1,12 +1,12 @@
 # Recent Routine History
 
-_Updated: 2026-07-04 15:49:02 IDT_
+_Updated: 2026-07-04 16:19:03 IDT_
 
 
 ## Routine G
-- 2026-07-03 10:37:33 · 🟢 green · 7/7 categories · 312/312 items · sim 3508ms · 0 errors
 - 2026-07-03 16:51:10 · 🟢 green · 7/7 categories · 312/312 items · sim 3508ms · 0 errors
 - 2026-07-03 22:52:04 · 🟢 green · 7/7 categories · 312/312 items · sim 3525ms · 0 errors
+- 2026-07-04 16:15:04 · 🟢 green · 7/7 categories · 312/312 items · sim 3566ms · 0 errors
 
 ## Routine H
 - 2026-07-02 18:43:40 · 🟢 green · 312/312 items click cleanly · 0 fails · 14282ms
@@ -24,9 +24,9 @@ _Updated: 2026-07-04 15:49:02 IDT_
 - 2026-07-04 10:25:39 · 🟢 green · 4 screenshots captured · 348K logs/J_20260704_100807/01_bosses.png 348K logs/J_20260704_100807/02_travincal_open.png 292K logs/J_20260704_100807/03_calc_shako.png 272K logs/J_20260704_100807/04_tz.png
 
 ## Routine K
-- 2026-07-03 10:30:10 · 🟢 green · load 1003ms · boss 58ms · sim2k 4510ms · best-of-3
 - 2026-07-03 16:43:36 · 🟢 green · load 991ms · boss 59ms · sim2k 4511ms · best-of-3
 - 2026-07-03 22:44:01 · 🟢 green · load 1619ms · boss 66ms · sim2k 4522ms · best-of-3
+- 2026-07-04 16:13:39 · 🟢 green · skipped · system load 11.02 too high (>4)
 
 ## Routine L
 - 2026-07-02 10:30:06 · 🟢 green · no drift · items=312 bosses=11
@@ -47,14 +47,14 @@ _Updated: 2026-07-04 15:49:02 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-07-04 01:15:50 · 🟡 warn · attention: Q, R · 12/14 green · 13 fires today
 - 2026-07-04 01:45:51 · 🟡 warn · attention: Q, R · 12/14 green · 18 fires today
 - 2026-07-04 15:49:02 · 🟡 warn · attention: I, Q, R, S, T · 10/14 green · 26 fires today
+- 2026-07-04 16:19:03 · 🟡 warn · attention: I, Q, R, T · 11/14 green · 33 fires today
 
 ## Routine Q
-- 2026-07-03 23:40:30 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-07-04 00:40:30 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-07-04 01:40:30 · 🟡 warn · 0 auto-fixes · 1 alerts
+- 2026-07-04 16:13:39 · 🟡 warn · 3 auto-fixes · 1 alerts · fixed: [FIXED] G was stale (17h since, [FIXED] K was stale (17h since, [FIXED] Q was stale (14h since
 
 ## Routine R
 - 2026-05-31 15:07:40 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-07-04 15:49:02 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-07-04 01:50:30 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-04 07:33:54 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-04 14:28:26 · 🟡 warn · gh CLI not ready: Command '/opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100' timed out after
+- 2026-07-04 15:54:11 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-04 16:04:13 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-04 16:14:14 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
