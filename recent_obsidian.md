@@ -1,12 +1,12 @@
 # Recent Routine History
 
-_Updated: 2026-07-08 04:10:15 IDT_
+_Updated: 2026-07-08 04:40:17 IDT_
 
 
 ## Routine G
-- 2026-07-07 10:22:50 · 🟢 green · 7/7 categories · 312/312 items · sim 3507ms · 0 errors
 - 2026-07-07 16:23:21 · 🟢 green · 7/7 categories · 312/312 items · sim 3508ms · 0 errors
 - 2026-07-07 22:36:58 · 🟢 green · 7/7 categories · 312/312 items · sim 3507ms · 0 errors
+- 2026-07-08 04:38:38 · 🟢 green · 7/7 categories · 312/312 items · sim 3509ms · 0 errors
 
 ## Routine H
 - 2026-07-06 23:16:25 · 🟢 green · 322/322 items click cleanly · 0 fails · 11224ms
@@ -24,9 +24,9 @@ _Updated: 2026-07-08 04:10:15 IDT_
 - 2026-07-07 10:00:09 · 🟢 green · 4 screenshots captured · 576K logs/J_20260707_100005/01_bosses.png 560K logs/J_20260707_100005/02_travincal_open.png 756K logs/J_20260707_100005/03_calc_shako.png 532K logs/J_20260707_100005/04_tz.png
 
 ## Routine K
-- 2026-07-07 10:17:39 · 🟢 green · load 682ms · boss 57ms · sim2k 4506ms · best-of-3
 - 2026-07-07 16:17:57 · 🟢 green · load 689ms · boss 57ms · sim2k 4506ms · best-of-3
 - 2026-07-07 22:31:23 · 🟢 green · load 681ms · boss 58ms · sim2k 4507ms · best-of-3
+- 2026-07-08 04:32:50 · 🟢 green · load 700ms · boss 69ms · sim2k 4507ms · best-of-3
 
 ## Routine L
 - 2026-07-06 16:13:32 · 🔴 red · 5 drift(s) detected · items=322 bosses=13
@@ -47,14 +47,14 @@ _Updated: 2026-07-08 04:10:15 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-07-08 03:10:12 · 🟡 warn · attention: Q, R · 12/14 green · 30 fires today
 - 2026-07-08 03:40:14 · 🟡 warn · attention: Q, R · 12/14 green · 35 fires today
 - 2026-07-08 04:10:15 · 🟡 warn · attention: Q, R · 12/14 green · 39 fires today
+- 2026-07-08 04:40:17 · 🟡 warn · attention: Q, R · 12/14 green · 46 fires today
 
 ## Routine Q
-- 2026-07-08 01:29:21 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-07-08 02:29:21 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-07-08 03:29:21 · 🟡 warn · 0 auto-fixes · 1 alerts
+- 2026-07-08 04:29:21 · 🟡 warn · 0 auto-fixes · 1 alerts
 
 ## Routine R
 - 2026-05-31 15:07:40 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-07-08 04:10:15 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-07-08 03:40:37 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-08 03:50:38 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-08 04:00:39 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-08 04:10:40 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-08 04:20:41 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-08 04:30:42 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
