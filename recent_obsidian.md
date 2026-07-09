@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-07-09 20:38:17 IDT_
+_Updated: 2026-07-09 21:08:21 IDT_
 
 
 ## Routine G
@@ -47,14 +47,14 @@ _Updated: 2026-07-09 20:38:17 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-07-09 19:38:02 · 🟡 warn · attention: Q, R, T · 11/14 green · 194 fires today
 - 2026-07-09 20:08:12 · 🟡 warn · attention: Q, R, T · 11/14 green · 199 fires today
 - 2026-07-09 20:38:15 · 🟡 warn · attention: Q, R, T · 11/14 green · 203 fires today
+- 2026-07-09 21:08:21 · 🟡 warn · attention: Q, R · 12/14 green · 211 fires today
 
 ## Routine Q
-- 2026-07-09 17:54:53 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-07-09 18:54:54 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-07-09 19:54:54 · 🟡 warn · 0 auto-fixes · 1 alerts
+- 2026-07-09 20:54:54 · 🟡 warn · 0 auto-fixes · 1 alerts
 
 ## Routine R
 - 2026-05-31 15:07:40 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-07-09 20:38:17 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-07-09 20:11:56 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: HTTP 401: Requires authen
-- 2026-07-09 20:21:58 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-09 20:32:00 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-09 20:42:01 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-09 20:52:03 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-09 21:02:04 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
