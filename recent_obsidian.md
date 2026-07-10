@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-07-10 02:53:43 IDT_
+_Updated: 2026-07-10 03:23:45 IDT_
 
 
 ## Routine G
@@ -47,14 +47,14 @@ _Updated: 2026-07-10 02:53:43 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-07-10 01:53:40 · 🟡 warn · attention: Q, R · 12/14 green · 11 fires today
 - 2026-07-10 02:23:42 · 🟡 warn · attention: Q, R, T · 12/14 green · 16 fires today
 - 2026-07-10 02:53:43 · 🟡 warn · attention: Q, R, T · 12/14 green · 20 fires today
+- 2026-07-10 03:23:45 · 🟡 warn · attention: Q, R, T · 12/14 green · 25 fires today
 
 ## Routine Q
-- 2026-07-09 22:54:54 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-07-10 01:10:01 · 🟡 warn · 1 auto-fixes · 1 alerts · fixed: [FIXED] Q was stale (2h since 
 - 2026-07-10 02:10:01 · 🟡 warn · 0 auto-fixes · 1 alerts
+- 2026-07-10 03:10:01 · 🟡 warn · 0 auto-fixes · 1 alerts
 
 ## Routine R
 - 2026-05-31 15:07:40 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-07-10 02:53:43 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-07-10 02:27:43 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-10 02:38:13 · 🟡 warn · gh CLI not ready: Command '/opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100' timed out after 
-- 2026-07-10 02:48:14 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-10 02:58:15 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-10 03:08:16 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-10 03:18:17 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
