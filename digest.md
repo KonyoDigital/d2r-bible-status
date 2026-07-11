@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-07-11 20:08:51 · pushed: 2026-07-11 20:08:51 IDT_
+_Snapshot generated: 2026-07-11 20:38:53 · pushed: 2026-07-11 20:38:53 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
-**Attention (red / warn / stale / overdue)**: I, Q, R
-**Fires today**: 202 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Attention (red / warn / stale / overdue)**: I, Q, R, T
+**Fires today**: 208 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -13,8 +13,9 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | ID | Status | Schedule | Last Run | Today | Health | Summary |
 |----|--------|----------|----------|-------|--------|---------|
 | I | 🟡 warn | daily 09:00 | 2026-07-11 09:40:19 | 1/1 | on-schedule | 1383 passed · 1 failed · 5 skipped |
-| P | 🟡 warn | every 30min | 2026-07-11 19:38:50 | 39/48 | on-schedule | attention: I, Q, R · 11/14 green · 198 fires today |
-| Q | 🟡 warn | every 1h | 2026-07-11 19:22:57 | 20/24 | on-schedule | 0 auto-fixes · 1 alerts |
+| P | 🟡 warn | every 30min | 2026-07-11 20:08:51 | 40/48 | on-schedule | attention: I, Q, R · 11/14 green · 202 fires today |
+| Q | 🟡 warn | every 1h | 2026-07-11 20:22:57 | 21/24 | on-schedule | 0 auto-fixes · 1 alerts |
+| T | 🟡 warn | 15×/day (A-F LLM proxy) | 2026-07-11 20:24:34 | 11/15 | on-schedule | D fired · severity=red · 3885/160 tok |
 | G | 🟢 green | every 6h | 2026-07-11 18:39:01 | 4/4 | on-schedule | 7/7 categories · 312/312 items · sim 3507ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-07-11 13:25:21 | 2/2 | on-schedule | 322/322 items click cleanly · 0 fails · 6203ms |
 | J | 🟢 green | daily 10:00 | 2026-07-11 10:00:08 | 1/1 | on-schedule | 4 screenshots captured · 684K logs/J_20260711_100005/01_bosses.png 572K logs/J_2 |
@@ -24,8 +25,7 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | N | 🟢 green | daily 23:30 | 2026-07-10 23:30:06 | 0/1 | on-schedule | rollup written (19399 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
 | R | 🟢 green | every 2h | 2026-05-31 19:08:06 | 0/12 | ⏰ stale | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-07-11 20:05:06 | 120/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
-| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-07-11 16:25:55 | 10/15 | on-schedule | E fired · severity=yellow · 3937/284 tok |
+| S | 🟢 green | every 10min | 2026-07-11 20:35:09 | 123/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
 
 ## What each routine does
 
