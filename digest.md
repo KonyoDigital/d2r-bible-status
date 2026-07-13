@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-07-14 01:34:48 · pushed: 2026-07-14 01:34:48 IDT_
+_Snapshot generated: 2026-07-14 01:40:13 · pushed: 2026-07-14 01:40:14 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
 **Attention (red / warn / stale / overdue)**: I, Q, R
-**Fires today**: 18 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Fires today**: 19 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -13,7 +13,7 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | ID | Status | Schedule | Last Run | Today | Health | Summary |
 |----|--------|----------|----------|-------|--------|---------|
 | I | 🔴 red | daily 09:00 | 2026-07-13 10:01:55 | 0/1 | on-schedule | 1370 passed · 28 failed · 5 skipped |
-| P | 🟡 warn | every 30min | 2026-07-14 01:04:47 | 3/48 | on-schedule | attention: I, Q, R · 11/14 green · 10 fires today |
+| P | 🟡 warn | every 30min | 2026-07-14 01:34:48 | 4/48 | on-schedule | attention: I, Q, R · 11/14 green · 18 fires today |
 | Q | 🟡 warn | every 1h | 2026-07-14 01:04:43 | 2/24 | on-schedule | 0 auto-fixes · 1 alerts |
 | G | 🟢 green | every 6h | 2026-07-14 01:08:08 | 1/4 | on-schedule | 7/7 categories · 312/312 items · sim 3511ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-07-13 17:45:58 | 0/2 | on-schedule | 322/322 items click cleanly · 0 fails · 6994ms |
