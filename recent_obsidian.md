@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-07-13 22:18:33 IDT_
+_Updated: 2026-07-14 00:04:43 IDT_
 
 
 ## Routine G
@@ -37,9 +37,9 @@ _Updated: 2026-07-13 22:18:33 IDT_
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
 
 ## Routine N
-- 2026-07-10 23:30:06 · 🟢 green · rollup written (19399 bytes, 14 routines)
 - 2026-07-11 23:30:04 · 🟢 green · rollup written (19887 bytes, 14 routines)
 - 2026-07-12 23:30:05 · 🟢 green · rollup written (18567 bytes, 14 routines)
+- 2026-07-13 23:59:45 · 🟢 green · rollup written (18267 bytes, 14 routines)
 
 ## Routine O
 - 2026-05-27 01:14:04 · 🟢 green · shipped konyo_d2r_bible_v40.html -> FINAL.html
@@ -47,14 +47,14 @@ _Updated: 2026-07-13 22:18:33 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-07-13 21:18:19 · 🟡 warn · attention: I, Q, R · 11/14 green · 213 fires today
 - 2026-07-13 21:48:20 · 🟡 warn · attention: I, Q, R · 11/14 green · 218 fires today
 - 2026-07-13 22:18:31 · 🟡 warn · attention: I, Q, R · 11/14 green · 222 fires today
+- 2026-07-14 00:04:43 · 🟡 warn · attention: I, Q, R, S · 10/14 green · 1 fires today
 
 ## Routine Q
-- 2026-07-13 19:45:46 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-07-13 20:45:49 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-07-13 21:45:49 · 🟡 warn · 0 auto-fixes · 1 alerts
+- 2026-07-14 00:04:43 · 🟡 warn · 2 auto-fixes · 2 alerts · fixed: [FIXED] P was stale (1h since , [FIXED] Q was stale (2h since
 
 ## Routine R
 - 2026-05-31 15:07:40 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-07-13 22:18:33 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-07-13 21:50:03 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-13 22:00:03 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-13 22:10:10 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-13 22:20:18 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-13 22:30:56 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-13 23:59:50 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: error connecting to api.g
