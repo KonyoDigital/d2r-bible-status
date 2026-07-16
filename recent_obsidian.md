@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-07-16 10:07:55 IDT_
+_Updated: 2026-07-16 10:37:57 IDT_
 
 
 ## Routine G
@@ -14,9 +14,9 @@ _Updated: 2026-07-16 10:07:55 IDT_
 - 2026-07-15 18:21:45 · 🟢 green · 322/322 items click cleanly · 0 fails · 6222ms
 
 ## Routine I
-- 2026-07-13 10:01:55 · 🔴 red · 1370 passed · 28 failed · 5 skipped
 - 2026-07-14 10:42:42 · 🔴 red · 1379 passed · 19 failed · 5 skipped
 - 2026-07-15 10:04:30 · 🔴 red · 1400 passed · 4 failed · 5 skipped
+- 2026-07-16 10:14:44 · 🟡 warn · 1399 passed · 2 failed · 6 skipped
 
 ## Routine J
 - 2026-07-14 10:00:12 · 🟢 green · 4 screenshots captured · 936K logs/J_20260714_100005/01_bosses.png 580K logs/J_20260714_100005/02_travincal_open.png 864K logs/J_20260714_100005/03_calc_shako.png 636K logs/J_20260714_100005/04_tz.png 
@@ -29,9 +29,9 @@ _Updated: 2026-07-16 10:07:55 IDT_
 - 2026-07-16 09:28:36 · 🟢 green · skipped · system load 5.53 too high (>4)
 
 ## Routine L
-- 2026-07-13 10:30:07 · 🟢 green · no drift · items=322 bosses=13
 - 2026-07-14 10:30:06 · 🟢 green · no drift · items=322 bosses=13
 - 2026-07-15 10:30:06 · 🟢 green · no drift · items=322 bosses=13
+- 2026-07-16 10:30:07 · 🟢 green · no drift · items=322 bosses=13
 
 ## Routine M
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
@@ -47,14 +47,14 @@ _Updated: 2026-07-16 10:07:55 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-07-16 06:41:26 · 🟡 warn · attention: I, Q, R, S, T · 11/14 green · 7 fires today
 - 2026-07-16 09:28:36 · 🟡 warn · attention: I, Q, R, T · 10/14 green · 13 fires today
 - 2026-07-16 10:07:55 · 🟡 warn · attention: I, Q, R, T · 10/14 green · 21 fires today
+- 2026-07-16 10:37:57 · 🟡 warn · attention: I, Q, R · 11/14 green · 29 fires today
 
 ## Routine Q
-- 2026-07-15 22:23:54 · 🟡 warn · 0 auto-fixes · 1 alerts
 - 2026-07-16 01:32:57 · 🟡 warn · 3 auto-fixes · 2 alerts · fixed: [FIXED] P was stale (2h since , [FIXED] Q was stale (3h since , [FIXED] S was stale (0h since 
 - 2026-07-16 09:28:36 · 🟡 warn · 4 auto-fixes · 2 alerts · fixed: [FIXED] G was stale (14h since, [FIXED] K was stale (14h since, [FIXED] P was stale (2h since ...
+- 2026-07-16 10:37:53 · 🟡 warn · 0 auto-fixes · 1 alerts
 
 ## Routine R
 - 2026-05-31 15:07:40 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-07-16 10:07:55 IDT_
 - 2026-05-31 19:08:06 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-07-16 09:28:44 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-16 09:38:48 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-16 09:48:49 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-16 10:08:08 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-16 10:18:09 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-16 10:28:10 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
