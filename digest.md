@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-07-17 02:09:01 · pushed: 2026-07-17 02:09:01 IDT_
+_Snapshot generated: 2026-07-17 02:39:03 · pushed: 2026-07-17 02:39:03 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
-**Attention (red / warn / stale / overdue)**: I, Q, R, S
-**Fires today**: 20 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Attention (red / warn / stale / overdue)**: I, Q, R, S, T
+**Fires today**: 26 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -13,9 +13,10 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | ID | Status | Schedule | Last Run | Today | Health | Summary |
 |----|--------|----------|----------|-------|--------|---------|
 | I | 🟡 warn | daily 09:00 | 2026-07-16 10:14:44 | 0/1 | on-schedule | 1399 passed · 2 failed · 6 skipped |
-| P | 🟡 warn | every 30min | 2026-07-17 01:38:59 | 4/48 | on-schedule | attention: I, Q, R, S · 10/14 green · 16 fires today |
-| Q | 🟡 warn | every 1h | 2026-07-17 01:37:50 | 2/24 | on-schedule | 0 auto-fixes · 1 alerts |
-| S | 🟡 warn | every 10min | 2026-07-17 01:59:09 | 12/144 | on-schedule | fetch failed: /opt/homebrew/bin/gh api repos/KonyoDigital/d2r-bible-status/issue |
+| P | 🟡 warn | every 30min | 2026-07-17 02:09:01 | 5/48 | on-schedule | attention: I, Q, R, S · 10/14 green · 20 fires today |
+| Q | 🟡 warn | every 1h | 2026-07-17 02:37:51 | 3/24 | on-schedule | 0 auto-fixes · 1 alerts |
+| S | 🟡 warn | every 10min | 2026-07-17 02:29:13 | 15/144 | on-schedule | fetch failed: /opt/homebrew/bin/gh api repos/KonyoDigital/d2r-bible-status/issue |
+| T | 🟡 warn | 15×/day (A-F LLM proxy) | 2026-07-17 02:38:15 | 3/15 | on-schedule | D fired · severity=red · 3973/111 tok |
 | G | 🟢 green | every 6h | 2026-07-16 22:39:46 | 0/4 | on-schedule | 7/7 categories · 312/312 items · sim 3511ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-07-16 15:38:19 | 0/2 | on-schedule | 322/322 items click cleanly · 0 fails · 5686ms |
 | J | 🟢 green | daily 10:00 | 2026-07-16 10:03:39 | 0/1 | on-schedule | 4 screenshots captured · 568K logs/J_20260716_100334/01_bosses.png 652K logs/J_2 |
@@ -25,7 +26,6 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | N | 🟢 green | daily 23:30 | 2026-07-16 23:30:00 | 0/1 | on-schedule | rollup written (18653 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
 | R | 🟢 green | every 2h | 2026-05-31 19:08:06 | 0/12 | ⏰ stale | all 7 smoke checks passed · live widget OK · screenshots saved |
-| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-07-17 00:38:45 | 2/15 | on-schedule | E fired · severity=yellow · 3922/274 tok |
 
 ## What each routine does
 
