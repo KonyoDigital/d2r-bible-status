@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-07-16 11:38:00 · pushed: 2026-07-16 11:38:00 IDT_
+_Snapshot generated: 2026-07-16 12:08:02 · pushed: 2026-07-16 12:08:02 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
 **Attention (red / warn / stale / overdue)**: I, Q, R
-**Fires today**: 38 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Fires today**: 44 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -13,7 +13,7 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | ID | Status | Schedule | Last Run | Today | Health | Summary |
 |----|--------|----------|----------|-------|--------|---------|
 | I | 🟡 warn | daily 09:00 | 2026-07-16 10:14:44 | 1/1 | on-schedule | 1399 passed · 2 failed · 6 skipped |
-| P | 🟡 warn | every 30min | 2026-07-16 11:07:59 | 6/48 | on-schedule | attention: I, Q, R · 11/14 green · 33 fires today |
+| P | 🟡 warn | every 30min | 2026-07-16 11:38:00 | 7/48 | on-schedule | attention: I, Q, R · 11/14 green · 38 fires today |
 | Q | 🟡 warn | every 1h | 2026-07-16 11:37:54 | 4/24 | on-schedule | 0 auto-fixes · 1 alerts |
 | G | 🟢 green | every 6h | 2026-07-16 09:29:30 | 1/4 | on-schedule | 7/7 categories · 312/312 items · sim 3523ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-07-15 18:21:45 | 0/2 | on-schedule | 322/322 items click cleanly · 0 fails · 6222ms |
@@ -24,8 +24,8 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | N | 🟢 green | daily 23:30 | 2026-07-16 00:35:58 | 1/1 | on-schedule | rollup written (17870 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
 | R | 🟢 green | every 2h | 2026-05-31 19:08:06 | 0/12 | ⏰ stale | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-07-16 11:28:16 | 19/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
-| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-07-16 10:15:10 | 3/15 | on-schedule | C fired · severity=yellow · 3981/287 tok |
+| S | 🟢 green | every 10min | 2026-07-16 11:58:19 | 22/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-07-16 11:38:29 | 5/15 | on-schedule | A fired · severity=yellow · 4345/224 tok |
 
 ## What each routine does
 
