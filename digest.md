@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-07-18 21:22:31 · pushed: 2026-07-18 21:22:33 IDT_
+_Snapshot generated: 2026-07-18 21:52:41 · pushed: 2026-07-18 21:52:41 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
 **Attention (red / warn / stale / overdue)**: I, Q, R
-**Fires today**: 214 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Fires today**: 222 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -13,8 +13,8 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | ID | Status | Schedule | Last Run | Today | Health | Summary |
 |----|--------|----------|----------|-------|--------|---------|
 | I | 🟡 warn | daily 09:00 | 2026-07-18 09:45:14 | 1/1 | on-schedule | 1443 passed · 1 failed · 6 skipped |
-| P | 🟡 warn | every 30min | 2026-07-18 20:52:25 | 42/48 | on-schedule | attention: I, Q, R · 11/14 green · 209 fires today |
-| Q | 🟡 warn | every 1h | 2026-07-18 20:51:05 | 21/24 | on-schedule | 0 auto-fixes · 1 alerts |
+| P | 🟡 warn | every 30min | 2026-07-18 21:22:31 | 43/48 | on-schedule | attention: I, Q, R · 11/14 green · 214 fires today |
+| Q | 🟡 warn | every 1h | 2026-07-18 21:51:06 | 22/24 | on-schedule | 0 auto-fixes · 1 alerts |
 | G | 🟢 green | every 6h | 2026-07-18 16:52:48 | 3/4 | on-schedule | 7/7 categories · 312/312 items · sim 3511ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-07-18 19:51:53 | 2/2 | on-schedule | 322/322 items click cleanly · 0 fails · 8764ms |
 | J | 🟢 green | daily 10:00 | 2026-07-18 10:00:05 | 1/1 | on-schedule | 4 screenshots captured · 568K logs/J_20260718_100001/01_bosses.png 624K logs/J_2 |
@@ -24,8 +24,8 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | N | 🟢 green | daily 23:30 | 2026-07-17 23:30:03 | 0/1 | on-schedule | rollup written (19157 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
 | R | 🟢 green | every 2h | 2026-05-31 19:08:06 | 0/12 | ⏰ stale | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-07-18 21:21:15 | 128/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
-| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-07-18 21:00:12 | 11/15 | on-schedule | B-PM fired · severity=green · 3800/124 tok |
+| S | 🟢 green | every 10min | 2026-07-18 21:51:36 | 131/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-07-18 21:52:29 | 14/15 | on-schedule | E fired · severity=yellow · 3931/282 tok |
 
 ## What each routine does
 
