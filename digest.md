@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-07-20 15:22:14 · pushed: 2026-07-20 15:22:14 IDT_
+_Snapshot generated: 2026-07-20 15:34:38 · pushed: 2026-07-20 15:34:38 IDT_
 
-**System health**: 🟡 NEEDS ATTENTION
-**Attention (red / warn / stale / overdue)**: T
-**Fires today**: 99 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**System health**: 🟢 HEALTHY
+**Attention (red / warn / stale / overdue)**: none — every routine green and on-schedule
+**Fires today**: 103 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -12,8 +12,7 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 
 | ID | Status | Schedule | Last Run | Today | Health | Summary |
 |----|--------|----------|----------|-------|--------|---------|
-| P | 🟡 warn | every 30min | 2026-07-20 15:22:04 | 20/48 | on-schedule | attention: T · 12/14 green · 98 fires today |
-| T | 🟡 warn | 15×/day (A-F LLM proxy) | 2026-07-20 11:37:55 | 5/15 | on-schedule | D fired · severity=red · 3893/211 tok |
+| P | 🟡 warn | every 30min | 2026-07-20 15:22:14 | 21/48 | on-schedule | attention: T · 12/14 green · 99 fires today |
 | G | 🟢 green | every 6h | 2026-07-20 10:44:56 | 1/4 | on-schedule | 7/7 categories · 312/312 items · sim 3512ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-07-19 19:52:15 | 0/2 | on-schedule | 322/322 items click cleanly · 0 fails · 11259ms |
 | I | 🟢 green | daily 09:00 | 2026-07-20 10:20:06 | 1/1 | on-schedule | 1458 passed · 0 failed · 15 skipped |
@@ -25,16 +24,17 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
 | Q | 🟢 green | every 1h | 2026-07-20 15:21:30 | 10/24 | on-schedule | 0 auto-fixes · 0 alerts |
 | R | 🟢 green | every 2h | 2026-07-20 15:20:54 | 1/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-07-20 15:21:56 | 57/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| S | 🟢 green | every 10min | 2026-07-20 15:31:57 | 58/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-07-20 15:34:38 | 7/15 | on-schedule | A fired · severity=yellow · 4320/226 tok |
 
 ## What each routine does
 
 - **G** — End-to-end audit · runs Playwright, verifies 7 categories (tabs/bosses/items/sliders/wishlist/sim/TZ)
-- **H** — Item sweep · opens every item card (312/312), confirms no broken renders
+- **H** — Item sweep · opens every item card (322/322), confirms no broken renders
 - **I** — Route audit · validates all internal navigation links
 - **J** — Visual diff · 4 screenshots captured for regression spotting
 - **K** — Perf · load time, boss-open latency, 2K-trial sim duration
-- **L** — Integrity drift · checks data anchors (items=312, bosses=11, Hell Meph Shako=1:912, Countess Ist=1:850)
+- **L** — Integrity drift · checks data anchors (items=322, bosses=13, Meph×Shako probes, Countess Ist=1:850)
 - **M** — Auto-patch · scans for apostrophe/regression, applies patches (manual trigger)
 - **N** — Obsidian rollup · nightly digest of the day's routine fires
 - **O** — Ship gate · promotes v##.html → FINAL.html (requires G+L green, manual trigger)
