@@ -1,12 +1,12 @@
 # Recent Routine History
 
-_Updated: 2026-07-23 12:57:24 IDT_
+_Updated: 2026-07-23 13:27:31 IDT_
 
 
 ## Routine G
-- 2026-07-22 18:56:29 · 🟢 green · 7/7 categories · 312/312 items · sim 3509ms · 0 errors
 - 2026-07-23 00:57:22 · 🟢 green · 7/7 categories · 312/312 items · sim 3516ms · 0 errors
 - 2026-07-23 06:57:53 · 🟢 green · 7/7 categories · 312/312 items · sim 3512ms · 0 errors
+- 2026-07-23 12:58:43 · 🟢 green · 7/7 categories · 312/312 items · sim 3514ms · 0 errors
 
 ## Routine H
 - 2026-07-22 08:52:15 · 🟢 green · 322/322 items click cleanly · 0 fails · 5647ms
@@ -47,9 +47,9 @@ _Updated: 2026-07-23 12:57:24 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-07-23 11:57:20 · 🟡 warn · attention: I · 12/14 green · 127 fires today
 - 2026-07-23 12:27:22 · 🟡 warn · attention: I · 12/14 green · 131 fires today
 - 2026-07-23 12:57:24 · 🟡 warn · attention: I, S · 11/14 green · 139 fires today
+- 2026-07-23 13:27:30 · 🟡 warn · attention: I · 12/14 green · 144 fires today
 
 ## Routine Q
 - 2026-07-23 10:51:51 · 🟢 green · 0 auto-fixes · 0 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-07-23 12:57:24 IDT_
 - 2026-07-23 11:29:10 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-07-23 12:30:38 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-23 12:40:41 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-23 12:51:09 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: HTTP 401: Requires authen
+- 2026-07-23 13:01:12 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-23 13:11:13 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-23 13:21:15 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
