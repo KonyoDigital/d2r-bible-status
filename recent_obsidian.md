@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-07-24 23:04:57 IDT_
+_Updated: 2026-07-24 23:34:59 IDT_
 
 
 ## Routine G
@@ -37,9 +37,9 @@ _Updated: 2026-07-24 23:04:57 IDT_
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
 
 ## Routine N
-- 2026-07-21 23:30:05 · 🟢 green · rollup written (14877 bytes, 14 routines)
 - 2026-07-22 23:30:05 · 🟢 green · rollup written (14687 bytes, 14 routines)
 - 2026-07-23 23:30:05 · 🟢 green · rollup written (15081 bytes, 14 routines)
+- 2026-07-24 23:30:05 · 🟢 green · rollup written (14441 bytes, 14 routines)
 
 ## Routine O
 - 2026-05-27 01:14:04 · 🟢 green · shipped konyo_d2r_bible_v40.html -> FINAL.html
@@ -47,9 +47,9 @@ _Updated: 2026-07-24 23:04:57 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-07-24 22:04:54 · 🟡 warn · attention: I · 12/14 green · 72 fires today
 - 2026-07-24 22:34:56 · 🟡 warn · attention: I · 12/14 green · 76 fires today
 - 2026-07-24 23:04:57 · 🟡 warn · attention: I · 12/14 green · 82 fires today
+- 2026-07-24 23:34:59 · 🟡 warn · attention: I · 12/14 green · 87 fires today
 
 ## Routine Q
 - 2026-07-24 21:04:37 · 🟢 green · 4 auto-fixes · 0 alerts · fixed: [FIXED] H was stale (24h since, [FIXED] K was stale (14h since, [FIXED] Q was stale (4h since ...
@@ -62,6 +62,6 @@ _Updated: 2026-07-24 23:04:57 IDT_
 - 2026-07-24 23:04:56 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-07-24 22:44:53 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-24 22:54:54 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-24 23:04:55 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-24 23:14:56 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-24 23:24:57 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-24 23:34:58 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
