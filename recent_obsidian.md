@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-07-24 06:05:52 IDT_
+_Updated: 2026-07-24 12:11:20 IDT_
 
 
 ## Routine G
@@ -19,19 +19,19 @@ _Updated: 2026-07-24 06:05:52 IDT_
 - 2026-07-23 10:59:52 · 🟡 warn · 1463 passed · 3 failed · 15 skipped
 
 ## Routine J
-- 2026-07-21 10:00:13 · 🟢 green · 4 screenshots captured · 584K logs/J_20260721_100005/01_bosses.png 36K logs/J_20260721_100005/02_travincal_open.png 800K logs/J_20260721_100005/03_calc_shako.png 636K logs/J_20260721_100005/04_tz.png 
 - 2026-07-22 10:00:13 · 🟢 green · 4 screenshots captured · 588K logs/J_20260722_100005/01_bosses.png 568K logs/J_20260722_100005/02_travincal_open.png 804K logs/J_20260722_100005/03_calc_shako.png 656K logs/J_20260722_100005/04_tz.png 
-- 2026-07-23 10:00:14 · 🟢 green · 4 screenshots captured · 592K logs/J_20260723_100005/01_bosses.png 444K logs/J_20260723_100005/02_travincal_open.png 820K logs/J_20260723_100005/03_calc_shako.png 672K logs/J_20260723_100005/04_tz.png
+- 2026-07-23 10:00:14 · 🟢 green · 4 screenshots captured · 592K logs/J_20260723_100005/01_bosses.png 444K logs/J_20260723_100005/02_travincal_open.png 820K logs/J_20260723_100005/03_calc_shako.png 672K logs/J_20260723_100005/04_tz.png 
+- 2026-07-24 10:08:24 · 🟢 green · 4 screenshots captured · 604K logs/J_20260724_100812/01_bosses.png 604K logs/J_20260724_100812/02_travincal_open.png 820K logs/J_20260724_100812/03_calc_shako.png 660K logs/J_20260724_100812/04_tz.png
 
 ## Routine K
-- 2026-07-23 08:55:25 · 🟢 green · load 850ms · boss 73ms · sim2k 4507ms · best-of-3
 - 2026-07-23 14:55:45 · 🟢 green · load 947ms · boss 69ms · sim2k 4508ms · best-of-3
 - 2026-07-23 21:04:02 · 🟢 green · load 1080ms · boss 88ms · sim2k 4516ms · best-of-3
+- 2026-07-24 06:26:37 · 🟢 green · load 1122ms · boss 88ms · sim2k 4518ms · best-of-3
 
 ## Routine L
-- 2026-07-21 10:30:06 · 🟢 green · no drift · items=322 bosses=13
 - 2026-07-22 10:30:06 · 🟢 green · no drift · items=322 bosses=13
 - 2026-07-23 10:30:32 · 🟢 green · no drift · items=322 bosses=13
+- 2026-07-24 10:45:53 · 🟢 green · no drift · items=322 bosses=13
 
 ## Routine M
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
@@ -47,9 +47,9 @@ _Updated: 2026-07-24 06:05:52 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-07-24 02:06:27 · 🟡 warn · attention: I · 12/14 green · 23 fires today
 - 2026-07-24 02:36:29 · 🟡 warn · attention: I · 12/14 green · 27 fires today
 - 2026-07-24 06:05:52 · 🟡 warn · attention: I, Q, S, T · 11/14 green · 31 fires today
+- 2026-07-24 12:11:20 · 🟡 warn · attention: I, Q, S · 11/14 green · 41 fires today
 
 ## Routine Q
 - 2026-07-24 00:59:53 · 🟢 green · 0 auto-fixes · 0 alerts
@@ -57,11 +57,11 @@ _Updated: 2026-07-24 06:05:52 IDT_
 - 2026-07-24 06:05:52 · 🟡 warn · 4 auto-fixes · 1 alerts · fixed: [FIXED] P was stale (3h since , [FIXED] Q was stale (4h since , [FIXED] R was stale (4h since ...
 
 ## Routine R
-- 2026-07-23 21:38:19 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-07-23 23:38:31 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-07-24 01:38:44 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
+- 2026-07-24 06:06:12 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-07-24 02:30:35 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-24 02:40:36 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-24 03:50:33 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-24 06:05:53 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-24 07:40:44 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-24 10:08:53 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
