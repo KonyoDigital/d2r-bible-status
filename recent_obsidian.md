@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-07-25 20:41:51 IDT_
+_Updated: 2026-07-25 21:11:53 IDT_
 
 
 ## Routine G
@@ -24,9 +24,9 @@ _Updated: 2026-07-25 20:41:51 IDT_
 - 2026-07-25 10:08:58 · 🟢 green · 4 screenshots captured · 592K logs/J_20260725_100851/01_bosses.png 576K logs/J_20260725_100851/02_travincal_open.png 812K logs/J_20260725_100851/03_calc_shako.png 632K logs/J_20260725_100851/04_tz.png
 
 ## Routine K
-- 2026-07-24 21:04:57 · 🟢 green · load 794ms · boss 67ms · sim2k 4506ms · best-of-3
 - 2026-07-25 03:09:50 · 🟢 green · load 878ms · boss 73ms · sim2k 4510ms · best-of-3
 - 2026-07-25 15:11:31 · 🟢 green · skipped · system load 6.58 too high (>4)
+- 2026-07-25 21:11:50 · 🟢 green · load 769ms · boss 67ms · sim2k 4509ms · best-of-3
 
 ## Routine L
 - 2026-07-23 10:30:32 · 🟢 green · no drift · items=322 bosses=13
@@ -47,14 +47,14 @@ _Updated: 2026-07-25 20:41:51 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-07-25 19:41:47 · 🟡 warn · attention: I · 12/14 green · 96 fires today
 - 2026-07-25 20:11:49 · 🟡 warn · attention: I · 12/14 green · 102 fires today
 - 2026-07-25 20:41:51 · 🟡 warn · attention: I · 12/14 green · 106 fires today
+- 2026-07-25 21:11:53 · 🟡 warn · attention: I · 12/14 green · 113 fires today
 
 ## Routine Q
-- 2026-07-25 18:11:32 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-07-25 19:11:32 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-07-25 20:11:32 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-07-25 21:11:32 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
 - 2026-07-25 15:11:47 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-07-25 20:41:51 IDT_
 - 2026-07-25 19:12:07 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-07-25 20:12:47 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-25 20:22:48 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-25 20:32:49 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-25 20:42:50 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-25 20:52:51 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-25 21:02:52 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
