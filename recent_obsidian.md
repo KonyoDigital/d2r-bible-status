@@ -1,12 +1,12 @@
 # Recent Routine History
 
-_Updated: 2026-07-26 22:06:28 IDT_
+_Updated: 2026-07-26 22:36:30 IDT_
 
 
 ## Routine G
-- 2026-07-25 21:13:32 · 🟢 green · 7/7 categories · 312/312 items · sim 3509ms · 0 errors
 - 2026-07-26 10:06:24 · 🟢 green · 7/7 categories · 312/312 items · sim 3564ms · 0 errors
 - 2026-07-26 16:06:54 · 🟢 green · 7/7 categories · 312/312 items · sim 3508ms · 0 errors
+- 2026-07-26 22:07:43 · 🟢 green · 7/7 categories · 312/312 items · sim 3508ms · 0 errors
 
 ## Routine H
 - 2026-07-24 21:04:46 · 🟢 green · 322/322 items click cleanly · 0 fails · 6730ms
@@ -47,9 +47,9 @@ _Updated: 2026-07-26 22:06:28 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-07-26 21:06:24 · 🟡 warn · attention: I · 12/14 green · 146 fires today
 - 2026-07-26 21:36:26 · 🟡 warn · attention: I · 12/14 green · 150 fires today
 - 2026-07-26 22:06:28 · 🟡 warn · attention: I · 12/14 green · 156 fires today
+- 2026-07-26 22:36:30 · 🟡 warn · attention: I · 12/14 green · 162 fires today
 
 ## Routine Q
 - 2026-07-26 20:05:27 · 🟢 green · 0 auto-fixes · 0 alerts
@@ -57,11 +57,11 @@ _Updated: 2026-07-26 22:06:28 IDT_
 - 2026-07-26 22:05:27 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
-- 2026-07-26 13:05:41 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-07-26 18:05:55 · 🟡 warn · 1/7 smoke checks FAILED: field-manual-injects
 - 2026-07-26 20:06:28 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
+- 2026-07-26 22:06:38 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-07-26 21:37:02 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-26 21:47:03 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-26 21:57:04 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-26 22:07:04 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-26 22:17:06 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-26 22:27:06 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
