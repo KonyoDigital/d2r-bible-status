@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-07-26 09:35:20 IDT_
+_Updated: 2026-07-26 10:05:22 IDT_
 
 
 ## Routine G
@@ -19,14 +19,14 @@ _Updated: 2026-07-26 09:35:20 IDT_
 - 2026-07-25 15:52:25 · 🔴 red · 1442 passed · 7 failed · 6 skipped
 
 ## Routine J
-- 2026-07-23 10:00:14 · 🟢 green · 4 screenshots captured · 592K logs/J_20260723_100005/01_bosses.png 444K logs/J_20260723_100005/02_travincal_open.png 820K logs/J_20260723_100005/03_calc_shako.png 672K logs/J_20260723_100005/04_tz.png 
 - 2026-07-24 10:08:24 · 🟢 green · 4 screenshots captured · 604K logs/J_20260724_100812/01_bosses.png 604K logs/J_20260724_100812/02_travincal_open.png 820K logs/J_20260724_100812/03_calc_shako.png 660K logs/J_20260724_100812/04_tz.png 
-- 2026-07-25 10:08:58 · 🟢 green · 4 screenshots captured · 592K logs/J_20260725_100851/01_bosses.png 576K logs/J_20260725_100851/02_travincal_open.png 812K logs/J_20260725_100851/03_calc_shako.png 632K logs/J_20260725_100851/04_tz.png
+- 2026-07-25 10:08:58 · 🟢 green · 4 screenshots captured · 592K logs/J_20260725_100851/01_bosses.png 576K logs/J_20260725_100851/02_travincal_open.png 812K logs/J_20260725_100851/03_calc_shako.png 632K logs/J_20260725_100851/04_tz.png 
+- 2026-07-26 10:00:13 · 🟢 green · 4 screenshots captured · 604K logs/J_20260726_100005/01_bosses.png 580K logs/J_20260726_100005/02_travincal_open.png 820K logs/J_20260726_100005/03_calc_shako.png 652K logs/J_20260726_100005/04_tz.png
 
 ## Routine K
-- 2026-07-25 03:09:50 · 🟢 green · load 878ms · boss 73ms · sim2k 4510ms · best-of-3
 - 2026-07-25 15:11:31 · 🟢 green · skipped · system load 6.58 too high (>4)
 - 2026-07-25 21:11:50 · 🟢 green · load 769ms · boss 67ms · sim2k 4509ms · best-of-3
+- 2026-07-26 10:05:04 · 🟢 green · skipped · system load 7.13 too high (>4)
 
 ## Routine L
 - 2026-07-23 10:30:32 · 🟢 green · no drift · items=322 bosses=13
@@ -47,14 +47,14 @@ _Updated: 2026-07-26 09:35:20 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-07-26 08:35:16 · 🟡 warn · attention: I, R, T · 12/14 green · 13 fires today
 - 2026-07-26 09:05:18 · 🟡 warn · attention: I, R · 12/14 green · 19 fires today
 - 2026-07-26 09:35:20 · 🟡 warn · attention: I · 12/14 green · 24 fires today
+- 2026-07-26 10:05:22 · 🟡 warn · attention: I · 12/14 green · 30 fires today
 
 ## Routine Q
-- 2026-07-25 23:11:32 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-07-26 08:05:04 · 🟢 green · 2 auto-fixes · 0 alerts · fixed: [FIXED] Q was stale (8h since , [FIXED] R was stale (8h since 
-- 2026-07-26 09:05:04 · 🟢 green · 1 auto-fixes · 0 alerts · fixed: [FIXED] R was stale (9h since
+- 2026-07-26 09:05:04 · 🟢 green · 1 auto-fixes · 0 alerts · fixed: [FIXED] R was stale (9h since 
+- 2026-07-26 10:05:04 · 🟢 green · 2 auto-fixes · 0 alerts · fixed: [FIXED] G was stale (12h since, [FIXED] K was stale (12h since
 
 ## Routine R
 - 2026-07-25 21:12:17 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-07-26 09:35:20 IDT_
 - 2026-07-26 09:05:20 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-07-26 09:15:17 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-07-26 09:25:18 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
 - 2026-07-26 09:35:20 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-26 09:45:21 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-07-26 09:55:23 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
