@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-07-28 22:11:35 · pushed: 2026-07-28 22:11:35 IDT_
+_Snapshot generated: 2026-07-28 22:41:38 · pushed: 2026-07-28 22:41:38 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
-**Attention (red / warn / stale / overdue)**: I, Q, R
-**Fires today**: 146 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Attention (red / warn / stale / overdue)**: I, R
+**Fires today**: 151 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -13,8 +13,7 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | ID | Status | Schedule | Last Run | Today | Health | Summary |
 |----|--------|----------|----------|-------|--------|---------|
 | I | 🔴 red | daily 09:00 | 2026-07-28 10:10:20 | 1/1 | on-schedule | 1475 passed · 6 failed · 6 skipped |
-| P | 🟡 warn | every 30min | 2026-07-28 21:41:33 | 27/48 | on-schedule | attention: I, Q, S · 11/14 green · 142 fires today |
-| Q | 🟡 warn | every 1h | 2026-07-28 21:41:33 | 14/24 | on-schedule | 4 auto-fixes · 1 alerts · fixed: [FIXED] P was stale (4h since , [FIXED] Q was s |
+| P | 🟡 warn | every 30min | 2026-07-28 22:11:35 | 28/48 | on-schedule | attention: I, Q, R · 11/14 green · 146 fires today |
 | G | 🟢 green | every 6h | 2026-07-28 12:32:08 | 2/4 | on-schedule | 7/7 categories · 312/312 items · sim 3507ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-07-28 15:27:53 | 1/2 | on-schedule | 322/322 items click cleanly · 0 fails · 6070ms |
 | J | 🟢 green | daily 10:00 | 2026-07-28 10:00:12 | 1/1 | on-schedule | 4 screenshots captured · 584K logs/J_20260728_100005/01_bosses.png 168K logs/J_2 |
@@ -23,8 +22,9 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | on-schedule | no patches needed |
 | N | 🟢 green | daily 23:30 | 2026-07-27 23:30:05 | 0/1 | on-schedule | rollup written (16383 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
+| Q | 🟢 green | every 1h | 2026-07-28 22:41:33 | 15/24 | on-schedule | 1 auto-fixes · 0 alerts · fixed: [FIXED] R was stale (7h since |
 | R | 🟢 green | every 2h | 2026-07-28 15:28:13 | 6/12 | ⏰ stale | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-07-28 22:01:37 | 82/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| S | 🟢 green | every 10min | 2026-07-28 22:31:39 | 85/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
 | T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-07-28 21:08:40 | 9/15 | on-schedule | B-PM fired · severity=green · 3857/129 tok |
 
 ## What each routine does
