@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-07-29 15:58:56 · pushed: 2026-07-29 15:58:56 IDT_
+_Snapshot generated: 2026-07-29 16:28:57 · pushed: 2026-07-29 16:28:57 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
-**Attention (red / warn / stale / overdue)**: I, S
-**Fires today**: 119 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Attention (red / warn / stale / overdue)**: I
+**Fires today**: 125 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -13,8 +13,7 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | ID | Status | Schedule | Last Run | Today | Health | Summary |
 |----|--------|----------|----------|-------|--------|---------|
 | I | 🔴 red | daily 09:00 | 2026-07-29 10:06:43 | 1/1 | on-schedule | 1475 passed · 6 failed · 6 skipped |
-| P | 🟡 warn | every 30min | 2026-07-29 15:28:54 | 22/48 | on-schedule | attention: I · 12/14 green · 113 fires today |
-| S | 🟡 warn | every 10min | 2026-07-29 15:49:19 | 67/144 | on-schedule | gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible- |
+| P | 🟡 warn | every 30min | 2026-07-29 15:58:56 | 23/48 | on-schedule | attention: I, S · 11/14 green · 119 fires today |
 | G | 🟢 green | every 6h | 2026-07-29 15:35:25 | 2/4 | on-schedule | 7/7 categories · 312/312 items · sim 3508ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-07-29 12:28:53 | 1/2 | on-schedule | 322/322 items click cleanly · 0 fails · 5723ms |
 | J | 🟢 green | daily 10:00 | 2026-07-29 10:00:12 | 1/1 | on-schedule | 4 screenshots captured · 584K logs/J_20260729_100005/01_bosses.png 592K logs/J_2 |
@@ -23,9 +22,10 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | on-schedule | no patches needed |
 | N | 🟢 green | daily 23:30 | 2026-07-28 23:30:05 | 0/1 | on-schedule | rollup written (16214 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
-| Q | 🟢 green | every 1h | 2026-07-29 15:28:26 | 11/24 | on-schedule | 0 auto-fixes · 0 alerts |
+| Q | 🟢 green | every 1h | 2026-07-29 16:28:26 | 12/24 | on-schedule | 0 auto-fixes · 0 alerts |
 | R | 🟢 green | every 2h | 2026-07-29 12:28:44 | 4/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
-| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-07-29 12:29:07 | 7/15 | on-schedule | E fired · severity=yellow · 3920/223 tok |
+| S | 🟢 green | every 10min | 2026-07-29 16:19:22 | 70/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-07-29 16:28:41 | 8/15 | on-schedule | D fired · severity=green · 4017/79 tok |
 
 ## What each routine does
 
