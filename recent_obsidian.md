@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-02 23:03:25 IDT_
+_Updated: 2026-08-02 23:33:27 IDT_
 
 
 ## Routine G
@@ -37,9 +37,9 @@ _Updated: 2026-08-02 23:03:25 IDT_
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
 
 ## Routine N
-- 2026-07-30 23:30:05 · 🟢 green · rollup written (14673 bytes, 14 routines)
 - 2026-07-31 23:30:05 · 🟢 green · rollup written (15658 bytes, 14 routines)
 - 2026-08-01 23:30:05 · 🟢 green · rollup written (14294 bytes, 14 routines)
+- 2026-08-02 23:30:03 · 🟢 green · rollup written (14198 bytes, 14 routines)
 
 ## Routine O
 - 2026-05-27 01:14:04 · 🟢 green · shipped konyo_d2r_bible_v40.html -> FINAL.html
@@ -47,9 +47,9 @@ _Updated: 2026-08-02 23:03:25 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-02 22:03:22 · 🟡 warn · attention: I · 12/14 green · 236 fires today
 - 2026-08-02 22:33:24 · 🟡 warn · attention: I · 12/14 green · 242 fires today
 - 2026-08-02 23:03:25 · 🟡 warn · attention: I · 12/14 green · 247 fires today
+- 2026-08-02 23:33:27 · 🟡 warn · attention: I · 12/14 green · 252 fires today
 
 ## Routine Q
 - 2026-08-02 20:54:56 · 🟢 green · 0 auto-fixes · 0 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-08-02 23:03:25 IDT_
 - 2026-08-02 22:03:43 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-02 22:38:55 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-02 22:48:56 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-02 22:58:56 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-02 23:08:57 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-02 23:18:58 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-02 23:28:59 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
