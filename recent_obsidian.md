@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-04 09:37:11 IDT_
+_Updated: 2026-08-04 10:07:13 IDT_
 
 
 ## Routine G
@@ -19,9 +19,9 @@ _Updated: 2026-08-04 09:37:11 IDT_
 - 2026-08-03 10:37:08 · 🔴 red · 1711 passed · 6 failed · 15 skipped
 
 ## Routine J
-- 2026-08-01 10:00:08 · 🟢 green · 4 screenshots captured · 580K logs/J_20260801_100004/01_bosses.png 572K logs/J_20260801_100004/02_travincal_open.png 848K logs/J_20260801_100004/03_calc_shako.png 632K logs/J_20260801_100004/04_tz.png 
 - 2026-08-02 10:00:10 · 🟢 green · 4 screenshots captured · 604K logs/J_20260802_100003/01_bosses.png 632K logs/J_20260802_100003/02_travincal_open.png 820K logs/J_20260802_100003/03_calc_shako.png 648K logs/J_20260802_100003/04_tz.png 
-- 2026-08-03 10:00:11 · 🟢 green · 4 screenshots captured · 592K logs/J_20260803_100004/01_bosses.png 592K logs/J_20260803_100004/02_travincal_open.png 820K logs/J_20260803_100004/03_calc_shako.png 624K logs/J_20260803_100004/04_tz.png
+- 2026-08-03 10:00:11 · 🟢 green · 4 screenshots captured · 592K logs/J_20260803_100004/01_bosses.png 592K logs/J_20260803_100004/02_travincal_open.png 820K logs/J_20260803_100004/03_calc_shako.png 624K logs/J_20260803_100004/04_tz.png 
+- 2026-08-04 10:00:08 · 🟢 green · 4 screenshots captured · 596K logs/J_20260804_100001/01_bosses.png 596K logs/J_20260804_100001/02_travincal_open.png 820K logs/J_20260804_100001/03_calc_shako.png 624K logs/J_20260804_100001/04_tz.png
 
 ## Routine K
 - 2026-08-03 10:12:21 · 🟢 green · skipped · system load 10.70 too high (>4)
@@ -47,21 +47,21 @@ _Updated: 2026-08-04 09:37:11 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-04 08:37:03 · 🟡 warn · attention: I, T · 12/14 green · 12 fires today
 - 2026-08-04 09:07:09 · 🟡 warn · attention: I · 12/14 green · 22 fires today
 - 2026-08-04 09:37:11 · 🟡 warn · attention: I · 12/14 green · 26 fires today
+- 2026-08-04 10:07:13 · 🟡 warn · attention: I · 12/14 green · 33 fires today
 
 ## Routine Q
-- 2026-08-03 23:06:52 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-04 07:55:06 · 🟢 green · 2 auto-fixes · 0 alerts · fixed: [FIXED] Q was stale (8h since , [FIXED] R was stale (9h since 
 - 2026-08-04 08:55:06 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-08-04 09:55:06 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
-- 2026-08-03 20:18:01 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-08-03 22:18:11 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-08-04 07:55:16 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
+- 2026-08-04 09:55:29 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-04 09:13:12 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-04 09:23:13 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-04 09:33:14 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-04 09:43:15 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-04 09:53:16 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-04 10:03:17 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
