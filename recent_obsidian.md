@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-04 08:06:59 IDT_
+_Updated: 2026-08-04 08:37:04 IDT_
 
 
 ## Routine G
@@ -47,9 +47,9 @@ _Updated: 2026-08-04 08:06:59 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-03 23:18:40 · 🟡 warn · attention: I · 12/14 green · 245 fires today
 - 2026-08-04 07:36:57 · 🟡 warn · attention: I, Q, R, T · 12/14 green · 2 fires today
 - 2026-08-04 08:06:59 · 🟡 warn · attention: I, T · 12/14 green · 8 fires today
+- 2026-08-04 08:37:03 · 🟡 warn · attention: I, T · 12/14 green · 12 fires today
 
 ## Routine Q
 - 2026-08-03 22:06:52 · 🟢 green · 0 auto-fixes · 0 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-08-04 08:06:59 IDT_
 - 2026-08-04 07:55:16 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-04 07:43:00 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-04 07:53:02 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-04 08:03:03 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-04 08:13:04 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-04 08:23:06 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-04 08:33:07 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
