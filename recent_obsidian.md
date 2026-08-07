@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-07 10:04:31 IDT_
+_Updated: 2026-08-07 10:34:33 IDT_
 
 
 ## Routine G
@@ -47,21 +47,21 @@ _Updated: 2026-08-07 10:04:31 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-07 09:04:27 · 🟡 warn · attention: I, K · 11/14 green · 90 fires today
 - 2026-08-07 09:34:29 · 🟡 warn · attention: I, K · 11/14 green · 99 fires today
 - 2026-08-07 10:04:31 · 🟡 warn · attention: I, K · 11/14 green · 103 fires today
+- 2026-08-07 10:34:33 · 🟡 warn · attention: I, K · 11/14 green · 110 fires today
 
 ## Routine Q
-- 2026-08-07 07:17:36 · 🟢 green · 1 auto-fixes · 0 alerts · fixed: [FIXED] G was stale (13h since
 - 2026-08-07 08:17:37 · 🟢 green · 1 auto-fixes · 0 alerts · fixed: [FIXED] G was stale (14h since
 - 2026-08-07 09:17:37 · 🟢 green · 1 auto-fixes · 0 alerts · fixed: [FIXED] G was stale (15h since
+- 2026-08-07 10:17:37 · 🟢 green · 3 auto-fixes · 0 alerts · fixed: [FIXED] H stderr was 1498B → a, [FIXED] G was stale (16h since, [FIXED] H was stale (24h since
 
 ## Routine R
-- 2026-08-07 04:17:46 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-08-07 06:17:55 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-08-07 08:18:04 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
+- 2026-08-07 10:18:14 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-07 09:43:46 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-07 09:53:47 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-07 10:03:48 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-07 10:13:50 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-07 10:23:51 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-07 10:33:52 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
