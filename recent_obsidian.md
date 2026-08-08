@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-09 00:36:04 IDT_
+_Updated: 2026-08-09 01:06:06 IDT_
 
 
 ## Routine G
@@ -47,14 +47,14 @@ _Updated: 2026-08-09 00:36:04 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-08 23:36:00 · 🟡 warn · attention: G, H, I, J, K, L · 11/14 green · 237 fires today
 - 2026-08-09 00:06:02 · 🟡 warn · attention: G, H, I, K · 11/14 green · 2 fires today
 - 2026-08-09 00:36:04 · 🟡 warn · attention: G, H, I, K · 11/14 green · 6 fires today
+- 2026-08-09 01:06:06 · 🟡 warn · attention: G, H, I, K · 11/14 green · 11 fires today
 
 ## Routine Q
-- 2026-08-08 22:05:25 · 🟢 green · 5 auto-fixes · 0 alerts · fixed: [FIXED] L stderr was 1189B → a, [FIXED] G was stale (52h since, [FIXED] H was stale (60h since...
 - 2026-08-08 23:05:25 · 🟢 green · 6 auto-fixes · 0 alerts · fixed: [FIXED] H stderr was 1498B → a, [FIXED] L stderr was 1189B → a, [FIXED] G was stale (53h since...
 - 2026-08-09 00:05:25 · 🟢 green · 5 auto-fixes · 0 alerts · fixed: [FIXED] L stderr was 1189B → a, [FIXED] G was stale (54h since, [FIXED] H was stale (62h since...
+- 2026-08-09 01:05:26 · 🟢 green · 7 auto-fixes · 0 alerts · fixed: [FIXED] H stderr was 1498B → a, [FIXED] L stderr was 1189B → a, [FIXED] G was stale (55h since...
 
 ## Routine R
 - 2026-08-08 15:18:49 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-08-09 00:36:04 IDT_
 - 2026-08-08 20:05:41 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-09 00:06:15 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-09 00:16:16 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-09 00:26:17 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-09 00:36:19 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-09 00:46:20 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-09 00:56:21 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
