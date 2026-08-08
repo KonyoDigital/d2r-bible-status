@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-08 23:05:59 IDT_
+_Updated: 2026-08-08 23:36:00 IDT_
 
 
 ## Routine G
@@ -37,9 +37,9 @@ _Updated: 2026-08-08 23:05:59 IDT_
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
 
 ## Routine N
-- 2026-08-05 23:30:00 · 🟢 green · rollup written (17677 bytes, 14 routines)
 - 2026-08-06 23:30:05 · 🟢 green · rollup written (17483 bytes, 14 routines)
 - 2026-08-07 23:30:05 · 🟢 green · rollup written (17703 bytes, 14 routines)
+- 2026-08-08 23:30:05 · 🟢 green · rollup written (18028 bytes, 14 routines)
 
 ## Routine O
 - 2026-05-27 01:14:04 · 🟢 green · shipped konyo_d2r_bible_v40.html -> FINAL.html
@@ -47,9 +47,9 @@ _Updated: 2026-08-08 23:05:59 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-08 22:05:55 · 🟡 warn · attention: G, H, I, J, K, L · 11/14 green · 223 fires today
 - 2026-08-08 22:35:56 · 🟡 warn · attention: G, H, I, J, K, L · 11/14 green · 227 fires today
 - 2026-08-08 23:05:59 · 🟡 warn · attention: G, H, I, J, K, L · 11/14 green · 232 fires today
+- 2026-08-08 23:36:00 · 🟡 warn · attention: G, H, I, J, K, L · 11/14 green · 237 fires today
 
 ## Routine Q
 - 2026-08-08 21:05:25 · 🟢 green · 6 auto-fixes · 0 alerts · fixed: [FIXED] H stderr was 1498B → a, [FIXED] L stderr was 1189B → a, [FIXED] G was stale (51h since...
@@ -62,6 +62,6 @@ _Updated: 2026-08-08 23:05:59 IDT_
 - 2026-08-08 20:05:41 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-08 22:36:05 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-08 22:46:06 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-08 22:56:07 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-08 23:06:08 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-08 23:16:09 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-08 23:26:11 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
