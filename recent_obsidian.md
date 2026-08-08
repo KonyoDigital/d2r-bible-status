@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-08 06:05:47 IDT_
+_Updated: 2026-08-08 06:35:49 IDT_
 
 
 ## Routine G
@@ -47,14 +47,14 @@ _Updated: 2026-08-08 06:05:47 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-08 05:05:44 · 🟡 warn · attention: G, H, I, K · 11/14 green · 50 fires today
 - 2026-08-08 05:35:45 · 🟡 warn · attention: G, H, I, K · 11/14 green · 57 fires today
 - 2026-08-08 06:05:47 · 🟡 warn · attention: G, H, I, K · 11/14 green · 61 fires today
+- 2026-08-08 06:35:49 · 🟡 warn · attention: G, H, I, K · 11/14 green · 65 fires today
 
 ## Routine Q
-- 2026-08-08 03:17:40 · 🟢 green · 3 auto-fixes · 0 alerts · fixed: [FIXED] G was stale (33h since, [FIXED] H was stale (41h since, [FIXED] R was stale (4h since 
 - 2026-08-08 04:17:40 · 🟢 green · 3 auto-fixes · 0 alerts · fixed: [FIXED] H stderr was 1498B → a, [FIXED] G was stale (34h since, [FIXED] H was stale (42h since
 - 2026-08-08 05:17:40 · 🟢 green · 2 auto-fixes · 0 alerts · fixed: [FIXED] G was stale (35h since, [FIXED] H was stale (43h since
+- 2026-08-08 06:17:41 · 🟢 green · 3 auto-fixes · 0 alerts · fixed: [FIXED] H stderr was 1498B → a, [FIXED] G was stale (36h since, [FIXED] H was stale (44h since
 
 ## Routine R
 - 2026-08-07 22:19:13 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-08-08 06:05:47 IDT_
 - 2026-08-08 05:17:59 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-08 05:45:45 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-08 05:55:46 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
 - 2026-08-08 06:05:46 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-08 06:15:47 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-08 06:25:48 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
