@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-09 23:07:36 IDT_
+_Updated: 2026-08-09 23:37:38 IDT_
 
 
 ## Routine G
@@ -37,9 +37,9 @@ _Updated: 2026-08-09 23:07:36 IDT_
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
 
 ## Routine N
-- 2026-08-06 23:30:05 · 🟢 green · rollup written (17483 bytes, 14 routines)
 - 2026-08-07 23:30:05 · 🟢 green · rollup written (17703 bytes, 14 routines)
 - 2026-08-08 23:30:05 · 🟢 green · rollup written (18028 bytes, 14 routines)
+- 2026-08-09 23:30:00 · 🟢 green · rollup written (17847 bytes, 14 routines)
 
 ## Routine O
 - 2026-05-27 01:14:04 · 🟢 green · shipped konyo_d2r_bible_v40.html -> FINAL.html
@@ -47,9 +47,9 @@ _Updated: 2026-08-09 23:07:36 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-09 22:07:30 · 🟡 warn · attention: I · 12/14 green · 230 fires today
 - 2026-08-09 22:37:32 · 🟡 warn · attention: I · 12/14 green · 234 fires today
 - 2026-08-09 23:07:36 · 🟡 warn · attention: I · 12/14 green · 239 fires today
+- 2026-08-09 23:37:38 · 🟡 warn · attention: I · 12/14 green · 244 fires today
 
 ## Routine Q
 - 2026-08-09 21:05:31 · 🟢 green · 6 auto-fixes · 0 alerts · fixed: [FIXED] H stderr was 1498B → a, [FIXED] L stderr was 1189B → a, [FIXED] G was stale (75h since...
@@ -62,6 +62,6 @@ _Updated: 2026-08-09 23:07:36 IDT_
 - 2026-08-09 19:07:20 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-09 22:38:40 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-09 22:48:41 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-09 22:58:42 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-09 23:08:43 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-09 23:18:44 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-09 23:28:44 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
