@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-08-09 21:07:26 · pushed: 2026-08-09 21:07:26 IDT_
+_Snapshot generated: 2026-08-09 21:37:28 · pushed: 2026-08-09 21:37:28 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
 **Attention (red / warn / stale / overdue)**: I, K
-**Fires today**: 218 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Fires today**: 222 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -14,7 +14,7 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 |----|--------|----------|----------|-------|--------|---------|
 | I | 🔴 red | daily 09:00 | 2026-08-09 09:20:54 | 1/1 | on-schedule | 55 passed · 1841 failed · 14 skipped |
 | K | 🔴 red | every 6h | 2026-08-09 16:05:28 | 3/4 | on-schedule | all 3 perf runs failed |
-| P | 🟡 warn | every 30min | 2026-08-09 20:37:25 | 42/48 | on-schedule | attention: G, H, I, J, K, L · 11/14 green · 208 fires today |
+| P | 🟡 warn | every 30min | 2026-08-09 21:07:26 | 43/48 | on-schedule | attention: I, K · 11/14 green · 218 fires today |
 | G | 🟢 green | every 6h | 2026-08-09 21:06:04 | 1/4 | on-schedule | 7/7 categories · 312/312 items · sim 3508ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-08-09 21:05:41 | 1/2 | on-schedule | 322/322 items click cleanly · 0 fails · 8687ms |
 | J | 🟢 green | daily 10:00 | 2026-08-09 21:05:36 | 1/1 | on-schedule | 4 screenshots captured · 596K logs/J_20260809_210531/01_bosses.png 700K logs/J_2 |
@@ -24,7 +24,7 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
 | Q | 🟢 green | every 1h | 2026-08-09 21:05:31 | 22/24 | on-schedule | 6 auto-fixes · 0 alerts · fixed: [FIXED] H stderr was 1498B → a, [FIXED] L stder |
 | R | 🟢 green | every 2h | 2026-08-09 19:07:20 | 8/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-08-09 20:58:30 | 126/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| S | 🟢 green | every 10min | 2026-08-09 21:28:33 | 129/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
 | T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-08-09 21:00:08 | 12/15 | on-schedule | B-PM fired · severity=yellow · 4016/234 tok |
 
 ## What each routine does
