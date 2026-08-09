@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-09 09:36:40 IDT_
+_Updated: 2026-08-09 10:06:42 IDT_
 
 
 ## Routine G
@@ -24,9 +24,9 @@ _Updated: 2026-08-09 09:36:40 IDT_
 - 2026-08-06 10:00:13 · 🟢 green · 4 screenshots captured · 604K logs/J_20260806_100005/01_bosses.png 568K logs/J_20260806_100005/02_travincal_open.png 824K logs/J_20260806_100005/03_calc_shako.png 644K logs/J_20260806_100005/04_tz.png
 
 ## Routine K
-- 2026-08-08 11:19:51 · 🔴 red · all 3 perf runs failed
 - 2026-08-08 22:05:24 · 🔴 red · all 3 perf runs failed
 - 2026-08-09 04:05:26 · 🔴 red · all 3 perf runs failed
+- 2026-08-09 10:05:27 · 🔴 red · all 3 perf runs failed
 
 ## Routine L
 - 2026-08-04 10:30:02 · 🟢 green · no drift · items=322 bosses=13
@@ -47,14 +47,14 @@ _Updated: 2026-08-09 09:36:40 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-09 08:36:36 · 🟡 warn · attention: G, H, I, K · 11/14 green · 85 fires today
 - 2026-08-09 09:06:38 · 🟡 warn · attention: G, H, I, K · 11/14 green · 92 fires today
 - 2026-08-09 09:36:40 · 🟡 warn · attention: G, H, I, K · 11/14 green · 97 fires today
+- 2026-08-09 10:06:42 · 🟡 warn · attention: G, H, I, K · 11/14 green · 105 fires today
 
 ## Routine Q
-- 2026-08-09 07:05:27 · 🟢 green · 6 auto-fixes · 0 alerts · fixed: [FIXED] H stderr was 1498B → a, [FIXED] L stderr was 1189B → a, [FIXED] G was stale (61h since...
 - 2026-08-09 08:05:27 · 🟢 green · 5 auto-fixes · 0 alerts · fixed: [FIXED] L stderr was 1189B → a, [FIXED] G was stale (62h since, [FIXED] H was stale (70h since...
 - 2026-08-09 09:05:28 · 🟢 green · 6 auto-fixes · 0 alerts · fixed: [FIXED] H stderr was 1498B → a, [FIXED] L stderr was 1189B → a, [FIXED] G was stale (63h since...
+- 2026-08-09 10:05:28 · 🟢 green · 5 auto-fixes · 0 alerts · fixed: [FIXED] L stderr was 1189B → a, [FIXED] G was stale (64h since, [FIXED] H was stale (72h since...
 
 ## Routine R
 - 2026-08-09 05:05:45 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-08-09 09:36:40 IDT_
 - 2026-08-09 09:06:08 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-09 09:07:12 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-09 09:17:13 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-09 09:27:14 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-09 09:37:15 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-09 09:47:16 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-09 09:57:17 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
