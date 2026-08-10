@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-08-10 09:04:42 · pushed: 2026-08-10 09:04:42 IDT_
+_Snapshot generated: 2026-08-10 09:34:44 · pushed: 2026-08-10 09:34:44 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
 **Attention (red / warn / stale / overdue)**: I, R
-**Fires today**: 45 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Fires today**: 49 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -13,7 +13,7 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | ID | Status | Schedule | Last Run | Today | Health | Summary |
 |----|--------|----------|----------|-------|--------|---------|
 | I | 🔴 red | daily 09:00 | 2026-08-09 09:20:54 | 0/1 | on-schedule | 55 passed · 1841 failed · 14 skipped |
-| P | 🟡 warn | every 30min | 2026-08-10 08:34:40 | 8/48 | on-schedule | attention: I, Q, R, S, T · 11/14 green · 36 fires today |
+| P | 🟡 warn | every 30min | 2026-08-10 09:04:42 | 9/48 | on-schedule | attention: I, R · 11/14 green · 45 fires today |
 | R | 🟡 warn | every 2h | 2026-08-10 02:06:19 | 2/12 | ⏰ stale | 1/7 smoke checks FAILED: field-manual-injects |
 | G | 🟢 green | every 6h | 2026-08-10 03:06:36 | 1/4 | on-schedule | 7/7 categories · 312/312 items · sim 3508ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-08-09 21:05:41 | 0/2 | on-schedule | 322/322 items click cleanly · 0 fails · 8687ms |
@@ -24,7 +24,7 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | N | 🟢 green | daily 23:30 | 2026-08-09 23:30:00 | 0/1 | on-schedule | rollup written (17847 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
 | Q | 🟢 green | every 1h | 2026-08-10 09:02:18 | 5/24 | on-schedule | 2 auto-fixes · 0 alerts · fixed: [FIXED] Q was stale (5h since , [FIXED] R was s |
-| S | 🟢 green | every 10min | 2026-08-10 08:56:01 | 24/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| S | 🟢 green | every 10min | 2026-08-10 09:26:05 | 27/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
 | T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-08-10 09:02:44 | 4/15 | on-schedule | E fired · severity=yellow · 3927/239 tok |
 
 ## What each routine does
