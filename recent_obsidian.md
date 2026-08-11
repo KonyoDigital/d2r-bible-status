@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-11 22:50:27 IDT_
+_Updated: 2026-08-11 23:20:29 IDT_
 
 
 ## Routine G
@@ -47,14 +47,14 @@ _Updated: 2026-08-11 22:50:27 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-11 21:50:23 · 🟡 warn · attention: I, Q · 11/14 green · 217 fires today
 - 2026-08-11 22:20:25 · 🟡 warn · attention: I · 12/14 green · 227 fires today
 - 2026-08-11 22:50:27 · 🟡 warn · attention: I · 12/14 green · 231 fires today
+- 2026-08-11 23:20:29 · 🟡 warn · attention: I · 12/14 green · 236 fires today
 
 ## Routine Q
-- 2026-08-11 20:15:09 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-11 21:15:09 · 🔴 red · 🔴 I disk full writing unknown path — free up space · 1 auto-fixes · 1 alerts · fixed: [FIXED] I stderr → /Users/konyo/d2r_bible_routines/run_routi
 - 2026-08-11 22:15:10 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-08-11 23:15:10 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
 - 2026-08-11 18:18:10 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-08-11 22:50:27 IDT_
 - 2026-08-11 22:18:33 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-11 22:26:52 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-11 22:36:54 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-11 22:46:55 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-11 22:56:56 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-11 23:06:57 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-11 23:16:59 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
