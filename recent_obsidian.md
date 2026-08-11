@@ -1,12 +1,12 @@
 # Recent Routine History
 
-_Updated: 2026-08-11 21:03:32 IDT_
+_Updated: 2026-08-11 21:20:21 IDT_
 
 
 ## Routine G
-- 2026-08-11 02:05:13 · 🟢 green · 7/7 categories · 312/312 items · sim 3513ms · 0 errors
 - 2026-08-11 08:31:36 · 🟢 green · 7/7 categories · 312/312 items · sim 3508ms · 0 errors
 - 2026-08-11 14:44:30 · 🟢 green · 7/7 categories · 312/312 items · sim 3512ms · 0 errors
+- 2026-08-11 21:19:54 · 🟢 green · 7/7 categories · 312/312 items · sim 3512ms · 0 errors
 
 ## Routine H
 - 2026-08-10 14:02:37 · 🟢 green · 322/322 items click cleanly · 0 fails · 9027ms
@@ -47,14 +47,14 @@ _Updated: 2026-08-11 21:03:32 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-11 19:50:14 · 🟡 warn · attention: I · 12/14 green · 196 fires today
 - 2026-08-11 20:20:17 · 🟡 warn · attention: I · 12/14 green · 202 fires today
 - 2026-08-11 20:50:19 · 🟡 warn · attention: I, T · 12/14 green · 206 fires today
+- 2026-08-11 21:20:21 · 🟡 warn · attention: I, Q · 11/14 green · 213 fires today
 
 ## Routine Q
-- 2026-08-11 18:15:08 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-11 19:15:09 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-11 20:15:09 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-08-11 21:15:09 · 🔴 red · 🔴 I disk full writing unknown path — free up space · 1 auto-fixes · 1 alerts · fixed: [FIXED] I stderr → /Users/konyo/d2r_bible_routines/run_routi
 
 ## Routine R
 - 2026-08-11 15:43:18 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-08-11 21:03:32 IDT_
 - 2026-08-11 20:18:23 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-11 20:36:41 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-11 20:46:42 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
 - 2026-08-11 20:56:43 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-11 21:06:44 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-11 21:16:45 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
