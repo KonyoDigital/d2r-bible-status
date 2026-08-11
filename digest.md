@@ -1,6 +1,6 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-08-11 20:50:19 · pushed: 2026-08-11 20:54:29 IDT_
+_Snapshot generated: 2026-08-11 20:50:19 · pushed: 2026-08-11 20:55:19 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
 **Attention (red / warn / stale / overdue)**: I, T
