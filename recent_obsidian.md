@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-11 15:15:08 IDT_
+_Updated: 2026-08-11 15:45:10 IDT_
 
 
 ## Routine G
@@ -24,9 +24,9 @@ _Updated: 2026-08-11 15:15:08 IDT_
 - 2026-08-11 10:00:14 · 🟢 green · 4 screenshots captured · 580K logs/J_20260811_100005/01_bosses.png 136K logs/J_20260811_100005/02_travincal_open.png 784K logs/J_20260811_100005/03_calc_shako.png 608K logs/J_20260811_100005/04_tz.png
 
 ## Routine K
-- 2026-08-10 21:03:11 · 🟢 green · load 924ms · boss 69ms · sim2k 4508ms · best-of-3
 - 2026-08-11 03:03:32 · 🟢 green · load 1052ms · boss 80ms · sim2k 4509ms · best-of-3
 - 2026-08-11 09:41:37 · 🟢 green · skipped · system load 15.73 too high (>4)
+- 2026-08-11 15:41:57 · 🟢 green · load 1234ms · boss 78ms · sim2k 4510ms · best-of-3
 
 ## Routine L
 - 2026-08-09 21:05:33 · 🟢 green · no drift · items=322 bosses=13
@@ -47,21 +47,21 @@ _Updated: 2026-08-11 15:15:08 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-11 14:15:03 · 🟡 warn · attention: I · 12/14 green · 144 fires today
 - 2026-08-11 14:45:06 · 🟡 warn · attention: I · 12/14 green · 151 fires today
 - 2026-08-11 15:15:08 · 🟡 warn · attention: I · 12/14 green · 155 fires today
+- 2026-08-11 15:45:10 · 🟡 warn · attention: I · 12/14 green · 164 fires today
 
 ## Routine Q
-- 2026-08-11 12:40:29 · 🟢 green · 1 auto-fixes · 0 alerts · fixed: [FIXED] I was stale (51h since
 - 2026-08-11 13:40:29 · 🟢 green · 1 auto-fixes · 0 alerts · fixed: [FIXED] I was stale (52h since
 - 2026-08-11 14:40:29 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-08-11 15:40:29 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
-- 2026-08-11 09:42:34 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-08-11 11:42:49 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-08-11 13:43:08 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
+- 2026-08-11 15:43:18 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-11 14:51:22 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-11 15:01:24 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-11 15:11:25 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-11 15:21:26 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-11 15:31:27 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-11 15:41:28 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
