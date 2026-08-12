@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-12 11:51:24 IDT_
+_Updated: 2026-08-12 12:21:26 IDT_
 
 
 ## Routine G
@@ -47,21 +47,21 @@ _Updated: 2026-08-12 11:51:24 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-12 10:51:19 · 🟡 warn · attention: I · 12/14 green · 117 fires today
 - 2026-08-12 11:21:22 · 🟡 warn · attention: I · 12/14 green · 122 fires today
 - 2026-08-12 11:51:24 · 🟡 warn · attention: I · 12/14 green · 126 fires today
+- 2026-08-12 12:21:26 · 🟡 warn · attention: I · 12/14 green · 132 fires today
 
 ## Routine Q
-- 2026-08-12 09:15:12 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-12 10:15:12 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-12 11:15:12 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-08-12 12:15:13 · 🟢 green · 5 auto-fixes · 0 alerts · fixed: [FIXED] H plist missing from LaunchAgents → installed + load, [FIXED] I plist missing from LaunchAgents → installed + load...
 
 ## Routine R
-- 2026-08-12 06:20:38 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-08-12 08:20:48 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-08-12 10:21:05 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
+- 2026-08-12 12:21:21 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-12 11:28:24 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-12 11:38:26 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-12 11:48:27 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-12 11:58:28 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-12 12:08:29 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-12 12:18:31 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
