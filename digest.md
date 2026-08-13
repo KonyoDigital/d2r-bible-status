@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-08-13 12:44:13 · pushed: 2026-08-13 12:44:13 IDT_
+_Snapshot generated: 2026-08-13 13:14:15 · pushed: 2026-08-13 13:14:15 IDT_
 
 **System health**: 🟢 HEALTHY
 **Attention (red / warn / stale / overdue)**: none — every routine green and on-schedule
-**Fires today**: 130 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Fires today**: 137 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -13,18 +13,18 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | ID | Status | Schedule | Last Run | Today | Health | Summary |
 |----|--------|----------|----------|-------|--------|---------|
 | G | 🟢 green | every 6h | 2026-08-13 10:18:12 | 2/4 | on-schedule | 7/7 categories · 312/312 items · sim 3571ms · 0 errors |
-| H | 🟢 green | every 12h | 2026-08-13 01:06:36 | 1/2 | on-schedule | 322/322 items click cleanly · 0 fails · 14966ms |
+| H | 🟢 green | every 12h | 2026-08-13 13:06:48 | 2/2 | on-schedule | 322/322 items click cleanly · 0 fails · 8985ms |
 | I | 🟢 green | daily 09:00 | 2026-08-13 10:31:25 | 1/1 | on-schedule | 1880 passed · 0 failed · 14 skipped |
 | J | 🟢 green | daily 10:00 | 2026-08-13 10:00:13 | 1/1 | on-schedule | 4 screenshots captured · 580K logs/J_20260813_100005/01_bosses.png 532K logs/J_2 |
-| K | 🟢 green | every 6h | 2026-08-13 07:06:57 | 2/4 | on-schedule | load 934ms · boss 69ms · sim2k 4507ms · best-of-3 |
+| K | 🟢 green | every 6h | 2026-08-13 13:07:17 | 3/4 | on-schedule | load 999ms · boss 69ms · sim2k 4506ms · best-of-3 |
 | L | 🟢 green | daily 10:30 | 2026-08-13 10:30:08 | 1/3 | on-schedule | no drift · items=322 bosses=13 |
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | on-schedule | no patches needed |
 | N | 🟢 green | daily 23:30 | 2026-08-12 23:33:29 | 0/1 | on-schedule | rollup written (11901 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
-| P | 🟢 green | every 30min | 2026-08-13 12:14:11 | 24/48 | on-schedule | system healthy · 14/14 green · 126 fires today (on pace) |
-| Q | 🟢 green | every 1h | 2026-08-13 12:06:22 | 12/24 | on-schedule | 0 auto-fixes · 0 alerts |
+| P | 🟢 green | every 30min | 2026-08-13 12:44:13 | 25/48 | on-schedule | system healthy · 14/14 green · 130 fires today (on pace) |
+| Q | 🟢 green | every 1h | 2026-08-13 13:06:22 | 13/24 | on-schedule | 0 auto-fixes · 0 alerts |
 | R | 🟢 green | every 2h | 2026-08-13 11:14:24 | 6/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-08-13 12:42:04 | 73/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| S | 🟢 green | every 10min | 2026-08-13 13:12:08 | 76/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
 | T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-08-13 11:07:51 | 7/15 | on-schedule | E fired · severity=green · 3913/167 tok |
 
 ## What each routine does
