@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-08-13 20:44:56 · pushed: 2026-08-13 20:44:56 IDT_
+_Snapshot generated: 2026-08-13 21:14:58 · pushed: 2026-08-13 21:14:58 IDT_
 
 **System health**: 🟢 HEALTHY
 **Attention (red / warn / stale / overdue)**: none — every routine green and on-schedule
-**Fires today**: 212 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Fires today**: 218 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -21,11 +21,11 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | on-schedule | no patches needed |
 | N | 🟢 green | daily 23:30 | 2026-08-12 23:33:29 | 0/1 | on-schedule | rollup written (11901 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
-| P | 🟢 green | every 30min | 2026-08-13 20:14:53 | 40/48 | on-schedule | system healthy · 14/14 green · 208 fires today (on pace) |
-| Q | 🟢 green | every 1h | 2026-08-13 20:06:24 | 20/24 | on-schedule | 0 auto-fixes · 0 alerts |
+| P | 🟢 green | every 30min | 2026-08-13 20:44:56 | 41/48 | on-schedule | system healthy · 14/14 green · 212 fires today (on pace) |
+| Q | 🟢 green | every 1h | 2026-08-13 21:06:24 | 21/24 | on-schedule | 0 auto-fixes · 0 alerts |
 | R | 🟢 green | every 2h | 2026-08-13 17:14:53 | 9/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-08-13 20:42:57 | 121/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
-| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-08-13 17:07:54 | 10/15 | on-schedule | E fired · severity=green · 3922/126 tok |
+| S | 🟢 green | every 10min | 2026-08-13 21:13:01 | 124/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-08-13 21:00:09 | 11/15 | on-schedule | B-PM fired · severity=green · 3875/132 tok |
 
 ## What each routine does
 
