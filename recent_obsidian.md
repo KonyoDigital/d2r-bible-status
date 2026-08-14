@@ -1,12 +1,12 @@
 # Recent Routine History
 
-_Updated: 2026-08-14 10:15:56 IDT_
+_Updated: 2026-08-14 10:45:59 IDT_
 
 
 ## Routine G
-- 2026-08-13 16:18:44 · 🟢 green · 7/7 categories · 312/312 items · sim 3509ms · 0 errors
 - 2026-08-13 22:19:44 · 🟢 green · 7/7 categories · 312/312 items · sim 3515ms · 0 errors
 - 2026-08-14 04:20:14 · 🟢 green · 7/7 categories · 312/312 items · sim 3509ms · 0 errors
+- 2026-08-14 10:22:01 · 🟢 green · 7/7 categories · 312/312 items · sim 3538ms · 0 errors
 
 ## Routine H
 - 2026-08-13 01:06:36 · 🟢 green · 322/322 items click cleanly · 0 fails · 14966ms
@@ -14,9 +14,9 @@ _Updated: 2026-08-14 10:15:56 IDT_
 - 2026-08-14 01:06:57 · 🟢 green · 322/322 items click cleanly · 0 fails · 6888ms
 
 ## Routine I
-- 2026-08-09 09:20:54 · 🔴 red · 55 passed · 1841 failed · 14 skipped
 - 2026-08-11 14:04:02 · 🔴 red · 1868 passed · 51 failed · 15 skipped
 - 2026-08-13 10:31:25 · 🟢 green · 1880 passed · 0 failed · 14 skipped
+- 2026-08-14 10:27:59 · 🔴 red · INCOMPLETE: suite died at [1895/1895] without reporting (pw exit 143) · Error: expect(received).toEqual(expected) // deep equality · e.g. v152_item_art_arttip_unify.spec.ts,v80_endgame_relics.spec.ts
 
 ## Routine J
 - 2026-08-12 10:00:18 · 🟢 green · 4 screenshots captured · 580K logs/J_20260812_100005/01_bosses.png 80K logs/J_20260812_100005/02_travincal_open.png 772K logs/J_20260812_100005/03_calc_shako.png 620K logs/J_20260812_100005/04_tz.png 
@@ -29,9 +29,9 @@ _Updated: 2026-08-14 10:15:56 IDT_
 - 2026-08-14 07:08:15 · 🟢 green · load 919ms · boss 69ms · sim2k 4508ms · best-of-3
 
 ## Routine L
-- 2026-08-11 10:30:08 · 🟢 green · no drift · items=322 bosses=13
 - 2026-08-12 10:30:10 · 🟢 green · no drift · items=322 bosses=13
 - 2026-08-13 10:30:08 · 🟢 green · no drift · items=322 bosses=13
+- 2026-08-14 10:30:07 · 🟢 green · no drift · items=322 bosses=13
 
 ## Routine M
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
@@ -47,9 +47,9 @@ _Updated: 2026-08-14 10:15:56 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-14 09:15:50 · 🟢 green · system healthy · 13/14 green · 94 fires today (on pace)
 - 2026-08-14 09:45:53 · 🟢 green · system healthy · 14/14 green · 98 fires today (on pace)
 - 2026-08-14 10:15:56 · 🟡 warn · attention: I · 14/14 green · 105 fires today
+- 2026-08-14 10:45:59 · 🟡 warn · attention: I · 12/14 green · 112 fires today
 
 ## Routine Q
 - 2026-08-14 08:06:27 · 🟢 green · 1 auto-fixes · 0 alerts · fixed: [FIXED] R was stale (6h since last fire) → kickstarted
@@ -62,6 +62,6 @@ _Updated: 2026-08-14 10:15:56 IDT_
 - 2026-08-14 09:06:39 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-14 09:54:51 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-14 10:04:53 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-14 10:14:54 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-14 10:24:55 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-14 10:34:56 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-14 10:44:57 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
