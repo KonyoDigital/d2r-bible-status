@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-16 00:04:00 IDT_
+_Updated: 2026-08-16 00:34:16 IDT_
 
 
 ## Routine G
@@ -47,14 +47,14 @@ _Updated: 2026-08-16 00:04:00 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-15 23:03:31 · 🟢 green · system healthy · 14/14 green · 239 fires today (on pace)
 - 2026-08-15 23:33:42 · 🟢 green · system healthy · 14/14 green · 248 fires today (on pace)
 - 2026-08-16 00:03:59 · 🟢 green · system healthy · 14/14 green · 0 fires today (on pace)
+- 2026-08-16 00:34:14 · 🟡 warn · attention: S · 13/14 green · 5 fires today
 
 ## Routine Q
-- 2026-08-15 21:21:28 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-15 22:21:28 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-15 23:21:34 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-08-16 00:21:41 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
 - 2026-08-15 17:10:11 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-08-16 00:04:00 IDT_
 - 2026-08-15 21:25:09 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-15 23:34:32 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-15 23:44:37 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-15 23:54:41 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-16 00:04:47 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-16 00:15:00 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-16 00:25:48 · 🟡 warn · gh CLI not ready: Command '/opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100' timed out after
