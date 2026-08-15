@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-08-15 13:18:03 · pushed: 2026-08-15 13:18:03 IDT_
+_Snapshot generated: 2026-08-15 13:48:05 · pushed: 2026-08-15 13:48:05 IDT_
 
 **System health**: 🟢 HEALTHY
 **Attention (red / warn / stale / overdue)**: none — every routine green and on-schedule
-**Fires today**: 143 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Fires today**: 147 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -21,10 +21,10 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | on-schedule | no patches needed |
 | N | 🟢 green | daily 23:30 | 2026-08-14 23:30:05 | 0/1 | on-schedule | rollup written (19662 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
-| P | 🟢 green | every 30min | 2026-08-15 12:48:01 | 26/48 | on-schedule | system healthy · 14/14 green · 135 fires today (on pace) |
+| P | 🟢 green | every 30min | 2026-08-15 13:18:03 | 27/48 | on-schedule | system healthy · 14/14 green · 143 fires today (on pace) |
 | Q | 🟢 green | every 1h | 2026-08-15 13:06:49 | 14/24 | on-schedule | 0 auto-fixes · 0 alerts |
 | R | 🟢 green | every 2h | 2026-08-15 13:09:52 | 7/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-08-15 13:08:03 | 79/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| S | 🟢 green | every 10min | 2026-08-15 13:38:06 | 82/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
 | T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-08-15 11:08:46 | 7/15 | on-schedule | E fired · severity=green · 3979/137 tok |
 
 ## What each routine does
