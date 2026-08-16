@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-17 01:14:21 IDT_
+_Updated: 2026-08-17 01:44:24 IDT_
 
 
 ## Routine G
@@ -9,9 +9,9 @@ _Updated: 2026-08-17 01:14:21 IDT_
 - 2026-08-16 23:42:04 · 🟢 green · 7/7 categories · 312/312 items · sim 3514ms · 0 errors
 
 ## Routine H
-- 2026-08-15 01:07:34 · 🟢 green · 322/322 items click cleanly · 0 fails · 7365ms
 - 2026-08-15 13:07:45 · 🟢 green · 322/322 items click cleanly · 0 fails · 8736ms
 - 2026-08-16 12:52:22 · 🟢 green · 322/322 items click cleanly · 0 fails · 7647ms
+- 2026-08-17 01:38:50 · 🟢 green · 320/320 items click cleanly · 0 fails · 17430ms
 
 ## Routine I
 - 2026-08-14 10:27:59 · 🔴 red · INCOMPLETE: suite died at [1895/1895] without reporting (pw exit 143) · Error: expect(received).toEqual(expected) // deep equality · e.g. v152_item_art_arttip_unify.spec.ts,v80_endgame_relics.spec.ts
@@ -24,9 +24,9 @@ _Updated: 2026-08-17 01:14:21 IDT_
 - 2026-08-16 10:00:14 · 🟢 green · 4 screenshots captured · 580K logs/J_20260816_100005/01_bosses.png 136K logs/J_20260816_100005/02_travincal_open.png 776K logs/J_20260816_100005/03_calc_shako.png 628K logs/J_20260816_100005/04_tz.png
 
 ## Routine K
-- 2026-08-16 06:52:15 · 🟢 green · skipped · system load 38.94 too high (>4)
 - 2026-08-16 12:52:35 · 🟢 green · load 959ms · boss 69ms · sim2k 4507ms · best-of-3
 - 2026-08-16 19:38:58 · 🟢 green · load 952ms · boss 68ms · sim2k 4507ms · best-of-3
+- 2026-08-17 01:38:58 · 🟢 green · skipped · system load 9.37 too high (>4)
 
 ## Routine L
 - 2026-08-14 10:30:07 · 🟢 green · no drift · items=322 bosses=13
@@ -47,14 +47,14 @@ _Updated: 2026-08-17 01:14:21 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-17 00:14:05 · 🟡 warn · attention: I · 12/14 green · 1 fires today
 - 2026-08-17 00:44:11 · 🟡 warn · attention: I · 12/14 green · 6 fires today
 - 2026-08-17 01:14:20 · 🟡 warn · attention: I · 12/14 green · 10 fires today
+- 2026-08-17 01:44:24 · 🟡 warn · attention: I · 12/14 green · 20 fires today
 
 ## Routine Q
-- 2026-08-16 22:39:15 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-16 23:39:15 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-17 00:39:27 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-08-17 01:39:27 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
 - 2026-08-16 18:04:09 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-08-17 01:14:21 IDT_
 - 2026-08-16 22:41:42 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-17 00:47:33 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-17 00:57:35 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-17 01:07:43 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-17 01:17:44 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-17 01:27:45 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-17 01:37:46 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
