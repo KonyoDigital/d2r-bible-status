@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-08-16 06:54:41 · pushed: 2026-08-16 06:54:45 IDT_
+_Snapshot generated: 2026-08-16 07:25:09 · pushed: 2026-08-16 07:25:10 IDT_
 
 **System health**: 🟢 HEALTHY
 **Attention (red / warn / stale / overdue)**: none — every routine green and on-schedule
-**Fires today**: 65 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Fires today**: 69 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -12,7 +12,6 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 
 | ID | Status | Schedule | Last Run | Today | Health | Summary |
 |----|--------|----------|----------|-------|--------|---------|
-| P | 🟡 warn | every 30min | 2026-08-16 06:24:24 | 14/48 | on-schedule | attention: T · 13/14 green · 57 fires today |
 | G | 🟢 green | every 6h | 2026-08-15 22:46:32 | 0/4 | on-schedule | 7/7 categories · 312/312 items · sim 3837ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-08-15 13:07:45 | 0/2 | on-schedule | 322/322 items click cleanly · 0 fails · 8736ms |
 | I | 🟢 green | daily 09:00 | 2026-08-15 10:19:19 | 0/1 | on-schedule | 1876 passed · 0 failed · 14 skipped |
@@ -22,9 +21,10 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | on-schedule | no patches needed |
 | N | 🟢 green | daily 23:30 | 2026-08-15 23:30:07 | 0/1 | on-schedule | rollup written (18579 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
+| P | 🟢 green | every 30min | 2026-08-16 06:54:41 | 15/48 | on-schedule | system healthy · 13/14 green · 65 fires today (on pace) |
 | Q | 🟢 green | every 1h | 2026-08-16 06:52:45 | 7/24 | on-schedule | 1 auto-fixes · 0 alerts · fixed: [FIXED] R was stale (4h since last fire) → kick |
 | R | 🟢 green | every 2h | 2026-08-16 01:53:13 | 1/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-08-16 06:46:07 | 40/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| S | 🟢 green | every 10min | 2026-08-16 07:16:54 | 43/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
 | T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-08-16 06:52:22 | 2/15 | on-schedule | A fired · severity=yellow · 4373/255 tok |
 
 ## What each routine does
