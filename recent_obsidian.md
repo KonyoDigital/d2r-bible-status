@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-16 11:27:11 IDT_
+_Updated: 2026-08-16 11:57:13 IDT_
 
 
 ## Routine G
@@ -14,9 +14,9 @@ _Updated: 2026-08-16 11:27:11 IDT_
 - 2026-08-15 13:07:45 · 🟢 green · 322/322 items click cleanly · 0 fails · 8736ms
 
 ## Routine I
-- 2026-08-13 10:31:25 · 🟢 green · 1880 passed · 0 failed · 14 skipped
 - 2026-08-14 10:27:59 · 🔴 red · INCOMPLETE: suite died at [1895/1895] without reporting (pw exit 143) · Error: expect(received).toEqual(expected) // deep equality · e.g. v152_item_art_arttip_unify.spec.ts,v80_endgame_relics.spec.ts
 - 2026-08-15 10:19:19 · 🟢 green · 1876 passed · 0 failed · 14 skipped
+- 2026-08-16 11:33:33 · 🟡 warn · 2 flaked (1887 passed) · Error: locator.click: Test timeout of 180000ms exceeded. · e.g. 00_diagnostic.spec.ts,01_smoke.spec.ts,02_verified_anchors.spec.ts
 
 ## Routine J
 - 2026-08-14 10:00:14 · 🟢 green · 4 screenshots captured · 580K logs/J_20260814_100005/01_bosses.png 528K logs/J_20260814_100005/02_travincal_open.png 780K logs/J_20260814_100005/03_calc_shako.png 612K logs/J_20260814_100005/04_tz.png 
@@ -47,21 +47,21 @@ _Updated: 2026-08-16 11:27:11 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-16 10:27:06 · 🟡 warn · attention: I · 14/14 green · 101 fires today
 - 2026-08-16 10:57:08 · 🟡 warn · attention: I · 13/14 green · 108 fires today
 - 2026-08-16 11:27:11 · 🟡 warn · attention: I · 13/14 green · 112 fires today
+- 2026-08-16 11:57:13 · 🟡 warn · attention: I · 12/14 green · 119 fires today
 
 ## Routine Q
-- 2026-08-16 08:52:54 · 🟢 green · 1 auto-fixes · 0 alerts · fixed: [FIXED] R was stale (6h since last fire) → kickstarted
 - 2026-08-16 09:53:08 · 🟢 green · 1 auto-fixes · 0 alerts · fixed: [FIXED] R was stale (7h since last fire) → kickstarted
 - 2026-08-16 10:53:09 · 🟢 green · 1 auto-fixes · 0 alerts · fixed: [FIXED] G was stale (12h since last fire) → kickstarted
+- 2026-08-16 11:53:09 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
-- 2026-08-15 21:25:09 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-08-16 01:53:13 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-08-16 09:54:42 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
+- 2026-08-16 11:54:51 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-16 10:59:58 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-16 11:09:59 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-16 11:20:00 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-16 11:30:01 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-16 11:40:02 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-16 11:50:03 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
