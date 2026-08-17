@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-17 10:14:58 IDT_
+_Updated: 2026-08-17 10:45:01 IDT_
 
 
 ## Routine G
@@ -14,9 +14,9 @@ _Updated: 2026-08-17 10:14:58 IDT_
 - 2026-08-17 01:38:50 · 🟢 green · 320/320 items click cleanly · 0 fails · 17430ms
 
 ## Routine I
-- 2026-08-14 10:27:59 · 🔴 red · INCOMPLETE: suite died at [1895/1895] without reporting (pw exit 143) · Error: expect(received).toEqual(expected) // deep equality · e.g. v152_item_art_arttip_unify.spec.ts,v80_endgame_relics.spec.ts
 - 2026-08-15 10:19:19 · 🟢 green · 1876 passed · 0 failed · 14 skipped
 - 2026-08-16 11:33:33 · 🟡 warn · 2 flaked (1887 passed) · Error: locator.click: Test timeout of 180000ms exceeded. · e.g. 00_diagnostic.spec.ts,01_smoke.spec.ts,02_verified_anchors.spec.ts
+- 2026-08-17 10:31:32 · 🟡 warn · 3 flaked (1962 passed) · Error: expect(received).toEqual(expected) // deep equality · e.g. bug110_149_discovery.spec.ts,v142_recipe_tool_stash.spec.ts,v1625_board_quality_surfaces.spec.ts
 
 ## Routine J
 - 2026-08-15 10:00:08 · 🟢 green · 4 screenshots captured · 572K logs/J_20260815_100001/01_bosses.png 560K logs/J_20260815_100001/02_travincal_open.png 768K logs/J_20260815_100001/03_calc_shako.png 552K logs/J_20260815_100001/04_tz.png 
@@ -29,9 +29,9 @@ _Updated: 2026-08-17 10:14:58 IDT_
 - 2026-08-17 07:38:58 · 🟢 green · skipped · system load 5.34 too high (>4)
 
 ## Routine L
-- 2026-08-14 10:30:07 · 🟢 green · no drift · items=322 bosses=13
 - 2026-08-15 10:30:06 · 🟢 green · no drift · items=322 bosses=13
 - 2026-08-16 10:30:03 · 🟢 green · no drift · items=322 bosses=13
+- 2026-08-17 10:30:05 · 🔴 red · 1 drift(s) detected · items=320 bosses=13
 
 ## Routine M
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
@@ -47,14 +47,14 @@ _Updated: 2026-08-17 10:14:58 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-17 09:14:54 · 🟡 warn · attention: I · 12/14 green · 96 fires today
 - 2026-08-17 09:44:56 · 🟡 warn · attention: I · 12/14 green · 102 fires today
 - 2026-08-17 10:14:58 · 🟡 warn · attention: I · 12/14 green · 107 fires today
+- 2026-08-17 10:45:00 · 🟡 warn · attention: I, L · 11/14 green · 115 fires today
 
 ## Routine Q
-- 2026-08-17 07:39:29 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-17 08:39:29 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-17 09:39:29 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-08-17 10:39:29 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
 - 2026-08-17 04:46:13 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-08-17 10:14:58 IDT_
 - 2026-08-17 08:46:32 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-17 09:48:34 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-17 09:58:35 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-17 10:08:36 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-17 10:18:37 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-17 10:28:39 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-17 10:38:40 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
