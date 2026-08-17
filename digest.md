@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-08-17 08:44:52 · pushed: 2026-08-17 08:44:52 IDT_
+_Snapshot generated: 2026-08-17 09:14:54 · pushed: 2026-08-17 09:14:54 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
 **Attention (red / warn / stale / overdue)**: I
-**Fires today**: 90 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Fires today**: 96 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -13,7 +13,7 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | ID | Status | Schedule | Last Run | Today | Health | Summary |
 |----|--------|----------|----------|-------|--------|---------|
 | I | 🟡 warn | daily 09:00 | 2026-08-16 11:33:33 | 0/1 | on-schedule | 2 flaked (1887 passed) · Error: locator.click: Test timeout of 180000ms exceeded |
-| P | 🟡 warn | every 30min | 2026-08-17 08:14:50 | 17/48 | on-schedule | attention: I · 12/14 green · 85 fires today |
+| P | 🟡 warn | every 30min | 2026-08-17 08:44:52 | 18/48 | on-schedule | attention: I · 12/14 green · 90 fires today |
 | G | 🟢 green | every 6h | 2026-08-17 05:42:45 | 1/4 | on-schedule | 7/7 categories · 312/312 items · sim 3508ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-08-17 01:38:50 | 1/2 | on-schedule | 320/320 items click cleanly · 0 fails · 17430ms |
 | J | 🟢 green | daily 10:00 | 2026-08-16 10:00:14 | 0/1 | on-schedule | 4 screenshots captured · 580K logs/J_20260816_100005/01_bosses.png 136K logs/J_2 |
@@ -23,9 +23,9 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | N | 🟢 green | daily 23:30 | 2026-08-16 23:30:04 | 0/1 | on-schedule | rollup written (17458 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
 | Q | 🟢 green | every 1h | 2026-08-17 08:39:29 | 9/24 | on-schedule | 0 auto-fixes · 0 alerts |
-| R | 🟢 green | every 2h | 2026-08-17 06:46:23 | 3/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-08-17 08:38:27 | 52/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
-| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-08-17 07:38:49 | 5/15 | on-schedule | E fired · severity=yellow · 4019/251 tok |
+| R | 🟢 green | every 2h | 2026-08-17 08:46:32 | 4/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
+| S | 🟢 green | every 10min | 2026-08-17 09:08:30 | 55/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-08-17 09:00:05 | 6/15 | on-schedule | B-AM fired · severity=green · 3946/164 tok |
 
 ## What each routine does
 
