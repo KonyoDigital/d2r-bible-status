@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-08-17 21:02:21 · pushed: 2026-08-17 21:02:21 IDT_
+_Snapshot generated: 2026-08-17 21:32:23 · pushed: 2026-08-17 21:32:23 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
-**Attention (red / warn / stale / overdue)**: I, L, S
-**Fires today**: 221 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Attention (red / warn / stale / overdue)**: I, L
+**Fires today**: 226 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -14,8 +14,7 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 |----|--------|----------|----------|-------|--------|---------|
 | L | 🔴 red | daily 10:30 | 2026-08-17 10:30:05 | 1/3 | on-schedule | 1 drift(s) detected · items=320 bosses=13 |
 | I | 🟡 warn | daily 09:00 | 2026-08-17 10:31:32 | 1/1 | on-schedule | 3 flaked (1962 passed) · Error: expect(received).toEqual(expected) // deep equal |
-| P | 🟡 warn | every 30min | 2026-08-17 20:32:18 | 41/48 | on-schedule | attention: I, L · 11/14 green · 215 fires today |
-| S | 🟡 warn | every 10min | 2026-08-17 20:56:32 | 124/144 | on-schedule | gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible- |
+| P | 🟡 warn | every 30min | 2026-08-17 21:02:21 | 42/48 | on-schedule | attention: I, L, S · 10/14 green · 221 fires today |
 | G | 🟢 green | every 6h | 2026-08-17 17:43:44 | 3/4 | on-schedule | 7/7 categories · 312/312 items · sim 3509ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-08-17 13:39:00 | 2/2 | on-schedule | 320/320 items click cleanly · 0 fails · 7304ms |
 | J | 🟢 green | daily 10:00 | 2026-08-17 10:00:12 | 1/1 | on-schedule | 4 screenshots captured · 592K logs/J_20260817_100004/01_bosses.png 564K logs/J_2 |
@@ -24,7 +23,8 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | N | 🟢 green | daily 23:30 | 2026-08-16 23:30:04 | 0/1 | on-schedule | rollup written (17458 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
 | Q | 🟢 green | every 1h | 2026-08-17 20:56:08 | 21/24 | on-schedule | 0 auto-fixes · 0 alerts |
-| R | 🟢 green | every 2h | 2026-08-17 18:47:19 | 9/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
+| R | 🟢 green | every 2h | 2026-08-17 21:04:05 | 10/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
+| S | 🟢 green | every 10min | 2026-08-17 21:26:36 | 127/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
 | T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-08-17 21:00:07 | 14/15 | on-schedule | B-PM fired · severity=yellow · 4015/239 tok |
 
 ## What each routine does
