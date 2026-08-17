@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-17 18:15:32 IDT_
+_Updated: 2026-08-17 18:45:34 IDT_
 
 
 ## Routine G
@@ -47,14 +47,14 @@ _Updated: 2026-08-17 18:15:32 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-17 17:15:26 · 🟡 warn · attention: I, L · 11/14 green · 182 fires today
 - 2026-08-17 17:45:30 · 🟡 warn · attention: I, L, T · 10/14 green · 189 fires today
 - 2026-08-17 18:15:32 · 🟡 warn · attention: I, L, T · 10/14 green · 193 fires today
+- 2026-08-17 18:45:34 · 🟡 warn · attention: I, L, T · 10/14 green · 198 fires today
 
 ## Routine Q
-- 2026-08-17 15:39:30 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-17 16:39:29 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-17 17:39:31 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-08-17 18:39:31 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
 - 2026-08-17 12:46:51 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-08-17 18:15:32 IDT_
 - 2026-08-17 16:47:08 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-17 17:49:27 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-17 17:59:29 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: HTTP 503: No server is cu
-- 2026-08-17 18:09:31 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-17 18:19:33 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-17 18:29:35 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: HTTP 503: No server is cu
+- 2026-08-17 18:39:37 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
