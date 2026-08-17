@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-17 19:15:36 IDT_
+_Updated: 2026-08-17 19:45:38 IDT_
 
 
 ## Routine G
@@ -24,9 +24,9 @@ _Updated: 2026-08-17 19:15:36 IDT_
 - 2026-08-17 10:00:12 · 🟢 green · 4 screenshots captured · 592K logs/J_20260817_100004/01_bosses.png 564K logs/J_20260817_100004/02_travincal_open.png 780K logs/J_20260817_100004/03_calc_shako.png 596K logs/J_20260817_100004/04_tz.png
 
 ## Routine K
-- 2026-08-17 01:38:58 · 🟢 green · skipped · system load 9.37 too high (>4)
 - 2026-08-17 07:38:58 · 🟢 green · skipped · system load 5.34 too high (>4)
 - 2026-08-17 13:39:17 · 🟢 green · load 970ms · boss 67ms · sim2k 4506ms · best-of-3
+- 2026-08-17 19:39:36 · 🟢 green · load 959ms · boss 68ms · sim2k 4507ms · best-of-3
 
 ## Routine L
 - 2026-08-15 10:30:06 · 🟢 green · no drift · items=322 bosses=13
@@ -47,14 +47,14 @@ _Updated: 2026-08-17 19:15:36 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-17 18:15:32 · 🟡 warn · attention: I, L, T · 10/14 green · 193 fires today
 - 2026-08-17 18:45:34 · 🟡 warn · attention: I, L, T · 10/14 green · 198 fires today
 - 2026-08-17 19:15:36 · 🟡 warn · attention: I, L, T · 10/14 green · 203 fires today
+- 2026-08-17 19:45:38 · 🟡 warn · attention: I, L · 11/14 green · 211 fires today
 
 ## Routine Q
-- 2026-08-17 16:39:29 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-17 17:39:31 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-17 18:39:31 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-08-17 19:39:31 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
 - 2026-08-17 14:47:00 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-08-17 19:15:36 IDT_
 - 2026-08-17 18:47:19 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-17 18:49:39 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-17 18:59:40 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-17 19:09:42 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-17 19:19:44 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-17 19:29:45 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: HTTP 503: No server is cu
+- 2026-08-17 19:39:46 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
