@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-19 09:35:02 IDT_
+_Updated: 2026-08-19 10:05:04 IDT_
 
 
 ## Routine G
@@ -19,9 +19,9 @@ _Updated: 2026-08-19 09:35:02 IDT_
 - 2026-08-18 10:37:25 · 🔴 red · 4 REGRESSED (1985 passed) · Error: hovering the piece name raised no card — check the 430px anchor guard · e.g. v1625_board_quality_surfaces.spec.ts,v851_theatre_pack.spec.ts
 
 ## Routine J
-- 2026-08-16 10:00:14 · 🟢 green · 4 screenshots captured · 580K logs/J_20260816_100005/01_bosses.png 136K logs/J_20260816_100005/02_travincal_open.png 776K logs/J_20260816_100005/03_calc_shako.png 628K logs/J_20260816_100005/04_tz.png 
 - 2026-08-17 10:00:12 · 🟢 green · 4 screenshots captured · 592K logs/J_20260817_100004/01_bosses.png 564K logs/J_20260817_100004/02_travincal_open.png 780K logs/J_20260817_100004/03_calc_shako.png 596K logs/J_20260817_100004/04_tz.png 
-- 2026-08-18 10:00:15 · 🟢 green · 4 screenshots captured · 592K logs/J_20260818_100005/01_bosses.png 576K logs/J_20260818_100005/02_travincal_open.png 788K logs/J_20260818_100005/03_calc_shako.png 596K logs/J_20260818_100005/04_tz.png
+- 2026-08-18 10:00:15 · 🟢 green · 4 screenshots captured · 592K logs/J_20260818_100005/01_bosses.png 576K logs/J_20260818_100005/02_travincal_open.png 788K logs/J_20260818_100005/03_calc_shako.png 596K logs/J_20260818_100005/04_tz.png 
+- 2026-08-19 10:00:09 · 🟢 green · 4 screenshots captured · 588K logs/J_20260819_100002/01_bosses.png 512K logs/J_20260819_100002/02_travincal_open.png 772K logs/J_20260819_100002/03_calc_shako.png 588K logs/J_20260819_100002/04_tz.png
 
 ## Routine K
 - 2026-08-18 13:56:51 · 🟢 green · skipped · system load 5.43 too high (>4)
@@ -47,9 +47,9 @@ _Updated: 2026-08-19 09:35:02 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-19 03:23:23 · 🟡 warn · attention: I, L · 11/14 green · 36 fires today
 - 2026-08-19 09:05:00 · 🟡 warn · attention: I, L, Q, R · 11/14 green · 41 fires today
 - 2026-08-19 09:35:02 · 🟡 warn · attention: I, L, T · 10/14 green · 48 fires today
+- 2026-08-19 10:05:04 · 🟡 warn · attention: I, L, T · 10/14 green · 53 fires today
 
 ## Routine Q
 - 2026-08-19 02:22:07 · 🟢 green · 0 auto-fixes · 0 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-08-19 09:35:02 IDT_
 - 2026-08-19 09:33:56 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-19 09:14:45 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-19 09:24:47 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-19 09:34:48 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-19 09:44:49 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-19 09:54:50 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-19 10:04:52 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
