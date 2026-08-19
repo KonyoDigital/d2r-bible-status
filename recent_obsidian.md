@@ -1,12 +1,12 @@
 # Recent Routine History
 
-_Updated: 2026-08-19 13:35:35 IDT_
+_Updated: 2026-08-19 14:05:36 IDT_
 
 
 ## Routine G
-- 2026-08-18 12:01:57 · 🟢 green · 7/7 categories · 312/312 items · sim 3508ms · 0 errors
 - 2026-08-18 18:02:41 · 🟢 green · 7/7 categories · 312/312 items · sim 3507ms · 0 errors
 - 2026-08-19 02:23:39 · 🟢 green · 7/7 categories · 312/312 items · sim 3563ms · 0 errors
+- 2026-08-19 13:36:35 · 🟢 green · 7/7 categories · 312/312 items · sim 3543ms · 0 errors
 
 ## Routine H
 - 2026-08-18 01:55:46 · 🟢 green · 320/320 items click cleanly · 0 fails · 7294ms
@@ -47,9 +47,9 @@ _Updated: 2026-08-19 13:35:35 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-19 12:35:22 · 🟡 warn · attention: I, L · 11/14 green · 79 fires today
 - 2026-08-19 13:05:30 · 🟡 warn · attention: I, L · 11/14 green · 83 fires today
 - 2026-08-19 13:35:35 · 🟡 warn · attention: I, L · 11/14 green · 93 fires today
+- 2026-08-19 14:05:36 · 🟡 warn · attention: I, L · 11/14 green · 98 fires today
 
 ## Routine Q
 - 2026-08-19 11:33:44 · 🟢 green · 0 auto-fixes · 0 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-08-19 13:35:35 IDT_
 - 2026-08-19 13:35:02 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-19 13:05:31 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-19 13:15:33 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-19 13:25:35 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-19 13:35:36 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: error connecting to api.g
+- 2026-08-19 13:45:38 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-19 13:55:39 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
