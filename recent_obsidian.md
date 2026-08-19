@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-19 11:35:13 IDT_
+_Updated: 2026-08-19 12:05:16 IDT_
 
 
 ## Routine G
@@ -14,9 +14,9 @@ _Updated: 2026-08-19 11:35:13 IDT_
 - 2026-08-18 13:56:00 · 🟢 green · 320/320 items click cleanly · 0 fails · 11311ms
 
 ## Routine I
-- 2026-08-16 11:33:33 · 🟡 warn · 2 flaked (1887 passed) · Error: locator.click: Test timeout of 180000ms exceeded. · e.g. 00_diagnostic.spec.ts,01_smoke.spec.ts,02_verified_anchors.spec.ts
 - 2026-08-17 10:31:32 · 🟡 warn · 3 flaked (1962 passed) · Error: expect(received).toEqual(expected) // deep equality · e.g. bug110_149_discovery.spec.ts,v142_recipe_tool_stash.spec.ts,v1625_board_quality_surfaces.spec.ts
 - 2026-08-18 10:37:25 · 🔴 red · 4 REGRESSED (1985 passed) · Error: hovering the piece name raised no card — check the 430px anchor guard · e.g. v1625_board_quality_surfaces.spec.ts,v851_theatre_pack.spec.ts
+- 2026-08-19 11:48:16 · 🔴 red · 20 REGRESSED (1999 passed) · Error: .tools-legend-fab never became visible within 20s, so the popover could not be opened. That is an ENGINE/SEED state rather than a layout defect, and the numbers say which: {"exists":true,"cls": · e.g. v1800_tray_popovers_reachable.spec.ts,v527_loot_filter_card.spec.ts,v596_forge_consume_base.spec.ts
 
 ## Routine J
 - 2026-08-17 10:00:12 · 🟢 green · 4 screenshots captured · 592K logs/J_20260817_100004/01_bosses.png 564K logs/J_20260817_100004/02_travincal_open.png 780K logs/J_20260817_100004/03_calc_shako.png 596K logs/J_20260817_100004/04_tz.png 
@@ -47,9 +47,9 @@ _Updated: 2026-08-19 11:35:13 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-19 10:35:07 · 🟡 warn · attention: I, L · 11/14 green · 60 fires today
 - 2026-08-19 11:05:10 · 🟡 warn · attention: I, L · 11/14 green · 64 fires today
 - 2026-08-19 11:35:13 · 🟡 warn · attention: I, L · 11/14 green · 70 fires today
+- 2026-08-19 12:05:16 · 🟡 warn · attention: I, L · 11/14 green · 75 fires today
 
 ## Routine Q
 - 2026-08-19 09:33:43 · 🟢 green · 2 auto-fixes · 0 alerts · fixed: [FIXED] Q was stale (6h since last fire) → kickstarted, [FIXED] R was stale (7h since last fire) → kickstarted
@@ -62,6 +62,6 @@ _Updated: 2026-08-19 11:35:13 IDT_
 - 2026-08-19 11:34:21 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-19 11:15:07 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-19 11:25:08 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-19 11:35:10 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-19 11:45:11 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-19 11:55:13 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-19 12:05:14 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
