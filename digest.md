@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-08-19 10:05:04 · pushed: 2026-08-19 10:05:05 IDT_
+_Snapshot generated: 2026-08-19 10:35:07 · pushed: 2026-08-19 10:35:07 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
-**Attention (red / warn / stale / overdue)**: I, L, T
-**Fires today**: 53 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Attention (red / warn / stale / overdue)**: I, L
+**Fires today**: 60 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -13,9 +13,8 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | ID | Status | Schedule | Last Run | Today | Health | Summary |
 |----|--------|----------|----------|-------|--------|---------|
 | I | 🔴 red | daily 09:00 | 2026-08-18 10:37:25 | 0/1 | ⏰ overdue | 4 REGRESSED (1985 passed) · Error: hovering the piece name raised no card — chec |
-| L | 🔴 red | daily 10:30 | 2026-08-18 10:30:08 | 0/3 | on-schedule | 1 drift(s) detected · items=320 bosses=13 |
-| P | 🟡 warn | every 30min | 2026-08-19 09:35:02 | 9/48 | on-schedule | attention: I, L, T · 10/14 green · 48 fires today |
-| T | 🟡 warn | 15×/day (A-F LLM proxy) | 2026-08-19 09:33:42 | 4/15 | on-schedule | D fired · severity=red · 4148/101 tok |
+| L | 🔴 red | daily 10:30 | 2026-08-19 10:30:10 | 1/3 | on-schedule | 1 drift(s) detected · items=320 bosses=13 |
+| P | 🟡 warn | every 30min | 2026-08-19 10:05:04 | 10/48 | on-schedule | attention: I, L, T · 10/14 green · 53 fires today |
 | G | 🟢 green | every 6h | 2026-08-19 02:23:39 | 1/4 | on-schedule | 7/7 categories · 312/312 items · sim 3563ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-08-18 13:56:00 | 0/2 | on-schedule | 320/320 items click cleanly · 0 fails · 11311ms |
 | J | 🟢 green | daily 10:00 | 2026-08-19 10:00:09 | 1/1 | on-schedule | 4 screenshots captured · 588K logs/J_20260819_100002/01_bosses.png 512K logs/J_2 |
@@ -23,9 +22,10 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | on-schedule | no patches needed |
 | N | 🟢 green | daily 23:30 | 2026-08-18 23:30:04 | 0/1 | on-schedule | rollup written (14670 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
-| Q | 🟢 green | every 1h | 2026-08-19 09:33:43 | 5/24 | on-schedule | 2 auto-fixes · 0 alerts · fixed: [FIXED] Q was stale (6h since last fire) → kick |
+| Q | 🟢 green | every 1h | 2026-08-19 10:33:43 | 6/24 | on-schedule | 0 auto-fixes · 0 alerts |
 | R | 🟢 green | every 2h | 2026-08-19 09:33:56 | 2/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-08-19 10:04:52 | 30/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| S | 🟢 green | every 10min | 2026-08-19 10:34:56 | 33/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-08-19 10:15:10 | 5/15 | on-schedule | C fired · severity=green · 4100/323 tok |
 
 ## What each routine does
 
