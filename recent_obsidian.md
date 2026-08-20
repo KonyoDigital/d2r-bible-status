@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-20 10:37:48 IDT_
+_Updated: 2026-08-20 11:07:50 IDT_
 
 
 ## Routine G
@@ -14,9 +14,9 @@ _Updated: 2026-08-20 10:37:48 IDT_
 - 2026-08-20 01:44:02 · 🟢 green · 320/320 items click cleanly · 0 fails · 497863ms
 
 ## Routine I
-- 2026-08-17 10:31:32 · 🟡 warn · 3 flaked (1962 passed) · Error: expect(received).toEqual(expected) // deep equality · e.g. bug110_149_discovery.spec.ts,v142_recipe_tool_stash.spec.ts,v1625_board_quality_surfaces.spec.ts
 - 2026-08-18 10:37:25 · 🔴 red · 4 REGRESSED (1985 passed) · Error: hovering the piece name raised no card — check the 430px anchor guard · e.g. v1625_board_quality_surfaces.spec.ts,v851_theatre_pack.spec.ts
 - 2026-08-19 11:48:16 · 🔴 red · 20 REGRESSED (1999 passed) · Error: .tools-legend-fab never became visible within 20s, so the popover could not be opened. That is an ENGINE/SEED state rather than a layout defect, and the numbers say which: {"exists":true,"cls": · e.g. v1800_tray_popovers_reachable.spec.ts,v527_loot_filter_card.spec.ts,v596_forge_consume_base.spec.ts
+- 2026-08-20 10:43:49 · 🟡 warn · 3 flaked (2043 passed) · Error: hovering the piece name raised no card — check the 430px anchor guard · e.g. v1625_board_quality_surfaces.spec.ts,v1733_css_tokens_resolve.spec.ts,v1789_inbox_resolves_non_decisions.spec.ts
 
 ## Routine J
 - 2026-08-18 10:00:15 · 🟢 green · 4 screenshots captured · 592K logs/J_20260818_100005/01_bosses.png 576K logs/J_20260818_100005/02_travincal_open.png 788K logs/J_20260818_100005/03_calc_shako.png 596K logs/J_20260818_100005/04_tz.png 
@@ -47,9 +47,9 @@ _Updated: 2026-08-20 10:37:48 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-20 09:37:43 · 🟡 warn · attention: I, L, T · 10/14 green · 100 fires today
 - 2026-08-20 10:07:45 · 🟡 warn · attention: I, L, T · 10/14 green · 106 fires today
 - 2026-08-20 10:37:48 · 🟡 warn · attention: I, L · 11/14 green · 113 fires today
+- 2026-08-20 11:07:50 · 🟡 warn · attention: I, L · 11/14 green · 118 fires today
 
 ## Routine Q
 - 2026-08-20 08:34:03 · 🟢 green · 0 auto-fixes · 0 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-08-20 10:37:48 IDT_
 - 2026-08-20 09:44:35 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-20 10:08:44 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-20 10:18:45 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-20 10:28:47 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-20 10:38:48 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-20 10:48:49 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-20 10:58:50 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
