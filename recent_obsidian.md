@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-21 13:51:11 IDT_
+_Updated: 2026-08-21 14:21:13 IDT_
 
 
 ## Routine G
@@ -9,9 +9,9 @@ _Updated: 2026-08-21 13:51:11 IDT_
 - 2026-08-21 13:47:13 · 🟢 green · 7/7 categories · 312/312 items · sim 3523ms · 0 errors
 
 ## Routine H
-- 2026-08-20 01:44:02 · 🟢 green · 320/320 items click cleanly · 0 fails · 497863ms
 - 2026-08-20 13:46:36 · 🟢 green · 320/320 items click cleanly · 0 fails · 141974ms
 - 2026-08-21 01:57:12 · 🟢 green · 320/320 items click cleanly · 0 fails · 10136ms
+- 2026-08-21 13:57:28 · 🟢 green · 320/320 items click cleanly · 0 fails · 13093ms
 
 ## Routine I
 - 2026-08-19 11:48:16 · 🔴 red · 20 REGRESSED (1999 passed) · Error: .tools-legend-fab never became visible within 20s, so the popover could not be opened. That is an ENGINE/SEED state rather than a layout defect, and the numbers say which: {"exists":true,"cls": · e.g. v1800_tray_popovers_reachable.spec.ts,v527_loot_filter_card.spec.ts,v596_forge_consume_base.spec.ts
@@ -47,9 +47,9 @@ _Updated: 2026-08-21 13:51:11 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-21 12:51:00 · 🟡 warn · attention: I, L, R · 10/14 green · 137 fires today
 - 2026-08-21 13:21:05 · 🟡 warn · attention: I, L, R · 10/14 green · 141 fires today
 - 2026-08-21 13:51:11 · 🟡 warn · attention: I, L, R · 10/14 green · 150 fires today
+- 2026-08-21 14:21:13 · 🟡 warn · attention: I, L · 11/14 green · 156 fires today
 
 ## Routine Q
 - 2026-08-21 11:44:40 · 🟢 green · 0 auto-fixes · 0 alerts
@@ -57,11 +57,11 @@ _Updated: 2026-08-21 13:51:11 IDT_
 - 2026-08-21 13:44:40 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
-- 2026-08-21 08:03:16 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-08-21 10:03:32 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-08-21 12:05:06 · 🟡 warn · 1/7 smoke checks FAILED: field-manual-injects
+- 2026-08-21 14:05:20 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-21 13:24:19 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-21 13:34:20 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-21 13:44:21 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-21 13:54:25 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-21 14:04:26 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-21 14:14:27 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
