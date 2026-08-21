@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-22 01:55:22 IDT_
+_Updated: 2026-08-22 02:25:32 IDT_
 
 
 ## Routine G
@@ -9,9 +9,9 @@ _Updated: 2026-08-22 01:55:22 IDT_
 - 2026-08-21 19:47:55 · 🟢 green · 7/7 categories · 312/312 items · sim 3514ms · 0 errors
 
 ## Routine H
-- 2026-08-20 13:46:36 · 🟢 green · 320/320 items click cleanly · 0 fails · 141974ms
 - 2026-08-21 01:57:12 · 🟢 green · 320/320 items click cleanly · 0 fails · 10136ms
 - 2026-08-21 13:57:28 · 🟢 green · 320/320 items click cleanly · 0 fails · 13093ms
+- 2026-08-22 02:08:52 · 🟢 green · 320/320 items click cleanly · 0 fails · 506011ms
 
 ## Routine I
 - 2026-08-19 11:48:16 · 🔴 red · 20 REGRESSED (1999 passed) · Error: .tools-legend-fab never became visible within 20s, so the popover could not be opened. That is an ENGINE/SEED state rather than a layout defect, and the numbers say which: {"exists":true,"cls": · e.g. v1800_tray_popovers_reachable.spec.ts,v527_loot_filter_card.spec.ts,v596_forge_consume_base.spec.ts
@@ -47,9 +47,9 @@ _Updated: 2026-08-22 01:55:22 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-22 00:52:46 · 🟡 warn · attention: I, K, L · 10/14 green · 7 fires today
 - 2026-08-22 01:25:13 · 🟡 warn · attention: I, K, L · 10/14 green · 11 fires today
 - 2026-08-22 01:55:22 · 🟡 warn · attention: I, L · 11/14 green · 20 fires today
+- 2026-08-22 02:25:32 · 🟡 warn · attention: I, L · 11/14 green · 25 fires today
 
 ## Routine Q
 - 2026-08-21 23:44:44 · 🟢 green · 0 auto-fixes · 0 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-08-22 01:55:22 IDT_
 - 2026-08-21 22:06:57 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-22 01:29:32 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-22 01:39:42 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-22 01:49:50 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-22 01:59:53 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-22 02:09:57 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-22 02:20:02 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
