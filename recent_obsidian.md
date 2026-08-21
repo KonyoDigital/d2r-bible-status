@@ -1,12 +1,12 @@
 # Recent Routine History
 
-_Updated: 2026-08-21 19:22:07 IDT_
+_Updated: 2026-08-21 19:52:13 IDT_
 
 
 ## Routine G
-- 2026-08-21 01:45:26 · 🟢 green · 7/7 categories · 312/312 items · sim 3508ms · 0 errors
 - 2026-08-21 07:46:12 · 🟢 green · 7/7 categories · 312/312 items · sim 3507ms · 0 errors
 - 2026-08-21 13:47:13 · 🟢 green · 7/7 categories · 312/312 items · sim 3523ms · 0 errors
+- 2026-08-21 19:47:55 · 🟢 green · 7/7 categories · 312/312 items · sim 3514ms · 0 errors
 
 ## Routine H
 - 2026-08-20 13:46:36 · 🟢 green · 320/320 items click cleanly · 0 fails · 141974ms
@@ -24,9 +24,9 @@ _Updated: 2026-08-21 19:22:07 IDT_
 - 2026-08-21 10:00:12 · 🟢 green · 4 screenshots captured · 592K logs/J_20260821_100004/01_bosses.png 256K logs/J_20260821_100004/02_travincal_open.png 772K logs/J_20260821_100004/03_calc_shako.png 628K logs/J_20260821_100004/04_tz.png
 
 ## Routine K
-- 2026-08-21 01:45:17 · 🟢 green · load 2026ms · boss 95ms · sim2k 4515ms · best-of-3
 - 2026-08-21 07:45:38 · 🟢 green · load 1052ms · boss 71ms · sim2k 4510ms · best-of-3
 - 2026-08-21 13:45:38 · 🟢 green · skipped · system load 8.59 too high (>4)
+- 2026-08-21 19:45:39 · 🔴 red · all 3 runs failed · browserType.launch: Executable doesn't exist at /Users/konyo/Library/Caches/ms-playwright/chrom
 
 ## Routine L
 - 2026-08-19 10:30:10 · 🔴 red · 1 drift(s) detected · items=320 bosses=13
@@ -47,14 +47,14 @@ _Updated: 2026-08-21 19:22:07 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-21 18:21:59 · 🟡 warn · attention: I, L, T · 10/14 green · 194 fires today
 - 2026-08-21 18:52:03 · 🟡 warn · attention: I, L, T · 10/14 green · 199 fires today
 - 2026-08-21 19:22:07 · 🟡 warn · attention: I, L, T · 10/14 green · 203 fires today
+- 2026-08-21 19:52:13 · 🟡 warn · attention: I, K, L · 10/14 green · 212 fires today
 
 ## Routine Q
-- 2026-08-21 16:44:42 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-21 17:44:42 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-21 18:44:42 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-08-21 19:44:43 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
 - 2026-08-21 12:05:06 · 🟡 warn · 1/7 smoke checks FAILED: field-manual-injects
@@ -62,6 +62,6 @@ _Updated: 2026-08-21 19:22:07 IDT_
 - 2026-08-21 18:06:32 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-21 18:55:27 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-21 19:05:28 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-21 19:15:29 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-21 19:25:32 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-21 19:35:39 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-21 19:45:40 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
