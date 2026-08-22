@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-22 13:27:46 IDT_
+_Updated: 2026-08-22 13:57:50 IDT_
 
 
 ## Routine G
@@ -24,9 +24,9 @@ _Updated: 2026-08-22 13:27:46 IDT_
 - 2026-08-22 10:01:30 · 🟢 green · 4 screenshots captured · 592K logs/J_20260822_100002/01_bosses.png 12K logs/J_20260822_100002/02_travincal_open.png 788K logs/J_20260822_100002/03_calc_shako.png 688K logs/J_20260822_100002/04_tz.png
 
 ## Routine K
-- 2026-08-21 19:45:39 · 🔴 red · all 3 runs failed · browserType.launch: Executable doesn't exist at /Users/konyo/Library/Caches/ms-playwright/chrom
 - 2026-08-22 01:47:58 · 🟢 green · skipped · system load 119.57 too high (>4)
 - 2026-08-22 07:47:59 · 🟢 green · skipped · system load 25.52 too high (>4)
+- 2026-08-22 13:47:59 · 🟢 green · skipped · system load 32.10 too high (>4)
 
 ## Routine L
 - 2026-08-19 10:30:10 · 🔴 red · 1 drift(s) detected · items=320 bosses=13
@@ -47,14 +47,14 @@ _Updated: 2026-08-22 13:27:46 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-22 12:27:28 · 🟡 warn · attention: I, L · 11/14 green · 126 fires today
 - 2026-08-22 12:57:42 · 🟡 warn · attention: I, L, R · 10/14 green · 132 fires today
 - 2026-08-22 13:27:46 · 🟡 warn · attention: I, L, R · 10/14 green · 136 fires today
+- 2026-08-22 13:57:50 · 🟡 warn · attention: I, L, R · 10/14 green · 144 fires today
 
 ## Routine Q
-- 2026-08-22 10:47:17 · 🔴 red · 🔴 L Playwright timeout loading… · 1 auto-fixes · 1 alerts · fixed: [FIXED] L stderr → page.goto: Timeout 30000ms exceeded. (arc
 - 2026-08-22 11:47:18 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-22 12:47:19 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-08-22 13:47:19 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
 - 2026-08-22 04:48:05 · 🟡 warn · 1/7 smoke checks FAILED: field-manual-injects
@@ -62,6 +62,6 @@ _Updated: 2026-08-22 13:27:46 IDT_
 - 2026-08-22 12:54:25 · 🟡 warn · 1/7 smoke checks FAILED: field-manual-injects
 
 ## Routine S
-- 2026-08-22 13:03:40 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-22 13:13:43 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-22 13:23:45 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-22 13:33:48 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-22 13:43:52 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-22 13:53:55 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
