@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-22 12:27:31 IDT_
+_Updated: 2026-08-22 12:57:42 IDT_
 
 
 ## Routine G
@@ -47,21 +47,21 @@ _Updated: 2026-08-22 12:27:31 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-22 11:27:17 · 🟡 warn · attention: I, L, Q · 10/14 green · 117 fires today
 - 2026-08-22 11:57:21 · 🟡 warn · attention: I, L · 11/14 green · 122 fires today
 - 2026-08-22 12:27:28 · 🟡 warn · attention: I, L · 11/14 green · 126 fires today
+- 2026-08-22 12:57:42 · 🟡 warn · attention: I, L, R · 10/14 green · 132 fires today
 
 ## Routine Q
-- 2026-08-22 09:47:17 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-22 10:47:17 · 🔴 red · 🔴 L Playwright timeout loading… · 1 auto-fixes · 1 alerts · fixed: [FIXED] L stderr → page.goto: Timeout 30000ms exceeded. (arc
 - 2026-08-22 11:47:18 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-08-22 12:47:19 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
-- 2026-08-22 02:47:17 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-08-22 04:48:05 · 🟡 warn · 1/7 smoke checks FAILED: field-manual-injects
 - 2026-08-22 08:51:15 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
+- 2026-08-22 12:54:25 · 🟡 warn · 1/7 smoke checks FAILED: field-manual-injects
 
 ## Routine S
-- 2026-08-22 12:03:17 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-22 12:13:19 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-22 12:23:24 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-22 12:33:34 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-22 12:43:36 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-22 12:53:38 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
