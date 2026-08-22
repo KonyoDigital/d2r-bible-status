@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-22 04:25:44 IDT_
+_Updated: 2026-08-22 04:55:50 IDT_
 
 
 ## Routine G
@@ -47,21 +47,21 @@ _Updated: 2026-08-22 04:25:44 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-22 03:25:39 · 🟡 warn · attention: I, L · 11/14 green · 35 fires today
 - 2026-08-22 03:55:41 · 🟡 warn · attention: I, L · 11/14 green · 40 fires today
 - 2026-08-22 04:25:44 · 🟡 warn · attention: I, L · 11/14 green · 44 fires today
+- 2026-08-22 04:55:49 · 🟡 warn · attention: I, L, R · 10/14 green · 50 fires today
 
 ## Routine Q
-- 2026-08-22 01:47:06 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-22 02:47:07 · 🟢 green · 1 auto-fixes · 0 alerts · fixed: [FIXED] R was stale (4h since last fire) → kickstarted
 - 2026-08-22 03:47:08 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-08-22 04:47:09 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
-- 2026-08-21 20:06:44 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-08-21 22:06:57 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-08-22 02:47:17 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
+- 2026-08-22 04:48:05 · 🟡 warn · 1/7 smoke checks FAILED: field-manual-injects
 
 ## Routine S
-- 2026-08-22 04:00:23 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-22 04:10:24 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-22 04:20:26 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-22 04:30:28 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-22 04:40:30 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-22 04:50:32 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
