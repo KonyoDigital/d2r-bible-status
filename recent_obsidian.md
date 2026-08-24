@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-24 21:37:07 IDT_
+_Updated: 2026-08-24 22:07:12 IDT_
 
 
 ## Routine G
@@ -14,9 +14,9 @@ _Updated: 2026-08-24 21:37:07 IDT_
 - 2026-08-24 14:24:17 · 🟢 green · 320/320 items click cleanly · 0 fails · 10464ms
 
 ## Routine I
-- 2026-08-20 10:43:49 · 🟡 warn · 3 flaked (2043 passed) · Error: hovering the piece name raised no card — check the 430px anchor guard · e.g. v1625_board_quality_surfaces.spec.ts,v1733_css_tokens_resolve.spec.ts,v1789_inbox_resolves_non_decisions.spec.ts
 - 2026-08-21 10:40:56 · 🟡 warn · 2 flaked (2047 passed) · Error: hovering the piece name raised no card — check the 430px anchor guard · e.g. v1625_board_quality_surfaces.spec.ts,v1800_tray_popovers_reachable.spec.ts,v712_tv_board.spec.ts
 - 2026-08-22 18:56:43 · 🔴 red · 10 REGRESSED (2026 passed) · Error: page.goto: Test timeout of 180000ms exceeded. · e.g. 00_diagnostic.spec.ts,01_smoke.spec.ts,04_item_routing.spec.ts
+- 2026-08-24 21:41:45 · 🔴 red · 4 REGRESSED (2100 passed) · Error: expect(received).toBe(expected) // Object.is equality · e.g. v1800_tray_popovers_reachable.spec.ts,v1812_tab_strip_edge_fade.spec.ts,v1996_pixels_reach_the_ledger.spec.ts
 
 ## Routine J
 - 2026-08-22 10:01:30 · 🟢 green · 4 screenshots captured · 592K logs/J_20260822_100002/01_bosses.png 12K logs/J_20260822_100002/02_travincal_open.png 788K logs/J_20260822_100002/03_calc_shako.png 688K logs/J_20260822_100002/04_tz.png 
@@ -47,14 +47,14 @@ _Updated: 2026-08-24 21:37:07 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-24 20:36:54 · 🟡 warn · attention: I, L · 11/14 green · 218 fires today
 - 2026-08-24 21:07:01 · 🟡 warn · attention: I, L, R · 10/14 green · 225 fires today
 - 2026-08-24 21:37:07 · 🟡 warn · attention: I, L, R · 10/14 green · 229 fires today
+- 2026-08-24 22:07:12 · 🟡 warn · attention: I, L, R · 10/14 green · 235 fires today
 
 ## Routine Q
-- 2026-08-24 18:49:58 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-24 19:49:58 · 🟢 green · 1 auto-fixes · 0 alerts · fixed: [FIXED] I was stale (48h since last fire) → kickstarted
 - 2026-08-24 20:50:01 · 🟢 green · 1 auto-fixes · 0 alerts · fixed: [FIXED] I was stale (49h since last fire) → kickstarted
+- 2026-08-24 21:50:02 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
 - 2026-08-24 16:55:20 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-08-24 21:37:07 IDT_
 - 2026-08-24 20:56:47 · 🟡 warn · 1/7 smoke checks FAILED: field-manual-injects
 
 ## Routine S
-- 2026-08-24 21:16:09 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-24 21:26:11 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-24 21:36:14 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-24 21:46:15 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-24 21:56:16 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-24 22:06:18 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
