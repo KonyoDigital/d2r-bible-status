@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-25 10:10:16 IDT_
+_Updated: 2026-08-25 10:40:19 IDT_
 
 
 ## Routine G
@@ -14,9 +14,9 @@ _Updated: 2026-08-25 10:10:16 IDT_
 - 2026-08-25 02:26:38 · 🟢 green · 320/320 items click cleanly · 0 fails · 7588ms
 
 ## Routine I
-- 2026-08-21 10:40:56 · 🟡 warn · 2 flaked (2047 passed) · Error: hovering the piece name raised no card — check the 430px anchor guard · e.g. v1625_board_quality_surfaces.spec.ts,v1800_tray_popovers_reachable.spec.ts,v712_tv_board.spec.ts
 - 2026-08-22 18:56:43 · 🔴 red · 10 REGRESSED (2026 passed) · Error: page.goto: Test timeout of 180000ms exceeded. · e.g. 00_diagnostic.spec.ts,01_smoke.spec.ts,04_item_routing.spec.ts
 - 2026-08-24 21:41:45 · 🔴 red · 4 REGRESSED (2100 passed) · Error: expect(received).toBe(expected) // Object.is equality · e.g. v1800_tray_popovers_reachable.spec.ts,v1812_tab_strip_edge_fade.spec.ts,v1996_pixels_reach_the_ledger.spec.ts
+- 2026-08-25 10:21:36 · 🔴 red · 13 REGRESSED (2101 passed) · Error: expect(received).toBe(expected) // Object.is equality · e.g. v158_bottom_control_dock.spec.ts,v1614_game_art_icons.spec.ts,v1625_tab_quality_tints.spec.ts
 
 ## Routine J
 - 2026-08-23 10:00:14 · 🟢 green · 4 screenshots captured · 592K logs/J_20260823_100005/01_bosses.png 36K logs/J_20260823_100005/02_travincal_open.png 768K logs/J_20260823_100005/03_calc_shako.png 616K logs/J_20260823_100005/04_tz.png 
@@ -29,9 +29,9 @@ _Updated: 2026-08-25 10:10:16 IDT_
 - 2026-08-25 07:54:47 · 🟢 green · skipped · system load 6.12 too high (>4)
 
 ## Routine L
-- 2026-08-21 10:30:08 · 🔴 red · 1 drift(s) detected · items=320 bosses=13
 - 2026-08-23 10:30:08 · 🔴 red · 1 drift(s) detected · items=320 bosses=13
 - 2026-08-24 10:30:10 · 🔴 red · 1 drift(s) detected · items=320 bosses=13
+- 2026-08-25 10:30:07 · 🔴 red · 1 drift(s) detected · items=320 bosses=13
 
 ## Routine M
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
@@ -47,9 +47,9 @@ _Updated: 2026-08-25 10:10:16 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-25 09:10:11 · 🟡 warn · attention: I, L · 11/14 green · 98 fires today
 - 2026-08-25 09:40:14 · 🟡 warn · attention: I, L · 11/14 green · 102 fires today
 - 2026-08-25 10:10:16 · 🟡 warn · attention: I, L, T · 10/14 green · 109 fires today
+- 2026-08-25 10:40:19 · 🟡 warn · attention: I, L · 11/14 green · 116 fires today
 
 ## Routine Q
 - 2026-08-25 07:52:15 · 🟢 green · 0 auto-fixes · 0 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-08-25 10:10:16 IDT_
 - 2026-08-25 09:00:02 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-25 09:49:41 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-25 09:59:42 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-25 10:09:44 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-25 10:19:46 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-25 10:29:47 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-25 10:39:48 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
