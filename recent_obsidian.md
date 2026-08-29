@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-29 09:55:31 IDT_
+_Updated: 2026-08-29 10:25:37 IDT_
 
 
 ## Routine G
@@ -14,14 +14,14 @@ _Updated: 2026-08-29 09:55:31 IDT_
 - 2026-08-29 02:35:10 · 🟢 green · 320/320 items click cleanly · 0 fails · 14309ms
 
 ## Routine I
-- 2026-08-25 10:21:36 · 🔴 red · 13 REGRESSED (2101 passed) · Error: expect(received).toBe(expected) // Object.is equality · e.g. v158_bottom_control_dock.spec.ts,v1614_game_art_icons.spec.ts,v1625_tab_quality_tints.spec.ts
 - 2026-08-27 10:20:23 · 🔴 red · 8 REGRESSED (2146 passed) · Error: element count changed under a reset connection: 30262 vs baseline 30256 · e.g. v1694_visits_identity.spec.ts,v1800_tray_popovers_reachable.spec.ts,v1812_tab_strip_edge_fade.spec.ts
 - 2026-08-28 09:40:01 · 🔴 red · INCOMPLETE: suite died at [1136/2200] without reporting (pw exit 143) · Error: the ledger does not record the acceptance · e.g. v1756_inbox_ledger.spec.ts,v1800_tray_popovers_reachable.spec.ts,v1814_vault_routes_by_base_data.spec.ts
+- 2026-08-29 10:23:31 · 🔴 red · 17 REGRESSED (2181 passed) · Error: expect(received).toContain(expected) // indexOf · e.g. v137_item_tip_rich_cards.spec.ts,v1694_visits_identity.spec.ts,v1756_inbox_ledger.spec.ts
 
 ## Routine J
-- 2026-08-26 10:00:10 · 🟢 green · 4 screenshots captured · 576K logs/J_20260826_100005/01_bosses.png 656K logs/J_20260826_100005/02_travincal_open.png 756K logs/J_20260826_100005/03_calc_shako.png 592K logs/J_20260826_100005/04_tz.png 
 - 2026-08-27 10:00:14 · 🟢 green · 4 screenshots captured · 584K logs/J_20260827_100005/01_bosses.png 540K logs/J_20260827_100005/02_travincal_open.png 780K logs/J_20260827_100005/03_calc_shako.png 612K logs/J_20260827_100005/04_tz.png 
-- 2026-08-28 10:00:14 · 🟢 green · 4 screenshots captured · 600K logs/J_20260828_100005/01_bosses.png 532K logs/J_20260828_100005/02_travincal_open.png 796K logs/J_20260828_100005/03_calc_shako.png 596K logs/J_20260828_100005/04_tz.png
+- 2026-08-28 10:00:14 · 🟢 green · 4 screenshots captured · 600K logs/J_20260828_100005/01_bosses.png 532K logs/J_20260828_100005/02_travincal_open.png 796K logs/J_20260828_100005/03_calc_shako.png 596K logs/J_20260828_100005/04_tz.png 
+- 2026-08-29 10:00:11 · 🟢 green · 4 screenshots captured · 600K logs/J_20260829_100002/01_bosses.png 556K logs/J_20260829_100002/02_travincal_open.png 784K logs/J_20260829_100002/03_calc_shako.png 612K logs/J_20260829_100002/04_tz.png
 
 ## Routine K
 - 2026-08-28 20:05:41 · 🟢 green · skipped · system load 5.46 too high (>4)
@@ -47,14 +47,14 @@ _Updated: 2026-08-29 09:55:31 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-29 08:55:26 · 🟡 warn · attention: I, L · 11/14 green · 92 fires today
 - 2026-08-29 09:25:28 · 🟡 warn · attention: I, L · 11/14 green · 99 fires today
 - 2026-08-29 09:55:31 · 🟡 warn · attention: I, L · 11/14 green · 103 fires today
+- 2026-08-29 10:25:37 · 🟡 warn · attention: I, L · 11/14 green · 112 fires today
 
 ## Routine Q
-- 2026-08-29 06:59:38 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-29 07:59:40 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-29 08:59:40 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-08-29 09:59:41 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
 - 2026-08-29 05:17:27 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-08-29 09:55:31 IDT_
 - 2026-08-29 09:17:53 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-29 09:29:07 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-29 09:39:10 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-29 09:49:11 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-29 09:59:12 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-29 10:09:13 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-29 10:19:15 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
