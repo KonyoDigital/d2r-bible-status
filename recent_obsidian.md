@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-08-30 10:27:42 IDT_
+_Updated: 2026-08-30 10:57:44 IDT_
 
 
 ## Routine G
@@ -14,9 +14,9 @@ _Updated: 2026-08-30 10:27:42 IDT_
 - 2026-08-30 03:05:20 · 🟢 green · 320/320 items click cleanly · 0 fails · 9196ms
 
 ## Routine I
-- 2026-08-27 10:20:23 · 🔴 red · 8 REGRESSED (2146 passed) · Error: element count changed under a reset connection: 30262 vs baseline 30256 · e.g. v1694_visits_identity.spec.ts,v1800_tray_popovers_reachable.spec.ts,v1812_tab_strip_edge_fade.spec.ts
 - 2026-08-28 09:40:01 · 🔴 red · INCOMPLETE: suite died at [1136/2200] without reporting (pw exit 143) · Error: the ledger does not record the acceptance · e.g. v1756_inbox_ledger.spec.ts,v1800_tray_popovers_reachable.spec.ts,v1814_vault_routes_by_base_data.spec.ts
 - 2026-08-29 10:23:31 · 🔴 red · 17 REGRESSED (2181 passed) · Error: expect(received).toContain(expected) // indexOf · e.g. v137_item_tip_rich_cards.spec.ts,v1694_visits_identity.spec.ts,v1756_inbox_ledger.spec.ts
+- 2026-08-30 10:34:27 · 🔴 red · 29 REGRESSED (2174 passed) · Error: expect(received).toMatch(expected) · e.g. v1517_plain_words_first.spec.ts,v1520_sweep_review.spec.ts,v153_main_tab_header_unify.spec.ts
 
 ## Routine J
 - 2026-08-27 10:00:14 · 🟢 green · 4 screenshots captured · 584K logs/J_20260827_100005/01_bosses.png 540K logs/J_20260827_100005/02_travincal_open.png 780K logs/J_20260827_100005/03_calc_shako.png 612K logs/J_20260827_100005/04_tz.png 
@@ -29,9 +29,9 @@ _Updated: 2026-08-30 10:27:42 IDT_
 - 2026-08-30 08:36:51 · 🟢 green · load 1084ms · boss 70ms · sim2k 4507ms · best-of-3
 
 ## Routine L
-- 2026-08-27 10:30:07 · 🔴 red · 1 drift(s) detected · items=320 bosses=13
 - 2026-08-28 10:30:06 · 🔴 red · 1 drift(s) detected · items=320 bosses=13
 - 2026-08-29 10:30:06 · 🔴 red · 1 drift(s) detected · items=320 bosses=13
+- 2026-08-30 10:30:09 · 🔴 red · 1 drift(s) detected · items=320 bosses=13
 
 ## Routine M
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
@@ -47,14 +47,14 @@ _Updated: 2026-08-30 10:27:42 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-30 09:27:37 · 🟡 warn · attention: I, L · 11/14 green · 99 fires today
 - 2026-08-30 09:57:39 · 🟡 warn · attention: I, L · 11/14 green · 105 fires today
 - 2026-08-30 10:27:42 · 🟡 warn · attention: I, L · 11/14 green · 110 fires today
+- 2026-08-30 10:57:44 · 🟡 warn · attention: I, L, T · 10/14 green · 118 fires today
 
 ## Routine Q
-- 2026-08-30 07:29:44 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-30 08:29:45 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-08-30 09:29:45 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-08-30 10:29:45 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
 - 2026-08-30 05:50:22 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-08-30 10:27:42 IDT_
 - 2026-08-30 09:50:45 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-30 10:02:56 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-30 10:12:58 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-30 10:22:59 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-30 10:33:00 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-30 10:43:01 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-30 10:53:02 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
