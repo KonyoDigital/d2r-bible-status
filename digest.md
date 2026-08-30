@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-08-30 08:57:35 · pushed: 2026-08-30 08:57:35 IDT_
+_Snapshot generated: 2026-08-30 09:27:37 · pushed: 2026-08-30 09:27:37 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
 **Attention (red / warn / stale / overdue)**: I, L
-**Fires today**: 93 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Fires today**: 99 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -14,8 +14,8 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 |----|--------|----------|----------|-------|--------|---------|
 | I | 🔴 red | daily 09:00 | 2026-08-29 10:23:31 | 0/1 | on-schedule | 17 REGRESSED (2181 passed) · Error: expect(received).toContain(expected) // inde |
 | L | 🔴 red | daily 10:30 | 2026-08-29 10:30:06 | 0/3 | on-schedule | 1 drift(s) detected · items=320 bosses=13 |
-| P | 🟡 warn | every 30min | 2026-08-30 08:27:33 | 17/48 | on-schedule | attention: I, L, T · 11/14 green · 85 fires today |
-| G | 🟢 green | every 6h | 2026-08-30 03:20:58 | 1/4 | on-schedule | 7/7 categories · 312/312 items · sim 3507ms · 0 errors |
+| P | 🟡 warn | every 30min | 2026-08-30 08:57:35 | 18/48 | on-schedule | attention: I, L · 11/14 green · 93 fires today |
+| G | 🟢 green | every 6h | 2026-08-30 09:21:56 | 2/4 | on-schedule | 7/7 categories · 312/312 items · sim 3526ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-08-30 03:05:20 | 1/2 | on-schedule | 320/320 items click cleanly · 0 fails · 9196ms |
 | J | 🟢 green | daily 10:00 | 2026-08-29 10:00:11 | 0/1 | on-schedule | 4 screenshots captured · 600K logs/J_20260829_100002/01_bosses.png 556K logs/J_2 |
 | K | 🟢 green | every 6h | 2026-08-30 08:36:51 | 2/4 | on-schedule | load 1084ms · boss 70ms · sim2k 4507ms · best-of-3 |
@@ -24,8 +24,8 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
 | Q | 🟢 green | every 1h | 2026-08-30 08:29:45 | 9/24 | on-schedule | 0 auto-fixes · 0 alerts |
 | R | 🟢 green | every 2h | 2026-08-30 07:50:32 | 4/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-08-30 08:52:45 | 54/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
-| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-08-30 08:31:32 | 5/15 | on-schedule | E fired · severity=yellow · 4157/276 tok |
+| S | 🟢 green | every 10min | 2026-08-30 09:22:49 | 57/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| T | 🟢 green | 15×/day (A-F LLM proxy) | 2026-08-30 09:00:10 | 6/15 | on-schedule | B-AM fired · severity=yellow · 4106/258 tok |
 
 ## What each routine does
 
