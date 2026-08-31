@@ -1,12 +1,12 @@
 # Recent Routine History
 
-_Updated: 2026-08-31 09:44:25 IDT_
+_Updated: 2026-08-31 10:14:28 IDT_
 
 
 ## Routine G
-- 2026-08-30 15:22:29 · 🟢 green · 7/7 categories · 312/312 items · sim 3507ms · 0 errors
 - 2026-08-30 21:30:56 · 🟢 green · 7/7 categories · 312/312 items · sim 3681ms · 0 errors
 - 2026-08-31 03:45:59 · 🟢 green · 7/7 categories · 312/312 items · sim 3510ms · 0 errors
+- 2026-08-31 09:46:59 · 🟢 green · 7/7 categories · 312/312 items · sim 3528ms · 0 errors
 
 ## Routine H
 - 2026-08-30 03:05:20 · 🟢 green · 320/320 items click cleanly · 0 fails · 9196ms
@@ -19,9 +19,9 @@ _Updated: 2026-08-31 09:44:25 IDT_
 - 2026-08-30 10:34:27 · 🔴 red · 29 REGRESSED (2174 passed) · Error: expect(received).toMatch(expected) · e.g. v1517_plain_words_first.spec.ts,v1520_sweep_review.spec.ts,v153_main_tab_header_unify.spec.ts
 
 ## Routine J
-- 2026-08-27 10:00:14 · 🟢 green · 4 screenshots captured · 584K logs/J_20260827_100005/01_bosses.png 540K logs/J_20260827_100005/02_travincal_open.png 780K logs/J_20260827_100005/03_calc_shako.png 612K logs/J_20260827_100005/04_tz.png 
 - 2026-08-28 10:00:14 · 🟢 green · 4 screenshots captured · 600K logs/J_20260828_100005/01_bosses.png 532K logs/J_20260828_100005/02_travincal_open.png 796K logs/J_20260828_100005/03_calc_shako.png 596K logs/J_20260828_100005/04_tz.png 
-- 2026-08-29 10:00:11 · 🟢 green · 4 screenshots captured · 600K logs/J_20260829_100002/01_bosses.png 556K logs/J_20260829_100002/02_travincal_open.png 784K logs/J_20260829_100002/03_calc_shako.png 612K logs/J_20260829_100002/04_tz.png
+- 2026-08-29 10:00:11 · 🟢 green · 4 screenshots captured · 600K logs/J_20260829_100002/01_bosses.png 556K logs/J_20260829_100002/02_travincal_open.png 784K logs/J_20260829_100002/03_calc_shako.png 612K logs/J_20260829_100002/04_tz.png 
+- 2026-08-31 10:00:13 · 🟢 green · 4 screenshots captured · 596K logs/J_20260831_100004/01_bosses.png 548K logs/J_20260831_100004/02_travincal_open.png 792K logs/J_20260831_100004/03_calc_shako.png 604K logs/J_20260831_100004/04_tz.png
 
 ## Routine K
 - 2026-08-30 20:37:32 · 🟢 green · load 1097ms · boss 68ms · sim2k 4507ms · best-of-3
@@ -47,9 +47,9 @@ _Updated: 2026-08-31 09:44:25 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-08-31 08:44:21 · 🟡 warn · attention: I, L, T · 11/14 green · 85 fires today
 - 2026-08-31 09:14:23 · 🟡 warn · attention: I, L · 11/14 green · 94 fires today
 - 2026-08-31 09:44:25 · 🟡 warn · attention: I, L · 11/14 green · 99 fires today
+- 2026-08-31 10:14:28 · 🟡 warn · attention: I, L · 11/14 green · 105 fires today
 
 ## Routine Q
 - 2026-08-31 07:44:22 · 🟢 green · 0 auto-fixes · 0 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-08-31 09:44:25 IDT_
 - 2026-08-31 08:14:35 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-08-31 09:21:55 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-31 09:31:56 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-08-31 09:41:57 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-31 09:51:59 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-31 10:02:00 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-08-31 10:12:01 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
