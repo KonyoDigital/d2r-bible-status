@@ -1,12 +1,12 @@
 # Recent Routine History
 
-_Updated: 2026-09-16 23:14:52 IDT_
+_Updated: 2026-09-16 23:44:54 IDT_
 
 
 ## Routine G
-- 2026-09-16 05:32:10 · 🟢 green · 7/7 categories · 312/312 items · sim 3509ms · 0 errors
 - 2026-09-16 11:32:52 · 🟢 green · 7/7 categories · 312/312 items · sim 3512ms · 0 errors
 - 2026-09-16 17:33:36 · 🟢 green · 7/7 categories · 312/312 items · sim 3510ms · 0 errors
+- 2026-09-16 23:34:20 · 🟢 green · 7/7 categories · 312/312 items · sim 3515ms · 0 errors
 
 ## Routine H
 - 2026-08-30 03:05:20 · 🟢 green · 320/320 items click cleanly · 0 fails · 9196ms
@@ -37,9 +37,9 @@ _Updated: 2026-09-16 23:14:52 IDT_
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
 
 ## Routine N
-- 2026-09-13 23:30:07 · 🟢 green · rollup written (17250 bytes, 14 routines)
 - 2026-09-14 23:30:01 · 🟢 green · rollup written (17352 bytes, 14 routines)
 - 2026-09-15 23:30:00 · 🟢 green · rollup written (16688 bytes, 14 routines)
+- 2026-09-16 23:30:05 · 🟢 green · rollup written (16688 bytes, 14 routines)
 
 ## Routine O
 - 2026-05-27 01:14:04 · 🟢 green · shipped konyo_d2r_bible_v40.html -> FINAL.html
@@ -47,9 +47,9 @@ _Updated: 2026-09-16 23:14:52 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-09-16 22:14:47 · 🟡 warn · attention: H, I, J, K, L, T · 10/14 green · 225 fires today
 - 2026-09-16 22:44:49 · 🟡 warn · attention: H, I, J, K, L, T · 10/14 green · 229 fires today
 - 2026-09-16 23:14:52 · 🟡 warn · attention: H, I, J, K, L, T · 10/14 green · 236 fires today
+- 2026-09-16 23:44:54 · 🟡 warn · attention: H, I, J, K, L, T · 10/14 green · 243 fires today
 
 ## Routine Q
 - 2026-09-16 20:56:57 · 🟢 green · 0 auto-fixes · 0 alerts
@@ -57,11 +57,11 @@ _Updated: 2026-09-16 23:14:52 IDT_
 - 2026-09-16 22:56:58 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
-- 2026-09-16 17:18:32 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-09-16 19:19:37 · 🟡 warn · 1/7 smoke checks FAILED: field-manual-injects
 - 2026-09-16 21:19:48 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
+- 2026-09-16 23:20:07 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-09-16 22:51:51 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-09-16 23:01:52 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-09-16 23:11:53 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-09-16 23:21:54 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-09-16 23:31:55 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-09-16 23:41:56 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
