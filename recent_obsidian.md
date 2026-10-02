@@ -1,12 +1,12 @@
 # Recent Routine History
 
-_Updated: 2026-10-02 16:34:30 IDT_
+_Updated: 2026-10-02 17:04:32 IDT_
 
 
 ## Routine G
-- 2026-10-01 22:41:41 · 🟢 green · 7/7 categories · 312/312 items · sim 3509ms · 0 errors
 - 2026-10-02 04:42:27 · 🟢 green · 7/7 categories · 312/312 items · sim 3508ms · 0 errors
 - 2026-10-02 10:43:11 · 🟢 green · 7/7 categories · 312/312 items · sim 3507ms · 0 errors
+- 2026-10-02 16:44:21 · 🟢 green · 7/7 categories · 312/312 items · sim 3543ms · 0 errors
 
 ## Routine H
 - 2026-08-30 03:05:20 · 🟢 green · 320/320 items click cleanly · 0 fails · 9196ms
@@ -47,9 +47,9 @@ _Updated: 2026-10-02 16:34:30 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-10-02 15:34:26 · 🟡 warn · attention: H, I, J, K, L, T · 10/14 green · 158 fires today
 - 2026-10-02 16:04:28 · 🟡 warn · attention: H, I, J, K, L, T · 10/14 green · 162 fires today
 - 2026-10-02 16:34:30 · 🟡 warn · attention: H, I, J, K, L, T · 10/14 green · 169 fires today
+- 2026-10-02 17:04:32 · 🟡 warn · attention: H, I, J, K, L, T · 10/14 green · 174 fires today
 
 ## Routine Q
 - 2026-10-02 14:14:14 · 🟢 green · 0 auto-fixes · 0 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-10-02 16:34:30 IDT_
 - 2026-10-02 15:26:00 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-10-02 16:04:58 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-10-02 16:14:58 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: error connecting to api.g
-- 2026-10-02 16:25:03 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-10-02 16:35:04 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-10-02 16:45:05 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-10-02 16:55:06 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
