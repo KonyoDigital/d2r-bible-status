@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-10-04 01:07:38 IDT_
+_Updated: 2026-10-04 01:37:40 IDT_
 
 
 ## Routine G
@@ -47,21 +47,21 @@ _Updated: 2026-10-04 01:07:38 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-10-04 00:07:26 · 🟡 warn · attention: H, I, K, L, T · 10/14 green · 0 fires today
 - 2026-10-04 00:37:35 · 🟡 warn · attention: H, I, K, L, T · 10/14 green · 5 fires today
 - 2026-10-04 01:07:38 · 🟡 warn · attention: H, I, K, L, T · 10/14 green · 9 fires today
+- 2026-10-04 01:37:40 · 🟡 warn · attention: H, I, K, L, T · 10/14 green · 15 fires today
 
 ## Routine Q
-- 2026-10-03 22:14:22 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-10-03 23:14:24 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-10-04 00:14:29 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-10-04 01:14:29 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
-- 2026-10-03 17:28:25 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-10-03 19:28:35 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-10-03 21:28:45 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
+- 2026-10-04 01:30:40 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-10-04 00:39:12 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-10-04 00:49:28 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: HTTP 504: We couldn't res
-- 2026-10-04 00:59:29 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-10-04 01:09:59 · 🟡 warn · gh CLI not ready: Command '/opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100' timed out after 
+- 2026-10-04 01:20:00 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-10-04 01:30:01 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
