@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-10-06 00:53:46 · pushed: 2026-10-06 00:53:46 IDT_
+_Snapshot generated: 2026-10-06 01:23:51 · pushed: 2026-10-06 01:23:51 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
-**Attention (red / warn / stale / overdue)**: H, I, K, L, T
-**Fires today**: 7 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Attention (red / warn / stale / overdue)**: H, I, K, L, R, T
+**Fires today**: 12 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -14,7 +14,8 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 |----|--------|----------|----------|-------|--------|---------|
 | I | 🔴 red | daily 09:00 | 2026-08-30 10:34:27 | 0/1 | on-schedule | 29 REGRESSED (2174 passed) · Error: expect(received).toMatch(expected) · e.g. v1 |
 | L | 🔴 red | daily 10:30 | 2026-08-30 10:30:09 | 0/3 | on-schedule | 1 drift(s) detected · items=320 bosses=13 |
-| P | 🟡 warn | every 30min | 2026-10-06 00:23:42 | 1/48 | on-schedule | attention: H, I, K, L, T · 10/14 green · 3 fires today |
+| P | 🟡 warn | every 30min | 2026-10-06 00:53:46 | 2/48 | on-schedule | attention: H, I, K, L, T · 10/14 green · 7 fires today |
+| R | 🟡 warn | every 2h | 2026-10-06 00:54:27 | 1/12 | on-schedule | 1/7 smoke checks FAILED: field-manual-injects |
 | T | 🟡 warn | 15×/day (A-F LLM proxy) | 2026-10-05 21:00:01 | 0/15 | on-schedule | API call failed for B-PM: HTTP Error 400: Bad Request |
 | G | 🟢 green | every 6h | 2026-10-05 16:20:03 | 0/4 | on-schedule | 7/7 categories · 312/312 items · sim 3509ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-08-31 03:20:14 | 0/2 | ⏰ stale | 320/320 items click cleanly · 0 fails · 11105ms |
@@ -24,8 +25,7 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | N | 🟢 green | daily 23:30 | 2026-10-05 23:30:03 | 0/1 | on-schedule | rollup written (16690 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
 | Q | 🟢 green | every 1h | 2026-10-06 00:53:08 | 1/24 | on-schedule | 0 auto-fixes · 0 alerts |
-| R | 🟢 green | every 2h | 2026-10-05 22:53:19 | 0/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-10-06 00:43:44 | 5/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| S | 🟢 green | every 10min | 2026-10-06 01:13:56 | 8/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
 
 ## What each routine does
 
