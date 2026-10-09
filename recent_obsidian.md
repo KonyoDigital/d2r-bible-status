@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-10-09 16:06:30 IDT_
+_Updated: 2026-10-09 16:37:17 IDT_
 
 
 ## Routine G
@@ -47,9 +47,9 @@ _Updated: 2026-10-09 16:06:30 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-10-09 15:06:13 · 🟡 warn · attention: H, I, J, K, L, T · 10/14 green · 154 fires today
 - 2026-10-09 15:36:21 · 🟡 warn · attention: H, I, J, K, L, R, T · 9/14 green · 160 fires today
 - 2026-10-09 16:06:29 · 🟡 warn · attention: H, I, J, K, L, R, T · 9/14 green · 165 fires today
+- 2026-10-09 16:37:17 · 🟡 warn · attention: H, I, J, K, L, R, T · 9/14 green · 169 fires today
 
 ## Routine Q
 - 2026-10-09 13:57:43 · 🟢 green · 0 auto-fixes · 0 alerts
@@ -62,6 +62,6 @@ _Updated: 2026-10-09 16:06:30 IDT_
 - 2026-10-09 15:09:06 · 🟡 warn · 1/4 smoke checks FAILED: widget-present
 
 ## Routine S
-- 2026-10-09 15:39:41 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-10-09 15:49:47 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-10-09 15:59:51 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-10-09 16:11:34 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: error connecting to api.g
+- 2026-10-09 16:21:38 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-10-09 16:31:39 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
