@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-10-10 07:35:41 · pushed: 2026-10-10 07:35:41 IDT_
+_Snapshot generated: 2026-10-10 08:05:43 · pushed: 2026-10-10 08:05:43 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
 **Attention (red / warn / stale / overdue)**: H, I, K, L, Q, T
-**Fires today**: 35 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Fires today**: 40 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -14,7 +14,7 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 |----|--------|----------|----------|-------|--------|---------|
 | I | 🔴 red | daily 09:00 | 2026-08-30 10:34:27 | 0/1 | on-schedule | 29 REGRESSED (2174 passed) · Error: expect(received).toMatch(expected) · e.g. v1 |
 | L | 🔴 red | daily 10:30 | 2026-08-30 10:30:09 | 0/3 | on-schedule | 1 drift(s) detected · items=320 bosses=13 |
-| P | 🟡 warn | every 30min | 2026-10-10 03:32:39 | 6/48 | ⏰ stale | attention: H, I, K, L, T · 10/14 green · 30 fires today |
+| P | 🟡 warn | every 30min | 2026-10-10 07:35:41 | 7/48 | on-schedule | attention: H, I, K, L, Q, T · 9/14 green · 35 fires today |
 | Q | 🟡 warn | every 1h | 2026-10-10 07:35:40 | 4/24 | on-schedule | 🟡 routine_status.json stale (243min) — Routine P may be broken · 3 auto-fixes ·  |
 | T | 🟡 warn | 15×/day (A-F LLM proxy) | 2026-10-10 02:02:10 | 3/15 | ⏰ stale | API call failed for A: HTTP Error 400: Bad Request |
 | G | 🟢 green | every 6h | 2026-10-10 02:23:48 | 1/4 | on-schedule | 7/7 categories · 312/312 items · sim 3568ms · 0 errors |
@@ -24,8 +24,8 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | on-schedule | no patches needed |
 | N | 🟢 green | daily 23:30 | 2026-10-09 23:40:01 | 0/1 | on-schedule | rollup written (16767 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
-| R | 🟢 green | every 2h | 2026-10-10 03:02:39 | 2/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-10-10 07:29:55 | 19/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| R | 🟢 green | every 2h | 2026-10-10 07:35:51 | 3/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
+| S | 🟢 green | every 10min | 2026-10-10 07:59:58 | 22/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
 
 ## What each routine does
 
