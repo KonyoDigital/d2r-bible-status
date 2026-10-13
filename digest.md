@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-10-13 11:33:52 · pushed: 2026-10-13 11:33:52 IDT_
+_Snapshot generated: 2026-10-13 12:03:54 · pushed: 2026-10-13 12:03:54 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
 **Attention (red / warn / stale / overdue)**: G, H, I, J, K, L, T
-**Fires today**: 115 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Fires today**: 122 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -14,8 +14,8 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 |----|--------|----------|----------|-------|--------|---------|
 | I | 🔴 red | daily 09:00 | 2026-08-30 10:34:27 | 0/1 | ⏰ overdue | 29 REGRESSED (2174 passed) · Error: expect(received).toMatch(expected) · e.g. v1 |
 | L | 🔴 red | daily 10:30 | 2026-08-30 10:30:09 | 0/3 | ⏰ overdue | 1 drift(s) detected · items=320 bosses=13 |
-| P | 🟡 warn | every 30min | 2026-10-13 11:03:49 | 23/48 | on-schedule | attention: G, H, I, J, K, L, T · 10/14 green · 111 fires today |
-| T | 🟡 warn | 15×/day (A-F LLM proxy) | 2026-10-13 10:15:05 | 5/15 | on-schedule | API call failed for C: HTTP Error 400: Bad Request |
+| P | 🟡 warn | every 30min | 2026-10-13 11:33:52 | 24/48 | on-schedule | attention: G, H, I, J, K, L, T · 10/14 green · 115 fires today |
+| T | 🟡 warn | 15×/day (A-F LLM proxy) | 2026-10-13 11:58:07 | 7/15 | on-schedule | API call failed for A: HTTP Error 400: Bad Request |
 | G | 🟢 green | every 6h | 2026-10-11 12:26:17 | 0/4 | ⏰ stale | 7/7 categories · 312/312 items · sim 3537ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-08-31 03:20:14 | 0/2 | ⏰ stale | 320/320 items click cleanly · 0 fails · 11105ms |
 | J | 🟢 green | daily 10:00 | 2026-08-31 10:00:13 | 0/1 | ⏰ overdue | 4 screenshots captured · 596K logs/J_20260831_100004/01_bosses.png 548K logs/J_2 |
@@ -23,9 +23,9 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | M | 🟢 green | manual | 2026-05-26 22:36:56 | 0 | on-schedule | no patches needed |
 | N | 🟢 green | daily 23:30 | 2026-10-12 23:30:03 | 0/1 | on-schedule | rollup written (16395 bytes, 14 routines) |
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
-| Q | 🟢 green | every 1h | 2026-10-13 10:58:10 | 11/24 | on-schedule | 1 auto-fixes · 0 alerts · fixed: [FIXED] G was stale (46h since last fire) → kic |
+| Q | 🟢 green | every 1h | 2026-10-13 11:58:10 | 12/24 | on-schedule | 1 auto-fixes · 0 alerts · fixed: [FIXED] G was stale (47h since last fire) → kic |
 | R | 🟢 green | every 2h | 2026-10-13 10:04:55 | 6/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
-| S | 🟢 green | every 10min | 2026-10-13 11:32:28 | 70/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
+| S | 🟢 green | every 10min | 2026-10-13 12:02:32 | 73/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
 
 ## What each routine does
 
