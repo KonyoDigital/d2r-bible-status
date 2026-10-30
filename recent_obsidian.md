@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-10-30 22:47:25 IDT_
+_Updated: 2026-10-30 23:17:28 IDT_
 
 
 ## Routine G
@@ -47,21 +47,21 @@ _Updated: 2026-10-30 22:47:25 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-10-30 21:47:20 · 🟡 warn · attention: H, I, J, K, L · 11/14 green · 207 fires today
 - 2026-10-30 22:17:23 · 🟡 warn · attention: H, I, J, K, L, T · 10/14 green · 214 fires today
 - 2026-10-30 22:47:25 · 🟡 warn · attention: H, I, J, K, L, T · 10/14 green · 218 fires today
+- 2026-10-30 23:17:28 · 🟡 warn · attention: H, I, J, K, L, T · 10/14 green · 224 fires today
 
 ## Routine Q
-- 2026-10-30 20:17:11 · 🟡 warn · 🟡 routine_status.json stale (118min) — Routine P may be broken · 2 auto-fixes · 1 alerts · fixed: [FIXED] P was stale (1h since last fire) → kickstarted, [FIXED] Q was stale (2h since last fire) → kickstarted
 - 2026-10-30 21:17:11 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-10-30 22:17:11 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-10-30 23:17:12 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
-- 2026-10-30 15:28:10 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-10-30 17:28:24 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-10-30 21:06:41 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
+- 2026-10-30 23:06:52 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-10-30 22:23:55 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-10-30 22:33:56 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-10-30 22:43:57 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-10-30 22:53:58 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-10-30 23:04:00 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-10-30 23:14:01 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
