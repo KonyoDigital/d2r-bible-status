@@ -1,12 +1,12 @@
 # Recent Routine History
 
-_Updated: 2026-11-04 22:56:27 IDT_
+_Updated: 2026-11-04 23:42:13 IDT_
 
 
 ## Routine G
-- 2026-11-04 03:42:28 · 🟢 green · 7/7 categories · 312/312 items · sim 3571ms · 0 errors
 - 2026-11-04 11:01:39 · 🟢 green · 7/7 categories · 312/312 items · sim 3513ms · 0 errors
 - 2026-11-04 17:02:38 · 🟢 green · 7/7 categories · 312/312 items · sim 3552ms · 0 errors
+- 2026-11-04 23:04:02 · 🟢 green · 7/7 categories · 312/312 items · sim 3543ms · 0 errors
 
 ## Routine H
 - 2026-08-30 03:05:20 · 🟢 green · 320/320 items click cleanly · 0 fails · 9196ms
@@ -37,9 +37,9 @@ _Updated: 2026-11-04 22:56:27 IDT_
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
 
 ## Routine N
-- 2026-11-01 23:30:05 · 🟢 green · rollup written (17354 bytes, 14 routines)
 - 2026-11-02 23:30:02 · 🟢 green · rollup written (17354 bytes, 14 routines)
 - 2026-11-03 23:30:04 · 🟢 green · rollup written (17352 bytes, 14 routines)
+- 2026-11-04 23:30:04 · 🟢 green · rollup written (17164 bytes, 14 routines)
 
 ## Routine O
 - 2026-05-27 01:14:04 · 🟢 green · shipped konyo_d2r_bible_v40.html -> FINAL.html
@@ -47,9 +47,9 @@ _Updated: 2026-11-04 22:56:27 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-11-04 21:56:03 · 🟡 warn · attention: H, I, J, K, L · 11/14 green · 210 fires today
 - 2026-11-04 22:26:10 · 🟡 warn · attention: H, I, J, K, L · 11/14 green · 214 fires today
 - 2026-11-04 22:56:27 · 🟡 warn · attention: H, I, J, K, L · 11/14 green · 219 fires today
+- 2026-11-04 23:42:12 · 🟡 warn · attention: H, I, J, K, L · 11/14 green · 226 fires today
 
 ## Routine Q
 - 2026-11-04 20:54:07 · 🟢 green · 0 auto-fixes · 0 alerts
@@ -57,11 +57,11 @@ _Updated: 2026-11-04 22:56:27 IDT_
 - 2026-11-04 22:54:22 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
-- 2026-11-04 17:02:00 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-11-04 19:02:21 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 - 2026-11-04 21:02:38 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
+- 2026-11-04 23:03:13 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-11-04 22:26:14 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-11-04 22:36:17 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-11-04 22:46:20 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-11-04 22:56:35 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-11-04 23:06:37 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-11-04 23:32:19 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
