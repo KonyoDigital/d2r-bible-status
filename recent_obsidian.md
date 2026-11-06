@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-11-06 23:17:30 IDT_
+_Updated: 2026-11-06 23:47:32 IDT_
 
 
 ## Routine G
@@ -37,9 +37,9 @@ _Updated: 2026-11-06 23:17:30 IDT_
 - 2026-05-26 22:36:56 · 🟢 green · no patches needed
 
 ## Routine N
-- 2026-11-03 23:30:04 · 🟢 green · rollup written (17352 bytes, 14 routines)
 - 2026-11-04 23:30:04 · 🟢 green · rollup written (17164 bytes, 14 routines)
 - 2026-11-05 23:30:06 · 🟢 green · rollup written (17358 bytes, 14 routines)
+- 2026-11-06 23:30:05 · 🟢 green · rollup written (17253 bytes, 14 routines)
 
 ## Routine O
 - 2026-05-27 01:14:04 · 🟢 green · shipped konyo_d2r_bible_v40.html -> FINAL.html
@@ -47,14 +47,14 @@ _Updated: 2026-11-06 23:17:30 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-11-06 22:17:25 · 🟡 warn · attention: H, I, J, K, L · 11/14 green · 221 fires today
 - 2026-11-06 22:47:28 · 🟡 warn · attention: H, I, J, K, L · 11/14 green · 227 fires today
 - 2026-11-06 23:17:30 · 🟡 warn · attention: H, I, J, K, L · 11/14 green · 231 fires today
+- 2026-11-06 23:47:32 · 🟡 warn · attention: H, I, J, K, L · 11/14 green · 237 fires today
 
 ## Routine Q
-- 2026-11-06 20:43:35 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-11-06 21:43:35 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-11-06 22:43:35 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-11-06 23:43:36 · 🟢 green · 0 auto-fixes · 0 alerts
 
 ## Routine R
 - 2026-11-06 18:45:08 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-11-06 23:17:30 IDT_
 - 2026-11-06 22:45:28 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-11-06 22:55:53 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-11-06 23:05:54 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
-- 2026-11-06 23:15:55 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-11-06 23:25:56 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-11-06 23:35:58 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
+- 2026-11-06 23:45:59 · 🟢 green · polled issue #1 · processed 0 new comments · cursor (none)
