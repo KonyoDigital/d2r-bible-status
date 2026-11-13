@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-11-13 19:07:19 · pushed: 2026-11-13 19:07:19 IDT_
+_Snapshot generated: 2026-11-13 19:37:20 · pushed: 2026-11-13 19:37:20 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
 **Attention (red / warn / stale / overdue)**: H, I, J, K, L, S, T
-**Fires today**: 176 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Fires today**: 180 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -14,8 +14,8 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 |----|--------|----------|----------|-------|--------|---------|
 | I | 🔴 red | daily 09:00 | 2026-08-30 10:34:27 | 0/1 | ⏰ overdue | 29 REGRESSED (2174 passed) · Error: expect(received).toMatch(expected) · e.g. v1 |
 | L | 🔴 red | daily 10:30 | 2026-08-30 10:30:09 | 0/3 | ⏰ overdue | 1 drift(s) detected · items=320 bosses=13 |
-| P | 🟡 warn | every 30min | 2026-11-13 18:37:19 | 34/48 | on-schedule | attention: H, I, J, K, L, S, T · 9/14 green · 169 fires today |
-| S | 🟡 warn | every 10min | 2026-11-13 19:02:42 | 102/144 | on-schedule | gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible- |
+| P | 🟡 warn | every 30min | 2026-11-13 19:07:19 | 35/48 | on-schedule | attention: H, I, J, K, L, S, T · 9/14 green · 176 fires today |
+| S | 🟡 warn | every 10min | 2026-11-13 19:32:43 | 105/144 | on-schedule | gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible- |
 | T | 🟡 warn | 15×/day (A-F LLM proxy) | 2026-11-13 18:51:55 | 11/15 | on-schedule | API call failed for D: <urlopen error [Errno 8] nodename nor servname provided,  |
 | G | 🟢 green | every 6h | 2026-11-13 13:13:00 | 3/4 | on-schedule | 7/7 categories · 312/312 items · sim 3564ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-08-31 03:20:14 | 0/2 | ⏰ stale | 320/320 items click cleanly · 0 fails · 11105ms |
