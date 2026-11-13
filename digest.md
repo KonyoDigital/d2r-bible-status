@@ -1,10 +1,10 @@
 # D2R Bible System Digest
 
-_Snapshot generated: 2026-11-13 21:05:59 · pushed: 2026-11-13 21:05:59 IDT_
+_Snapshot generated: 2026-11-13 21:36:01 · pushed: 2026-11-13 21:36:01 IDT_
 
 **System health**: 🟡 NEEDS ATTENTION
-**Attention (red / warn / stale / overdue)**: H, I, J, K, L, S, T
-**Fires today**: 185 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
+**Attention (red / warn / stale / overdue)**: H, I, J, K, L, T
+**Fires today**: 189 (full-day 24/7 ideal 262 — the Mac sleeps, so a number below the ideal is EXPECTED and is NOT an underfire; judge health by per-routine staleness, not this ratio)
 
 ## Routines
 
@@ -14,8 +14,7 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 |----|--------|----------|----------|-------|--------|---------|
 | I | 🔴 red | daily 09:00 | 2026-08-30 10:34:27 | 0/1 | ⏰ overdue | 29 REGRESSED (2174 passed) · Error: expect(received).toMatch(expected) · e.g. v1 |
 | L | 🔴 red | daily 10:30 | 2026-08-30 10:30:09 | 0/3 | ⏰ overdue | 1 drift(s) detected · items=320 bosses=13 |
-| P | 🟡 warn | every 30min | 2026-11-13 19:37:20 | 36/48 | on-schedule | attention: H, I, J, K, L, S, T · 9/14 green · 180 fires today |
-| S | 🟡 warn | every 10min | 2026-11-13 20:10:40 | 107/144 | ⏰ stale | gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible- |
+| P | 🟡 warn | every 30min | 2026-11-13 21:05:59 | 37/48 | on-schedule | attention: H, I, J, K, L, S, T · 9/14 green · 185 fires today |
 | T | 🟡 warn | 15×/day (A-F LLM proxy) | 2026-11-13 21:00:01 | 12/15 | on-schedule | fetch failed: <urlopen error [Errno 8] nodename nor servname provided, or not kn |
 | G | 🟢 green | every 6h | 2026-11-13 13:13:00 | 3/4 | on-schedule | 7/7 categories · 312/312 items · sim 3564ms · 0 errors |
 | H | 🟢 green | every 12h | 2026-08-31 03:20:14 | 0/2 | ⏰ stale | 320/320 items click cleanly · 0 fails · 11105ms |
@@ -26,6 +25,7 @@ _`⏰ stale` = interval job overdue vs its own interval; `⏰ overdue` = daily j
 | O | 🟢 green | manual | 2026-05-27 13:13:21 | 0/3 | on-schedule | v42 shipped — command palette + runewords + recently-viewed + TZ countdown |
 | Q | 🟢 green | every 1h | 2026-11-13 19:50:26 | 18/24 | on-schedule | 0 auto-fixes · 0 alerts |
 | R | 🟢 green | every 2h | 2026-11-13 19:06:23 | 9/12 | on-schedule | all 7 smoke checks passed · live widget OK · screenshots saved |
+| S | 🟢 green | every 10min | 2026-11-13 21:35:48 | 110/144 | on-schedule | polled issue #1 · processed 0 new comments · cursor (none) |
 
 ## What each routine does
 
