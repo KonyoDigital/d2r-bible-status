@@ -1,6 +1,6 @@
 # Recent Routine History
 
-_Updated: 2026-11-13 17:37:17 IDT_
+_Updated: 2026-11-13 18:07:18 IDT_
 
 
 ## Routine G
@@ -47,14 +47,14 @@ _Updated: 2026-11-13 17:37:17 IDT_
 - 2026-05-27 13:13:21 · 🟢 green · v42 shipped — command palette + runewords + recently-viewed + TZ countdown
 
 ## Routine P
-- 2026-11-13 14:32:00 · 🟡 warn · attention: H, I, J, K, L, T · 10/14 green · 150 fires today
 - 2026-11-13 17:07:17 · 🟡 warn · attention: H, I, J, K, L, S, T · 9/14 green · 156 fires today
 - 2026-11-13 17:37:17 · 🟡 warn · attention: H, I, J, K, L, S, T · 9/14 green · 160 fires today
+- 2026-11-13 18:07:18 · 🟡 warn · attention: H, I, J, K, L, S, T · 9/14 green · 165 fires today
 
 ## Routine Q
-- 2026-11-13 12:45:10 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-11-13 13:45:10 · 🟢 green · 0 auto-fixes · 0 alerts
 - 2026-11-13 14:45:11 · 🟢 green · 0 auto-fixes · 0 alerts
+- 2026-11-13 17:50:25 · 🟢 green · 1 auto-fixes · 0 alerts · fixed: [FIXED] Q was stale (3h since last fire) → kickstarted
 
 ## Routine R
 - 2026-11-13 11:00:37 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
@@ -62,6 +62,6 @@ _Updated: 2026-11-13 17:37:17 IDT_
 - 2026-11-13 17:06:13 · 🟢 green · all 7 smoke checks passed · live widget OK · screenshots saved
 
 ## Routine S
-- 2026-11-13 17:12:40 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: error connecting to api.g
-- 2026-11-13 17:22:40 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: error connecting to api.g
-- 2026-11-13 17:32:40 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: error connecting to api.g
+- 2026-11-13 17:42:41 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: error connecting to api.g
+- 2026-11-13 17:52:41 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: error connecting to api.g
+- 2026-11-13 18:02:41 · 🟡 warn · gh CLI not ready: /opt/homebrew/bin/gh issue list --repo KonyoDigital/d2r-bible-status --state open --json number,title --limit 100: error connecting to api.g
